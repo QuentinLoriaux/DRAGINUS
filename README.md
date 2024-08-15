@@ -1,25 +1,14 @@
-# DRAGIN
+Instructions mostly copied from DRAGIN's repository.
 
-**📢 News: this work has been accepted at the ACL 2024 main conference!**
+# DRAGINUS
 
-**If you find our project interesting or helpful, we would appreciate it if you could give us a star! Your support is a tremendous encouragement to us!**
+## Specific to DRAGINUS
 
+This fork of DRAGIN uses substitutes of sentences and produces data with them in order to decide whether to activate or not the retrieval. The only different file from the original repository is generate.py, it contains separated functions to compute values such as probability, entropy and attention.
 
-
-**Welcome to the official GitHub repository for our ACL 2024 Main Conference Full paper: DRAGIN** (Dynamic Retrieval Augmented Generation based on the real-time Information Needs of LLMs), a dynamic RAG framework designed to enhance the text generation capabilities of Large Language Models (LLMs) by intelligently deciding when and what to retrieve during the generation process.
-
-## Overview
-
-DRAGIN addresses the limitations of current dynamic RAG (Retrieval Augmented Generation) methods by introducing a novel approach for real-time decision-making on retrieval timing and content. Our framework is built upon two core components:
-
-- **RIND (Real-time Information Needs Detection):** A mechanism that determines the optimal moment for activation of the retrieval module by assessing the LLM's uncertainty, the importance of each token, and the semantic significance within the generated content.
-- **QFS (Query Formulation based on Self-attention):** An innovative method for crafting retrieval queries that leverages the LLM's self-attention mechanism, allowing for a comprehensive understanding of the context.
-
-## Key Features
-
-- **Dynamic Retrieval:** DRAGIN actively decides when and what to retrieve, based on the LLM's real-time information needs, significantly improving the relevance and accuracy of generated text.
-- **Lightweight Integration:** Designed as a lightweight framework, DRAGIN can be seamlessly incorporated into any Transformer-based LLM without the need for additional training, fine-tuning, or prompt engineering.
-- **Enhanced Text Generation:** By addressing the when and what of retrieval more effectively, DRAGIN elevates the quality of LLM-generated text, making it more informative, contextually relevant, and coherent.
+- The default substitutes are negations, you can replace them by keyword modifications or else by commenting/uncommenting the code in the **generate_full** function of generate.py.
+- In the **negate** function of generate.py, you can change the **tolerance** : lower means we accept more differences between a sentence and it's variant.
+- feel free to ask questions and if I have time, I might update config files and add the above parameters there.
 
 ## Install environment
 
@@ -204,3 +193,5 @@ The elements in `details.txt` are as follows:
     "F1": "F1 result"
 }
 ```
+
+

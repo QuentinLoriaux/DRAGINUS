@@ -1,0 +1,13 @@
+{"qid": "q_10839", "final_pred": "Poland. ", "EM": "0", "F1": "0"}
+{"qid": "q_10840", "final_pred": "Granada", "EM": "0", "F1": "0"}
+{"qid": "q_10841", "final_pred": "1624", "EM": "0", "F1": "0"}
+{"qid": "q_10844", "final_pred": "George Townshend. ", "EM": "0", "F1": "0"}
+{"qid": "q_10846", "final_pred": "Blackjack and Blackjack II.\n", "EM": "0", "F1": "0.4"}
+{"qid": "q_10847", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_10850", "final_pred": "3 years", "EM": "0", "F1": "0"}
+{"qid": "q_10851", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_10852", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_10853", "final_pred": "World War I", "EM": "0", "F1": "0"}
+{"qid": "q_10854", "final_pred": "Greasy Neale", "EM": "1", "F1": "1.0"}
+{"qid": "q_10856", "final_pred": "26 years and 5 months", "EM": "0", "F1": "0"}
+{"qid": "q_10857", "final_pred": "115", "EM": "1", "F1": "1.0"}

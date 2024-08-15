@@ -1,0 +1,21 @@
+{
+    "model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
+    "method": "dragin",
+    "dataset": "2wikimultihopqa",
+    "data_path": "../data/2wikimultihopqa",
+    "fewshot": 6,
+    "sample": 1000,
+    "shuffle": false,
+    "generate_max_length": 64,
+    "query_formulation": "real_words",
+    "retrieve_keep_top_k": 25,
+    "output_dir": "../result/llama2_7b_chat_2wikimultihopqa",
+    "retriever": "SGPT",
+    "sgpt_model_name_or_path": "Muennighoff/SGPT-1.3B-weightedmean-msmarco-specb-bitfit",
+    "sgpt_encode_file_path": "../sgpt/encode_result",
+    "passage_file": "../data/dpr/psgs_w100.tsv",
+    "retrieve_topk": 3,
+    "hallucination_threshold": 1.0,
+    "check_real_words": true,
+    "use_counter": true
+}

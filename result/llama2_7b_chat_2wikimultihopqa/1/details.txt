@@ -1,0 +1,300 @@
+{"qid": "48c8f7f80bdd11eba7f7acde48001122", "final_pred": "Pierre Poir\u00e9", "EM": "0", "F1": "0.5"}
+{"qid": "aa0370860bdb11eba7f7acde48001122", "final_pred": "Chiba, Japan", "EM": "0", "F1": "0.5"}
+{"qid": "a5bed06e0bdc11eba7f7acde48001122", "final_pred": "Kingdom of Jerusalem.\n", "EM": "0", "F1": "0"}
+{"qid": "d13381ae08da11ebbd9cac1f6bf848b6", "final_pred": "Viktoriya Zeynep G\u00fcne\u015f", "EM": "1", "F1": "1.0"}
+{"qid": "2294ccfc0bdc11eba7f7acde48001122", "final_pred": "August 8, 1975", "EM": "1", "F1": "1.0"}
+{"qid": "e8d8f7200bdd11eba7f7acde48001122", "final_pred": "New York", "EM": "0", "F1": "0"}
+{"qid": "c2ccbd23087811ebbd67ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "cf06000e094611ebbdaeac1f6bf848b6", "final_pred": "Out Of The Rain", "EM": "0", "F1": "0"}
+{"qid": "844fe30c0bda11eba7f7acde48001122", "final_pred": "19 June 2013", "EM": "0", "F1": "0"}
+{"qid": "c32ac4ca0bda11eba7f7acde48001122", "final_pred": "Stockholm, Sweden", "EM": "0", "F1": "0"}
+{"qid": "6021e2d80bde11eba7f7acde48001122", "final_pred": "Netherlands", "EM": "1", "F1": "1.0"}
+{"qid": "8eaa7497095c11ebbdaeac1f6bf848b6", "final_pred": "Sathyavan Savithri", "EM": "0", "F1": "0"}
+{"qid": "b5b63b160bdb11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "4b1b91720bde11eba7f7acde48001122", "final_pred": "Korean", "EM": "0", "F1": "0"}
+{"qid": "5bf96996085111ebbd58ac1f6bf848b6", "final_pred": "1932", "EM": "0", "F1": "0"}
+{"qid": "0458640a0bdd11eba7f7acde48001122", "final_pred": "cancer", "EM": "0", "F1": "0"}
+{"qid": "94dd39d80bdd11eba7f7acde48001122", "final_pred": "Reims, France", "EM": "0", "F1": "0"}
+{"qid": "abc68a180bd911eba7f7acde48001122", "final_pred": "16 October 1947", "EM": "0", "F1": "0"}
+{"qid": "363279db08d011ebbd95ac1f6bf848b6", "final_pred": "25 August 1893, which is earlier than 25 July 19", "EM": "0", "F1": "0"}
+{"qid": "bbccb00a08c211ebbd8cac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5c77f7ed08ac11ebbd82ac1f6bf848b6", "final_pred": "Whitehorse Manor Junior School", "EM": "0", "F1": "0"}
+{"qid": "b4e780a5088f11ebbd72ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "97ce0ec00baf11ebab90acde48001122", "final_pred": "Louis XIV of France.\n", "EM": "0", "F1": "0.22222222222222224"}
+{"qid": "69a7e9ca08e011ebbda1ac1f6bf848b6", "final_pred": "27 August 1893.\n", "EM": "0", "F1": "0"}
+{"qid": "04a544a40bde11eba7f7acde48001122", "final_pred": "15 April", "EM": "0", "F1": "0"}
+{"qid": "4f49c369098d11ebbdb0ac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "a982212e08a311ebbd7bac1f6bf848b6", "final_pred": "I Am Breathing", "EM": "0", "F1": "0"}
+{"qid": "c30b9f8108b211ebbd85ac1f6bf848b6", "final_pred": "Levon Julfalakyan", "EM": "0", "F1": "0"}
+{"qid": "a08505d20bdc11eba7f7acde48001122", "final_pred": "John Parisot", "EM": "0", "F1": "0.5"}
+{"qid": "982f8e440bdb11eba7f7acde48001122", "final_pred": "1886", "EM": "1", "F1": "1.0"}
+{"qid": "5142f59e0bda11eba7f7acde48001122", "final_pred": "Belgium", "EM": "0", "F1": "0"}
+{"qid": "041581680bdc11eba7f7acde48001122", "final_pred": "Manchester, England, UK", "EM": "0", "F1": "0.5"}
+{"qid": "ad43c9300bdb11eba7f7acde48001122", "final_pred": "Scotland", "EM": "0", "F1": "0"}
+{"qid": "5839dbac0bde11eba7f7acde48001122", "final_pred": "American", "EM": "1", "F1": "1.0"}
+{"qid": "22d296de0bde11eba7f7acde48001122", "final_pred": "Moscow, Soviet Union", "EM": "0", "F1": "0"}
+{"qid": "ae85fcce089411ebbd75ac1f6bf848b6", "final_pred": "Santa Fe Uprising", "EM": "0", "F1": "0"}
+{"qid": "c01a2fa8087111ebbd63ac1f6bf848b6", "final_pred": "Adam's Rib", "EM": "1", "F1": "1.0"}
+{"qid": "9c3ff1040bdb11eba7f7acde48001122", "final_pred": "Hungary", "EM": "0", "F1": "0"}
+{"qid": "81ca57e60bdc11eba7f7acde48001122", "final_pred": "19 June 2013.\n\n2. Japan - Japan is a fascin", "EM": "0", "F1": "0"}
+{"qid": "dc6985ea096211ebbdafac1f6bf848b6", "final_pred": "Noerr", "EM": "1", "F1": "1.0"}
+{"qid": "30ee74680bde11eba7f7acde48001122", "final_pred": "Florence, Italy", "EM": "0", "F1": "0"}
+{"qid": "f491b33e0bda11eba7f7acde48001122", "final_pred": "1963.\n\n1. \"The History of the World\" by John Henry Clark", "EM": "0", "F1": "0"}
+{"qid": "5b637e060bb011ebab90acde48001122", "final_pred": "Queen Silvia of Sweden", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "1a2188840bb011ebab90acde48001122", "final_pred": "Princess Helena Of The United Kingdom", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "d1fd9cbe0bdc11eba7f7acde48001122", "final_pred": "French New Wave film movement", "EM": "0", "F1": "0"}
+{"qid": "909aa544086411ebbd5eac1f6bf848b6", "final_pred": "27 August 1895.\n", "EM": "0", "F1": "0"}
+{"qid": "47806bc308c411ebbd8eac1f6bf848b6", "final_pred": "23 April 2010", "EM": "0", "F1": "0"}
+{"qid": "f6e2b9280bdd11eba7f7acde48001122", "final_pred": "F. Scott Fitzgerald.\n", "EM": "0", "F1": "0"}
+{"qid": "ce5bfc90086c11ebbd61ac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "e6688a7e0baf11ebab90acde48001122", "final_pred": "Frederick II of Sicily", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "3e3cd62a086211ebbd5dac1f6bf848b6", "final_pred": "Holm J\u00f8lsen", "EM": "1", "F1": "1.0"}
+{"qid": "9b2ccd4e088b11ebbd6fac1f6bf848b6", "final_pred": "21 December 1963.\n", "EM": "0", "F1": "0"}
+{"qid": "49ec1ade0bdd11eba7f7acde48001122", "final_pred": "Berlin, Germany", "EM": "0", "F1": "0"}
+{"qid": "beda709d090e11ebbdadac1f6bf848b6", "final_pred": "Tiger Of The Seven Seas", "EM": "0", "F1": "0"}
+{"qid": "7d94382208d011ebbd95ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "e4e02a240bda11eba7f7acde48001122", "final_pred": "John Feiss", "EM": "0", "F1": "0"}
+{"qid": "49a5c36b086111ebbd5dac1f6bf848b6", "final_pred": "25 August 2013", "EM": "0", "F1": "0"}
+{"qid": "fa58491e084b11ebbd56ac1f6bf848b6", "final_pred": "H", "EM": "0", "F1": "0"}
+{"qid": "8223ad8e097811ebbdb0ac1f6bf848b6", "final_pred": "The Beginning Or The End", "EM": "1", "F1": "1.0"}
+{"qid": "8f8aaf0b088711ebbd6dac1f6bf848b6", "final_pred": "Aneta Hlad\u00edkov\u00e1", "EM": "1", "F1": "1.0"}
+{"qid": "c9b515020bda11eba7f7acde48001122", "final_pred": "Athens, Greece", "EM": "0", "F1": "0"}
+{"qid": "652d7dac0bdc11eba7f7acde48001122", "final_pred": "Germany", "EM": "0", "F1": "0"}
+{"qid": "2b7db0200bde11eba7f7acde48001122", "final_pred": "1793.\n", "EM": "0", "F1": "0"}
+{"qid": "437f3b9a0bdd11eba7f7acde48001122", "final_pred": "Bristol, England", "EM": "0", "F1": "0"}
+{"qid": "37c6703a0bdc11eba7f7acde48001122", "final_pred": "1960", "EM": "0", "F1": "0"}
+{"qid": "e7f8e98808a311ebbd7cac1f6bf848b6", "final_pred": "A Couch In New York", "EM": "1", "F1": "1.0"}
+{"qid": "618527ff089911ebbd77ac1f6bf848b6", "final_pred": "The Love Charm", "EM": "0", "F1": "0"}
+{"qid": "86b7e74808e211ebbda4ac1f6bf848b6", "final_pred": "Under the Hawthorn Tree (film).\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "68cb7bc00bdd11eba7f7acde48001122", "final_pred": "1905.\n", "EM": "0", "F1": "0"}
+{"qid": "74207b920bdd11eba7f7acde48001122", "final_pred": "Salt Lake City, Utah, USA", "EM": "0", "F1": "0"}
+{"qid": "00c727580bde11eba7f7acde48001122", "final_pred": "24 August 1775.\n", "EM": "0", "F1": "0"}
+{"qid": "4e84cd2d08bb11ebbd88ac1f6bf848b6", "final_pred": "Justin Paul", "EM": "0", "F1": "0"}
+{"qid": "dc68effd08d811ebbd9cac1f6bf848b6", "final_pred": "Marco De Luigi", "EM": "1", "F1": "1.0"}
+{"qid": "c21fb3ab08a711ebbd7fac1f6bf848b6", "final_pred": "Guns And Guitars", "EM": "1", "F1": "1.0"}
+{"qid": "33b0c274087211ebbd64ac1f6bf848b6", "final_pred": "The Falcon in San Francisco", "EM": "1", "F1": "1.0"}
+{"qid": "77f41ab20bb011ebab90acde48001122", "final_pred": "Robert Devereux, 2nd Earl of Essex.\n", "EM": "0", "F1": "0.30769230769230765"}
+{"qid": "b1b78c480bdd11eba7f7acde48001122", "final_pred": "Maria Montessori", "EM": "0", "F1": "0"}
+{"qid": "09762e08087311ebbd66ac1f6bf848b6", "final_pred": "Jayam Manade", "EM": "0", "F1": "0"}
+{"qid": "f1145dc6084f11ebbd56ac1f6bf848b6", "final_pred": "Monster a Go-Go", "EM": "1", "F1": "1.0"}
+{"qid": "3c68e44c0bdc11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "027970120bdc11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "eebc066c08c411ebbd8eac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "94873b220bd911eba7f7acde48001122", "final_pred": "London, England", "EM": "0", "F1": "0"}
+{"qid": "20ddd33208ca11ebbd92ac1f6bf848b6", "final_pred": "Wies\u0142aw Perszke", "EM": "1", "F1": "1.0"}
+{"qid": "26b866e6085c11ebbd5cac1f6bf848b6", "final_pred": "1916 (Budd Boetticher).\n", "EM": "0", "F1": "0"}
+{"qid": "ece1bdae0bdb11eba7f7acde48001122", "final_pred": "British", "EM": "1", "F1": "1.0"}
+{"qid": "0a630db408c211ebbd8bac1f6bf848b6", "final_pred": "Edge Of Doom", "EM": "0", "F1": "0"}
+{"qid": "6e5e9de109af11ebbdb0ac1f6bf848b6", "final_pred": "1990-Sick (Get 'Em All).\nQuestion", "EM": "0", "F1": "0.888888888888889"}
+{"qid": "2fd031c00bde11eba7f7acde48001122", "final_pred": "State University of New York at Purchase", "EM": "1", "F1": "1.0"}
+{"qid": "09b7d46a0bda11eba7f7acde48001122", "final_pred": "27 August 17", "EM": "0", "F1": "0"}
+{"qid": "c5601df108a411ebbd7dac1f6bf848b6", "final_pred": "Lemonade Joe", "EM": "0", "F1": "0"}
+{"qid": "61d1f6900bde11eba7f7acde48001122", "final_pred": "26 November 1160", "EM": "0", "F1": "0"}
+{"qid": "c3c76b780bd911eba7f7acde48001122", "final_pred": "12 May 1954", "EM": "0", "F1": "0"}
+{"qid": "2e13ff240bde11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "c40d35580bda11eba7f7acde48001122", "final_pred": "Germany", "EM": "0", "F1": "0"}
+{"qid": "2cf578340bde11eba7f7acde48001122", "final_pred": "July 20, 1797", "EM": "0", "F1": "0"}
+{"qid": "79675c6e0bd911eba7f7acde48001122", "final_pred": "Kazakhstan", "EM": "0", "F1": "0"}
+{"qid": "30885e540bb011ebab90acde48001122", "final_pred": "Prince Johann Adam Andreas von Liechtenstein", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "6e4854a00bde11eba7f7acde48001122", "final_pred": "Lebanon", "EM": "0", "F1": "0"}
+{"qid": "421b26d80bb011ebab90acde48001122", "final_pred": "Empress Zita Of Bourbon-Parma", "EM": "0", "F1": "0.2"}
+{"qid": "140fbeda08c611ebbd90ac1f6bf848b6", "final_pred": "January 6, 1963", "EM": "0", "F1": "0"}
+{"qid": "43eb7b380bde11eba7f7acde48001122", "final_pred": "Belfast, Northern Ireland", "EM": "0", "F1": "0.8"}
+{"qid": "e5d895ee0bdd11eba7f7acde48001122", "final_pred": "Helsinki, Finland", "EM": "0", "F1": "0"}
+{"qid": "286321f00bb011ebab90acde48001122", "final_pred": "Fadrique V\u00e9lez De Guevara, Marquis Of Campo Real", "EM": "0", "F1": "0.5"}
+{"qid": "5d000d7908be11ebbd8aac1f6bf848b6", "final_pred": "The Rebel Set", "EM": "0", "F1": "0"}
+{"qid": "5e60d12e0bda11eba7f7acde48001122", "final_pred": "unknown", "EM": "0", "F1": "0"}
+{"qid": "d133120e0bdd11eba7f7acde48001122", "final_pred": "The Bronx, New York City, New York, USA", "EM": "0", "F1": "0.5454545454545454"}
+{"qid": "5eff3f9a0bd911eba7f7acde48001122", "final_pred": "Nanjing, China", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "27987581093611ebbdaeac1f6bf848b6", "final_pred": "Niyoti", "EM": "1", "F1": "1.0"}
+{"qid": "87154f1e0bda11eba7f7acde48001122", "final_pred": "Poland", "EM": "0", "F1": "0.5"}
+{"qid": "a6d861000bdb11eba7f7acde48001122", "final_pred": "David Brooks", "EM": "0", "F1": "0"}
+{"qid": "5d8037920bb011ebab90acde48001122", "final_pred": "Queen Xuan", "EM": "0", "F1": "0"}
+{"qid": "6e5f2a2e085d11ebbd5cac1f6bf848b6", "final_pred": "28 August 1991.\n", "EM": "0", "F1": "0"}
+{"qid": "1d4139960bde11eba7f7acde48001122", "final_pred": "Invercargill, Southland, New Zealand", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "eec16bb008c011ebbd8aac1f6bf848b6", "final_pred": "The Great Flamarion", "EM": "1", "F1": "1.0"}
+{"qid": "4039b1be08d511ebbd98ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "8ba63ce8098f11ebbdb0ac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a5718140bde11eba7f7acde48001122", "final_pred": "Mumbai, India", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "ce4f63cc0bdc11eba7f7acde48001122", "final_pred": "10 March 2023.\n\n1. \"The Art of Animation:", "EM": "0", "F1": "0"}
+{"qid": "671322a00bde11eba7f7acde48001122", "final_pred": "19 June 2013.\n\n2. Japan - From bustling cities", "EM": "0", "F1": "0"}
+{"qid": "231d667c0bda11eba7f7acde48001122", "final_pred": "American", "EM": "0", "F1": "0"}
+{"qid": "9f62be2008ac11ebbd83ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "f86dd5180bdb11eba7f7acde48001122", "final_pred": "Mexico City, Mexico", "EM": "0", "F1": "0.4"}
+{"qid": "c9eb430908c311ebbd8dac1f6bf848b6", "final_pred": "Befikre", "EM": "1", "F1": "1.0"}
+{"qid": "39ca32a80bdd11eba7f7acde48001122", "final_pred": "August 15, 1769", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "a02009fa085c11ebbd5cac1f6bf848b6", "final_pred": "Toolbox Murders", "EM": "1", "F1": "1.0"}
+{"qid": "047992200bdc11eba7f7acde48001122", "final_pred": "Hollywood, California, USA", "EM": "0", "F1": "0.8"}
+{"qid": "a5f0b646088b11ebbd6fac1f6bf848b6", "final_pred": "April 7, 1977", "EM": "0", "F1": "0"}
+{"qid": "befbd60c0bdd11eba7f7acde48001122", "final_pred": "Harvard University", "EM": "1", "F1": "1.0"}
+{"qid": "ca4b497d08c511ebbd8fac1f6bf848b6", "final_pred": "Circus Beely", "EM": "1", "F1": "1.0"}
+{"qid": "4c070b620bb011ebab90acde48001122", "final_pred": "Queen Sof\u00eda of Spain", "EM": "1", "F1": "1.0"}
+{"qid": "18d4a1f8085611ebbd59ac1f6bf848b6", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "43208df60bde11eba7f7acde48001122", "final_pred": "France", "EM": "1", "F1": "1.0"}
+{"qid": "987e4ee80baf11ebab90acde48001122", "final_pred": "King Mswati II", "EM": "0", "F1": "0"}
+{"qid": "cfb486e208b311ebbd86ac1f6bf848b6", "final_pred": "Mister Scarface", "EM": "1", "F1": "1.0"}
+{"qid": "44e72de60bdb11eba7f7acde48001122", "final_pred": "Reykjavik, Iceland", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "2ec36c440bb011ebab90acde48001122", "final_pred": "Thomas Beauchamp, 11th Earl of Warwick", "EM": "1", "F1": "1.0"}
+{"qid": "b035afca0bd911eba7f7acde48001122", "final_pred": "Clara Lago", "EM": "0", "F1": "0"}
+{"qid": "0856e5d4085b11ebbd5cac1f6bf848b6", "final_pred": "Diary Of A Maniac", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "051f62de0bde11eba7f7acde48001122", "final_pred": "Brunswick, Germany", "EM": "0", "F1": "0"}
+{"qid": "1734c9b60baf11ebab90acde48001122", "final_pred": "Marcus Lollius", "EM": "0", "F1": "0"}
+{"qid": "9893834c092711ebbdaeac1f6bf848b6", "final_pred": "Gaza Ghetto", "EM": "0", "F1": "0"}
+{"qid": "0a71ec9f08e511ebbda4ac1f6bf848b6", "final_pred": "Ra\u00fal Osorio", "EM": "0", "F1": "0"}
+{"qid": "1187c9080bde11eba7f7acde48001122", "final_pred": "1888", "EM": "0", "F1": "0"}
+{"qid": "7de481100baf11ebab90acde48001122", "final_pred": "Lady Victoria Cavendish", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "e95acdbc085f11ebbd5dac1f6bf848b6", "final_pred": "Deuce High", "EM": "0", "F1": "0"}
+{"qid": "d3949a8e08c111ebbd8bac1f6bf848b6", "final_pred": "Premium (film).\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "c51148bc0bdb11eba7f7acde48001122", "final_pred": "Ottoman", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "6e9a0d6a08eb11ebbda7ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "aa9aee6908f011ebbda8ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "be0a16240baf11ebab90acde48001122", "final_pred": "Princess Wilhelmina of Denmark", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "2b81511c0bde11eba7f7acde48001122", "final_pred": "Washington, D", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "e1228e9f08ca11ebbd92ac1f6bf848b6", "final_pred": "A Little Sister of Everybody", "EM": "1", "F1": "1.0"}
+{"qid": "ea9832140bd911eba7f7acde48001122", "final_pred": "Lusail Iconic Stadium", "EM": "0", "F1": "0"}
+{"qid": "e3385f6c084b11ebbd56ac1f6bf848b6", "final_pred": "The Woman In The Fifth", "EM": "1", "F1": "1.0"}
+{"qid": "b677b1f8089611ebbd76ac1f6bf848b6", "final_pred": "2 May 1921.\n", "EM": "0", "F1": "0"}
+{"qid": "772c5c660bb011ebab90acde48001122", "final_pred": "Anne Percy", "EM": "0", "F1": "0"}
+{"qid": "0ac40d780bdb11eba7f7acde48001122", "final_pred": "a computer store", "EM": "0", "F1": "0"}
+{"qid": "2684ee04099411ebbdb0ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "122b64480baf11ebab90acde48001122", "final_pred": "Blanche of France", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "e1f0c38c0bda11eba7f7acde48001122", "final_pred": "French", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "1dd18a37086a11ebbd5fac1f6bf848b6", "final_pred": "All The Gold In The World", "EM": "0", "F1": "0"}
+{"qid": "e5bdd71f08d011ebbd95ac1f6bf848b6", "final_pred": "Henry Scheff\u00e9", "EM": "1", "F1": "1.0"}
+{"qid": "44da8153093011ebbdaeac1f6bf848b6", "final_pred": "neither film was released more recently", "EM": "0", "F1": "0"}
+{"qid": "ddacf7580baf11ebab90acde48001122", "final_pred": "Queen Eleanor of Castile", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "d9b00ab80bdd11eba7f7acde48001122", "final_pred": "11 December 1233", "EM": "0", "F1": "0"}
+{"qid": "6f8bb027090811ebbdadac1f6bf848b6", "final_pred": "Issa Album", "EM": "0", "F1": "0"}
+{"qid": "700dfeea0baf11ebab90acde48001122", "final_pred": "Alfonso II of Aragon", "EM": "0", "F1": "0.25"}
+{"qid": "4216f41a08df11ebbda0ac1f6bf848b6", "final_pred": "New Jersey Drive", "EM": "0", "F1": "0"}
+{"qid": "c370b4540bd911eba7f7acde48001122", "final_pred": "David Brooks", "EM": "0", "F1": "0"}
+{"qid": "880e5d0c088d11ebbd70ac1f6bf848b6", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "b3d918160bdd11eba7f7acde48001122", "final_pred": "unknown", "EM": "0", "F1": "0"}
+{"qid": "142afa360bde11eba7f7acde48001122", "final_pred": "Calgary", "EM": "0", "F1": "0"}
+{"qid": "b8ef144a0bdd11eba7f7acde48001122", "final_pred": "Scotland", "EM": "0", "F1": "0"}
+{"qid": "8c82acb20bda11eba7f7acde48001122", "final_pred": "British", "EM": "0", "F1": "0"}
+{"qid": "b7e9eb98085311ebbd59ac1f6bf848b6", "final_pred": "Dallas 362", "EM": "1", "F1": "1.0"}
+{"qid": "ef7aac32088511ebbd6dac1f6bf848b6", "final_pred": "Spring Storms", "EM": "0", "F1": "0"}
+{"qid": "6ae076e40bde11eba7f7acde48001122", "final_pred": "United Kingdom", "EM": "0", "F1": "0.5"}
+{"qid": "69e2bbe0094411ebbdaeac1f6bf848b6", "final_pred": "Anna-Liisa", "EM": "1", "F1": "1.0"}
+{"qid": "09945977084d11ebbd56ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "6b5393240bdc11eba7f7acde48001122", "final_pred": "Shah Rukh Khan's mother.\n", "EM": "0", "F1": "0"}
+{"qid": "3d3bc0720bde11eba7f7acde48001122", "final_pred": "New York City, New York, USA", "EM": "0", "F1": "0.6"}
+{"qid": "b411910a0bdd11eba7f7acde48001122", "final_pred": "Harvard University", "EM": "0", "F1": "0"}
+{"qid": "cf6f5bbe08cf11ebbd95ac1f6bf848b6", "final_pred": "Uncharted Seas", "EM": "0", "F1": "0"}
+{"qid": "015d47a908a811ebbd7fac1f6bf848b6", "final_pred": "My Own Private Idaho", "EM": "0", "F1": "0"}
+{"qid": "d9e3f4aa0bdc11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "6d79d267087211ebbd65ac1f6bf848b6", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "3068a40c0baf11ebab90acde48001122", "final_pred": "Birgitta of Sweden", "EM": "0", "F1": "0"}
+{"qid": "b0b7f3700bdb11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "203b441208db11ebbd9cac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "47c32ef1089511ebbd75ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "6900298c0bde11eba7f7acde48001122", "final_pred": "Sydney, Australia", "EM": "1", "F1": "1.0"}
+{"qid": "ac1b9ee108b911ebbd88ac1f6bf848b6", "final_pred": "20 August 1997.\n", "EM": "0", "F1": "0"}
+{"qid": "215f53a00bde11eba7f7acde48001122", "final_pred": "Boston, Massachusetts, United States", "EM": "0", "F1": "0"}
+{"qid": "9c24e2900bdd11eba7f7acde48001122", "final_pred": "Lusail Iconic Stadium", "EM": "0", "F1": "0"}
+{"qid": "2c0d754e0bb011ebab90acde48001122", "final_pred": "Henry I, Holy Roman Emperor", "EM": "0", "F1": "0.6"}
+{"qid": "08de5d000baf11ebab90acde48001122", "final_pred": "Anne of Saxony", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "096e14a20bde11eba7f7acde48001122", "final_pred": "1963.\n\n", "EM": "0", "F1": "0"}
+{"qid": "d4a23f020bdb11eba7f7acde48001122", "final_pred": "Chinese", "EM": "0", "F1": "0"}
+{"qid": "68de4616088a11ebbd6fac1f6bf848b6", "final_pred": "Boot Hill Bandits", "EM": "1", "F1": "1.0"}
+{"qid": "22ea14cd08ef11ebbda8ac1f6bf848b6", "final_pred": "Nicolas G\u00f6rtler", "EM": "1", "F1": "1.0"}
+{"qid": "96d29e2c0bdd11eba7f7acde48001122", "final_pred": "Lusail Iconic Stadium", "EM": "0", "F1": "0"}
+{"qid": "5c2a37a20bd911eba7f7acde48001122", "final_pred": "Chandler, Oklahoma, USA", "EM": "0", "F1": "0"}
+{"qid": "534cb9fe0baf11ebab90acde48001122", "final_pred": "Louis XIII of France", "EM": "0", "F1": "0.4"}
+{"qid": "c933c15308c711ebbd91ac1f6bf848b6", "final_pred": "Judy Berlin", "EM": "0", "F1": "0"}
+{"qid": "73c0065c0bda11eba7f7acde48001122", "final_pred": "Portuguese", "EM": "0", "F1": "0"}
+{"qid": "88adf4ed089511ebbd75ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "575babe4087711ebbd67ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "3712624a08dd11ebbd9dac1f6bf848b6", "final_pred": "Ghost-Town Gold", "EM": "1", "F1": "1.0"}
+{"qid": "62ce8c8e0bde11eba7f7acde48001122", "final_pred": "Khentii Province, Mongolia", "EM": "0", "F1": "0"}
+{"qid": "bb8e4d040bda11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "b8d121ba099d11ebbdb0ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "ad437572089811ebbd77ac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "d670b0ac08b111ebbd85ac1f6bf848b6", "final_pred": "Bernard Chambaz", "EM": "1", "F1": "1.0"}
+{"qid": "ea29ce5a0bd911eba7f7acde48001122", "final_pred": "10.\n\n1. Taj Mahal, Agra - The iconic white mar", "EM": "0", "F1": "0"}
+{"qid": "4c61cd2c088111ebbd6dac1f6bf848b6", "final_pred": "The Ballad Of Gregorio Cortez", "EM": "1", "F1": "1.0"}
+{"qid": "184e352008db11ebbd9cac1f6bf848b6", "final_pred": "1963.\n", "EM": "0", "F1": "0"}
+{"qid": "1f3ea3b00bb011ebab90acde48001122", "final_pred": "Robert II of France", "EM": "0", "F1": "0.22222222222222224"}
+{"qid": "253e36700bda11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "3641d5c60bda11eba7f7acde48001122", "final_pred": "the church of St", "EM": "0", "F1": "0"}
+{"qid": "6e3e70200bde11eba7f7acde48001122", "final_pred": "the United States", "EM": "0", "F1": "0"}
+{"qid": "967b39ca0bdd11eba7f7acde48001122", "final_pred": "Bj\u00f6rn Ulvaeus", "EM": "0", "F1": "0"}
+{"qid": "3b9299900bdd11eba7f7acde48001122", "final_pred": "France", "EM": "0", "F1": "0"}
+{"qid": "1900f7600baf11ebab90acde48001122", "final_pred": "", "EM": "0", "F1": "0"}
+{"qid": "859991680bda11eba7f7acde48001122", "final_pred": "Stockholm, Sweden", "EM": "0", "F1": "0"}
+{"qid": "6fbdeee60bdc11eba7f7acde48001122", "final_pred": "Ren\u00e9 Cardona Jr", "EM": "0", "F1": "0"}
+{"qid": "28ad4ad0092a11ebbdaeac1f6bf848b6", "final_pred": "Circus Of Love", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "95d37580085b11ebbd5cac1f6bf848b6", "final_pred": "Andrei Svislotskiy", "EM": "0", "F1": "0"}
+{"qid": "a0ae26f60baf11ebab90acde48001122", "final_pred": "Lusail Iconic Stadium", "EM": "0", "F1": "0"}
+{"qid": "450019aa08b111ebbd85ac1f6bf848b6", "final_pred": "Under The Lantern", "EM": "1", "F1": "1.0"}
+{"qid": "b051c536089e11ebbd78ac1f6bf848b6", "final_pred": "Slim Carter", "EM": "0", "F1": "0"}
+{"qid": "df25946e08b211ebbd85ac1f6bf848b6", "final_pred": "1963.\n", "EM": "0", "F1": "0"}
+{"qid": "1d0cd6e80bdd11eba7f7acde48001122", "final_pred": "Milan, Italy", "EM": "0", "F1": "0"}
+{"qid": "f88912f008da11ebbd9cac1f6bf848b6", "final_pred": "10 August 2017", "EM": "0", "F1": "0"}
+{"qid": "33b51db508af11ebbd83ac1f6bf848b6", "final_pred": "The Story Of Anastasia", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "9cdd635f093911ebbdaeac1f6bf848b6", "final_pred": "Occupation: Dreamland", "EM": "1", "F1": "1.0"}
+{"qid": "c818d9480baf11ebab90acde48001122", "final_pred": "Scott Morrison", "EM": "0", "F1": "0"}
+{"qid": "b26e04e80bdb11eba7f7acde48001122", "final_pred": "Carlos Robles", "EM": "0", "F1": "0.5"}
+{"qid": "eb7ece320bdd11eba7f7acde48001122", "final_pred": "Federal University of Cear\u00e1", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "f9c02a8c085d11ebbd5cac1f6bf848b6", "final_pred": "Spione", "EM": "0", "F1": "0"}
+{"qid": "5affe63d08f311ebbdaaac1f6bf848b6", "final_pred": "Man's Search for Happiness", "EM": "1", "F1": "1.0"}
+{"qid": "ec8167b208a011ebbd78ac1f6bf848b6", "final_pred": "Pupi Avati", "EM": "0", "F1": "0"}
+{"qid": "fb823a6f08f711ebbdaaac1f6bf848b6", "final_pred": "Antonio Caggiano", "EM": "1", "F1": "1.0"}
+{"qid": "747175620bdb11eba7f7acde48001122", "final_pred": "New York City, New York, USA", "EM": "0", "F1": "0"}
+{"qid": "9766cddc0bdc11eba7f7acde48001122", "final_pred": "Los Angeles, California, USA", "EM": "0", "F1": "0.5"}
+{"qid": "f13a163908b311ebbd86ac1f6bf848b6", "final_pred": "Chopasni Senior Secondary School, Jodhpur", "EM": "1", "F1": "1.0"}
+{"qid": "36a3fe2a0baf11ebab90acde48001122", "final_pred": "John Burke, 1st Earl of Clanricarde", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "12c631c1088b11ebbd6fac1f6bf848b6", "final_pred": "Retalhos da Vida de um M\u00e9dico", "EM": "1", "F1": "1.0"}
+{"qid": "b96acba808f911ebbdaaac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "c5315db80baf11ebab90acde48001122", "final_pred": "Frederick I, Margrave Of Baden", "EM": "0", "F1": "0.6"}
+{"qid": "3c44771e08b211ebbd85ac1f6bf848b6", "final_pred": "Ami Neta Hobo", "EM": "0", "F1": "0"}
+{"qid": "200e7a01087611ebbd67ac1f6bf848b6", "final_pred": "Buffet Froid", "EM": "1", "F1": "1.0"}
+{"qid": "8e07f1f00bda11eba7f7acde48001122", "final_pred": "Maria Victoria", "EM": "0", "F1": "0"}
+{"qid": "d6be0cee0bdb11eba7f7acde48001122", "final_pred": "unknown.\n", "EM": "0", "F1": "0"}
+{"qid": "4aa187080baf11ebab90acde48001122", "final_pred": "Eleanor of Castile", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "11963eee0bb011ebab90acde48001122", "final_pred": "19 June 2013.\n\n2. Japan - Japan is a fascin", "EM": "0", "F1": "0"}
+{"qid": "77f3d9300bb011ebab90acde48001122", "final_pred": "King Charles II of Navarre", "EM": "0", "F1": "0.22222222222222224"}
+{"qid": "feea4eb5086411ebbd5eac1f6bf848b6", "final_pred": "Gold For The Caesars", "EM": "0", "F1": "0"}
+{"qid": "a9a4b633089c11ebbd78ac1f6bf848b6", "final_pred": "15 July 1909.\n", "EM": "0", "F1": "0"}
+{"qid": "f64be57a0bdd11eba7f7acde48001122", "final_pred": "unknown", "EM": "0", "F1": "0"}
+{"qid": "6c2aa97108d711ebbd9aac1f6bf848b6", "final_pred": "11 November 1899.\n", "EM": "0", "F1": "0"}
+{"qid": "a5b095c00bdd11eba7f7acde48001122", "final_pred": "the United States", "EM": "0", "F1": "0"}
+{"qid": "8471ae5808d111ebbd95ac1f6bf848b6", "final_pred": "Roland The Mighty", "EM": "0", "F1": "0"}
+{"qid": "769106c40bda11eba7f7acde48001122", "final_pred": "July 28, 2016", "EM": "0", "F1": "0"}
+{"qid": "5a83ed2f086611ebbd5eac1f6bf848b6", "final_pred": "When You're Strange", "EM": "0", "F1": "0"}
+{"qid": "3a3c2efe0bdc11eba7f7acde48001122", "final_pred": "Luxembourgish.\n", "EM": "0", "F1": "0"}
+{"qid": "b25687fa090011ebbdadac1f6bf848b6", "final_pred": "Taxi Zum Klo", "EM": "0", "F1": "0"}
+{"qid": "b8e9d716088411ebbd6dac1f6bf848b6", "final_pred": "\u015eaban, Son Of \u015eaban", "EM": "1", "F1": "1.0"}
+{"qid": "3d03e0260bde11eba7f7acde48001122", "final_pred": "Eton College", "EM": "0", "F1": "0.5"}
+{"qid": "8ac9de5608e011ebbda1ac1f6bf848b6", "final_pred": "14 August 1952.\n", "EM": "0", "F1": "0"}
+{"qid": "04b5e0320bdb11eba7f7acde48001122", "final_pred": "Weimar, Germany", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "eded9bbf08de11ebbd9fac1f6bf848b6", "final_pred": "Dialogues Of Exiles", "EM": "0", "F1": "0"}
+{"qid": "f872fe92096c11ebbdafac1f6bf848b6", "final_pred": "My Wife'S Lodger", "EM": "1", "F1": "1.0"}
+{"qid": "4ce1d27b08bc11ebbd88ac1f6bf848b6", "final_pred": "27 August 1955.\n", "EM": "0", "F1": "0"}
+{"qid": "4a9acefe0baf11ebab90acde48001122", "final_pred": "Maurice All\u00e9gret", "EM": "0", "F1": "0.5"}
+{"qid": "c8c9313a0baf11ebab90acde48001122", "final_pred": "19 June 2013.\n\n2. Japan - From bustling cities", "EM": "0", "F1": "0"}
+{"qid": "c1b9c0ac0bdd11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "ab18549a0bdc11eba7f7acde48001122", "final_pred": "Billy Ray Cyrus", "EM": "1", "F1": "1.0"}
+{"qid": "2d907ba60bdc11eba7f7acde48001122", "final_pred": "New York City, New York, USA", "EM": "0", "F1": "0.8"}
+{"qid": "8c26eb3b087f11ebbd6cac1f6bf848b6", "final_pred": "Alexey Volkonsky", "EM": "0", "F1": "0"}
+{"qid": "1efc66b60bde11eba7f7acde48001122", "final_pred": "Rome, Italy", "EM": "0", "F1": "0"}
+{"qid": "5f5002360bd911eba7f7acde48001122", "final_pred": "Canada", "EM": "0", "F1": "0"}
+{"qid": "f7b1002b099a11ebbdb0ac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "363d81df08d211ebbd95ac1f6bf848b6", "final_pred": "Idols Of The Radio", "EM": "1", "F1": "1.0"}
+{"qid": "9e68cdc20bd911eba7f7acde48001122", "final_pred": "Gloria Loring", "EM": "1", "F1": "1.0"}
+{"qid": "1655fd7a0bdd11eba7f7acde48001122", "final_pred": "19 June 2013", "EM": "0", "F1": "0"}
+{"qid": "1b91365c08a311ebbd7bac1f6bf848b6", "final_pred": "Louis-Ren\u00e9 De Caradeuc De La Chalotais", "EM": "1", "F1": "1.0"}
+{"qid": "eeb017fa0bdd11eba7f7acde48001122", "final_pred": "London, England", "EM": "0", "F1": "0"}
+{"qid": "565f05fc0bdc11eba7f7acde48001122", "final_pred": "1453.\n\nHere are 10 of the best books on the history of", "EM": "0", "F1": "0.16666666666666666"}
+{"qid": "7cc68442092811ebbdaeac1f6bf848b6", "final_pred": "Aami", "EM": "1", "F1": "1.0"}
+{"qid": "ef4907cc0baf11ebab90acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "ba773ad00bd911eba7f7acde48001122", "final_pred": "Yash Johar", "EM": "1", "F1": "1.0"}
+{"qid": "31bfa49208e711ebbda5ac1f6bf848b6", "final_pred": "Ramsay Anderson", "EM": "1", "F1": "1.0"}
+{"qid": "8f2b2975088a11ebbd6fac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "90bad89e0bdb11eba7f7acde48001122", "final_pred": "United States", "EM": "0", "F1": "0"}
+{"qid": "6c7f03240bdb11eba7f7acde48001122", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "bf06c94208a711ebbd7fac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "e61479860bda11eba7f7acde48001122", "final_pred": "Reykjavik, Iceland", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "dea2ea800bd911eba7f7acde48001122", "final_pred": "Berlin, Germany", "EM": "0", "F1": "0"}
+{"qid": "b7de2a860bd911eba7f7acde48001122", "final_pred": "Maureen O'Sullivan", "EM": "1", "F1": "1.0"}

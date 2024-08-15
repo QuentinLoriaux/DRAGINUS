@@ -1,0 +1,49 @@
+{"qid": "5a8b57f25542995d1e6f1371", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a8c7595554299585d9e36b6", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a85ea095542994775f606a8", "final_pred": "the Inheritance Cycle by Christopher Paolini", "EM": "0", "F1": "0"}
+{"qid": "5adbf0a255429947ff17385a", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a8e3ea95542995a26add48d", "final_pred": "New York City.\nQuestion", "EM": "0", "F1": "0.6666666666666665"}
+{"qid": "5abd94525542992ac4f382d2", "final_pred": "YG Entertainment", "EM": "1", "F1": "1.0"}
+{"qid": "5a85b2d95542997b5ce40028", "final_pred": "a consultant.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5a87ab905542996e4f3088c1", "final_pred": "4,059", "EM": "0", "F1": "0"}
+{"qid": "5a7bbb64554299042af8f7cc", "final_pred": "Annie Morton.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5a8db19d5542994ba4e3dd00", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a7166395542994082a3e814", "final_pred": "\"Hey! KU\"", "EM": "0", "F1": "0"}
+{"qid": "5a877e5d5542993e715abf7d", "final_pred": "David Koepp", "EM": "0", "F1": "0.5"}
+{"qid": "5ab3b0bf5542992ade7c6e39", "final_pred": "1985.\n", "EM": "0", "F1": "0"}
+{"qid": "5ab56e32554299637185c594", "final_pred": "no.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5ab6d09255429954757d337d", "final_pred": "1986 to 2013.\nQuestion", "EM": "0", "F1": "0.75"}
+{"qid": "5a75e05c55429976ec32bc5f", "final_pred": "2.9 million", "EM": "0", "F1": "0"}
+{"qid": "5ab3e45655429976abd1bcd4", "final_pred": "the Northeastern Conference.\nQuestion", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ab29c24554299449642c932", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0d4c9554299603e418468", "final_pred": "Lyndon B. Johnson.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5a8133725542995ce29dcbdb", "final_pred": "Robert Erskine Childers.\nQuestion", "EM": "0", "F1": "0.75"}
+{"qid": "5ae7a8175542993210983ed8", "final_pred": "Sergio Perez.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5ae6050f55429929b0807a5e", "final_pred": "Sonic the Hedgehog.\nQuestion", "EM": "0", "F1": "0.5"}
+{"qid": "5adddccd5542997dc7907069", "final_pred": "Apple TV", "EM": "0", "F1": "0"}
+{"qid": "5ae2070a5542994d89d5b313", "final_pred": "3.\n\nStep 3: Determine the number of instruments played by each member of", "EM": "0", "F1": "0"}
+{"qid": "5ae22b8d554299234fd0440f", "final_pred": "Peter Sch", "EM": "0", "F1": "0"}
+{"qid": "5a722b8655429971e9dc9329", "final_pred": "Lee Pockriss.\nQuestion", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5adf37a95542995ec70e8f97", "final_pred": "1838", "EM": "1", "F1": "1.0"}
+{"qid": "5abd259d55429924427fcf1a", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a828c8355429966c78a6a50", "final_pred": "Henry J. Kaiser.\nQuestion", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5a8a3e745542996c9b8d5e70", "final_pred": "\"The Caves of Chaos\"", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ac23ff0554299636651994d", "final_pred": "1986.\n\nTherefore, the answer to the question is 198", "EM": "0", "F1": "0"}
+{"qid": "5ae4a3265542995ad6573de5", "final_pred": "Japan", "EM": "0", "F1": "0"}
+{"qid": "5ae0361155429925eb1afc2c", "final_pred": "Charles Nungesser.\nQuestion", "EM": "0", "F1": "0.4"}
+{"qid": "5abc0a5d5542993f40c73c64", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a7cc50e554299452d57ba3e", "final_pred": "Screaming Trees.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5abf63f15542997ec76fd3ea", "final_pred": "1922.\nQuestion", "EM": "0", "F1": "0.5"}
+{"qid": "5a8ef2a75542995a26add583", "final_pred": "2004", "EM": "0", "F1": "0"}
+{"qid": "5a80721b554299485f5985ef", "final_pred": "World War I", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab51dae5542991779162d82", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a7571135542992d0ec05f98", "final_pred": "unknown", "EM": "0", "F1": "0"}
+{"qid": "5a7a0e1e5542990783324e1a", "final_pred": "the Scotch Collie", "EM": "1", "F1": "1.0"}
+{"qid": "5a74106b55429979e288289e", "final_pred": "India", "EM": "0", "F1": "0"}
+{"qid": "5a79311755429970f5fffe67", "final_pred": "1970", "EM": "0", "F1": "0"}
+{"qid": "5ab2d3df554299194fa9352c", "final_pred": "the victory for Ethiopia", "EM": "0", "F1": "0"}
+{"qid": "5a760ab65542994ccc918697", "final_pred": "Hubert Humphrey.\nQuestion", "EM": "0", "F1": "0"}
+{"qid": "5a7d54165542995f4f402256", "final_pred": "the Firth of Forth.\n\nTherefore, the answer to the question is the F", "EM": "0", "F1": "0"}
+{"qid": "5ab859a955429934fafe6d7b", "final_pred": "Brian Wilson", "EM": "0", "F1": "0"}
+{"qid": "5add61d65542995b365fab21", "final_pred": "the World Summit of Nobel Peace Laureates", "EM": "0", "F1": "0"}
+{"qid": "5a8e068b5542995085b37384", "final_pred": "no", "EM": "0", "F1": "0"}

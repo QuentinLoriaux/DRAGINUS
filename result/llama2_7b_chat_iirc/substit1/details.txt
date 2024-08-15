@@ -1,0 +1,31 @@
+{"qid": "q_10839", "final_pred": "Poland", "EM": "0", "F1": "0"}
+{"qid": "q_10840", "final_pred": "Granada", "EM": "0", "F1": "0"}
+{"qid": "q_10841", "final_pred": "841", "EM": "0", "F1": "0"}
+{"qid": "q_10844", "final_pred": "Field Marshal", "EM": "0", "F1": "0"}
+{"qid": "q_10846", "final_pred": "Blackjack and Worlds Apart", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_10847", "final_pred": "1982 - 1976 = 6 years. ", "EM": "0", "F1": "0"}
+{"qid": "q_10850", "final_pred": "4 years", "EM": "0", "F1": "0"}
+{"qid": "q_10851", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_10852", "final_pred": "1", "EM": "1", "F1": "1.0"}
+{"qid": "q_10853", "final_pred": "the Allies. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_10854", "final_pred": "Potsy Clark", "EM": "0", "F1": "0"}
+{"qid": "q_10856", "final_pred": "26 years and 162 days", "EM": "0", "F1": "0"}
+{"qid": "q_10857", "final_pred": "114", "EM": "0", "F1": "0"}
+{"qid": "q_10859", "final_pred": "Kate Hudson", "EM": "1", "F1": "1.0"}
+{"qid": "q_10860", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_10861", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_10862", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_10863", "final_pred": "49 states and the District of Columbia", "EM": "0", "F1": "0"}
+{"qid": "q_10864", "final_pred": "General George Washington", "EM": "0", "F1": "0"}
+{"qid": "q_10865", "final_pred": "Hessian army", "EM": "0", "F1": "0.5"}
+{"qid": "q_10866", "final_pred": "August 19, 1779", "EM": "0", "F1": "0.8"}
+{"qid": "q_10867", "final_pred": "Alexander Hamilton", "EM": "0", "F1": "0"}
+{"qid": "q_10869", "final_pred": "222", "EM": "0", "F1": "0"}
+{"qid": "q_10870", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_10871", "final_pred": "40", "EM": "0", "F1": "0"}
+{"qid": "q_10872", "final_pred": "10 miles (wide) x 10 miles (long)", "EM": "0", "F1": "0"}
+{"qid": "q_10873", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10874", "final_pred": "yes, the population of Hamburg is larger than the population of Plymouth", "EM": "0", "F1": "0"}
+{"qid": "q_10875", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_10876", "final_pred": "Tudor Evans", "EM": "0", "F1": "0"}
+{"qid": "q_10877", "final_pred": "19th century", "EM": "0", "F1": "0"}

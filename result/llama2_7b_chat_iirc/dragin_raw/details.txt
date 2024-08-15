@@ -1,0 +1,954 @@
+{"qid": "q_10839", "final_pred": "46", "EM": "0", "F1": "0"}
+{"qid": "q_10840", "final_pred": "Granada", "EM": "0", "F1": "0"}
+{"qid": "q_10841", "final_pred": "841", "EM": "0", "F1": "0"}
+{"qid": "q_10844", "final_pred": "Field Marshal", "EM": "0", "F1": "0"}
+{"qid": "q_10846", "final_pred": "Blackjack and Worlds Apart. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_10847", "final_pred": "1982 - 1976 = 6 years. So the answer is 6", "EM": "0", "F1": "0"}
+{"qid": "q_10850", "final_pred": "1", "EM": "0", "F1": "0"}
+{"qid": "q_10851", "final_pred": "7", "EM": "0", "F1": "0"}
+{"qid": "q_10852", "final_pred": "0. ", "EM": "0", "F1": "0"}
+{"qid": "q_10853", "final_pred": "the Allies. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_10854", "final_pred": "Potsy Clark. ", "EM": "0", "F1": "0"}
+{"qid": "q_10856", "final_pred": "27 years. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_10857", "final_pred": "114", "EM": "0", "F1": "0"}
+{"qid": "q_10859", "final_pred": "1979", "EM": "0", "F1": "0"}
+{"qid": "q_10860", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_10861", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_10862", "final_pred": "43. ", "EM": "0", "F1": "0"}
+{"qid": "q_10863", "final_pred": "First World War. ", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "q_10864", "final_pred": "General George Washington. ", "EM": "0", "F1": "0"}
+{"qid": "q_10865", "final_pred": "1889. 3. Costa Rica - With its lush rainforests, beautiful", "EM": "0", "F1": "0"}
+{"qid": "q_10866", "final_pred": "August 19, 1779. ", "EM": "0", "F1": "0.8"}
+{"qid": "q_10867", "final_pred": "Alexander Hamilton. ", "EM": "0", "F1": "0"}
+{"qid": "q_10869", "final_pred": "16", "EM": "0", "F1": "0"}
+{"qid": "q_10870", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_10871", "final_pred": "62", "EM": "0", "F1": "0"}
+{"qid": "q_10872", "final_pred": "10 miles (wide) x 10 miles (long)", "EM": "0", "F1": "0"}
+{"qid": "q_10873", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10874", "final_pred": "yes, the population of the city that Thetis ran aground at is larger than the city she was repaired in", "EM": "0", "F1": "0"}
+{"qid": "q_10875", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_10876", "final_pred": "Lisa Helps", "EM": "0", "F1": "0"}
+{"qid": "q_10877", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10880", "final_pred": "February 8, 1992. ", "EM": "0", "F1": "0.8"}
+{"qid": "q_10881", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_10882", "final_pred": "Calgary. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_10883", "final_pred": "Nuala McKeever and Montgomery. ", "EM": "0", "F1": "0"}
+{"qid": "q_10884", "final_pred": "Not Guilty. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_10886", "final_pred": "Ireland", "EM": "0", "F1": "0"}
+{"qid": "q_10888", "final_pred": "New York", "EM": "0", "F1": "0"}
+{"qid": "q_10889", "final_pred": "33", "EM": "0", "F1": "0"}
+{"qid": "q_10890", "final_pred": "35. ", "EM": "0", "F1": "0"}
+{"qid": "q_10892", "final_pred": "48. ", "EM": "0", "F1": "0"}
+{"qid": "q_10893", "final_pred": "1883. ", "EM": "0", "F1": "0"}
+{"qid": "q_10895", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_10896", "final_pred": "Melissa Arnette Elliott", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "q_10897", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_10898", "final_pred": "Magoo", "EM": "0", "F1": "0"}
+{"qid": "q_10900", "final_pred": "Texas and Louisiana", "EM": "0", "F1": "0.16666666666666666"}
+{"qid": "q_10903", "final_pred": "225 mph", "EM": "0", "F1": "0"}
+{"qid": "q_10904", "final_pred": "1894. ", "EM": "0", "F1": "0.4"}
+{"qid": "q_10905", "final_pred": "215 miles (346 km)", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "q_10906", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10907", "final_pred": "1912. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_10910", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10911", "final_pred": "$250 million. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_10912", "final_pred": "2013. ", "EM": "0", "F1": "0"}
+{"qid": "q_10913", "final_pred": "Jon Bon Jovi, Richie Sambora and Andreas Carlsson. ", "EM": "0", "F1": "0.75"}
+{"qid": "q_10914", "final_pred": "The Circle Tour", "EM": "0", "F1": "0.4"}
+{"qid": "q_10915", "final_pred": "Jon Bon Jovi and Richie Sambora. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_10916", "final_pred": "Bruce Fairbairn. ", "EM": "0", "F1": "0"}
+{"qid": "q_10917", "final_pred": "10 million. ", "EM": "0", "F1": "0"}
+{"qid": "q_10919", "final_pred": "James Cameron. ", "EM": "0", "F1": "0"}
+{"qid": "q_10920", "final_pred": "Australia", "EM": "0", "F1": "0"}
+{"qid": "q_10921", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10922", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10924", "final_pred": "British and French. ", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "q_10925", "final_pred": "1619. ", "EM": "0", "F1": "0"}
+{"qid": "q_10926", "final_pred": "23. ", "EM": "0", "F1": "0"}
+{"qid": "q_10928", "final_pred": "1882.\n2. \"The Oxford History of the World\" edited by John B", "EM": "0", "F1": "0"}
+{"qid": "q_10929", "final_pred": "1", "EM": "1", "F1": "1.0"}
+{"qid": "q_10930", "final_pred": "126", "EM": "0", "F1": "0"}
+{"qid": "q_10931", "final_pred": "43. ", "EM": "0", "F1": "0"}
+{"qid": "q_10932", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_10933", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_10936", "final_pred": "1967. ", "EM": "0", "F1": "0"}
+{"qid": "q_10937", "final_pred": "19", "EM": "1", "F1": "1.0"}
+{"qid": "q_10938", "final_pred": "Genesis. ", "EM": "0", "F1": "0"}
+{"qid": "q_10939", "final_pred": "5 years.\n\nQuestion 12: What is the name of the town where the He", "EM": "0", "F1": "0"}
+{"qid": "q_10940", "final_pred": "937,837", "EM": "0", "F1": "0"}
+{"qid": "q_10941", "final_pred": "1624", "EM": "0", "F1": "0"}
+{"qid": "q_10942", "final_pred": "United States", "EM": "0", "F1": "0"}
+{"qid": "q_10943", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_10944", "final_pred": "Guangzhou F.C. (1950). ", "EM": "0", "F1": "0.4"}
+{"qid": "q_10950", "final_pred": "4, not 15", "EM": "0", "F1": "0"}
+{"qid": "q_10951", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_10952", "final_pred": "Dianne Galliano and Robert Sacher", "EM": "1", "F1": "1.0"}
+{"qid": "q_10954", "final_pred": "05/01/2016", "EM": "0", "F1": "0"}
+{"qid": "q_10955", "final_pred": "10 years. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_10956", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_10958", "final_pred": "4", "EM": "1", "F1": "1.0"}
+{"qid": "q_10959", "final_pred": "Black Robe. ", "EM": "0", "F1": "0"}
+{"qid": "q_10960", "final_pred": "Laremy Tunsil. ", "EM": "0", "F1": "0"}
+{"qid": "q_10961", "final_pred": "1960. ", "EM": "0", "F1": "0"}
+{"qid": "q_10962", "final_pred": "1977. ", "EM": "0", "F1": "0"}
+{"qid": "q_10963", "final_pred": "1936. ", "EM": "0", "F1": "0"}
+{"qid": "q_10964", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_10965", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_10966", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_10967", "final_pred": "1.4 million", "EM": "0", "F1": "0"}
+{"qid": "q_10968", "final_pred": "247 years old. ", "EM": "0", "F1": "0"}
+{"qid": "q_10969", "final_pred": "KWFN", "EM": "0", "F1": "0"}
+{"qid": "q_10970", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_10972", "final_pred": "1678. ", "EM": "0", "F1": "0"}
+{"qid": "q_10973", "final_pred": "Germany. ", "EM": "0", "F1": "0"}
+{"qid": "q_10974", "final_pred": "1552.\n\n2. \"A History of the World\" by Robert Tomb", "EM": "0", "F1": "0"}
+{"qid": "q_10975", "final_pred": "1882", "EM": "0", "F1": "0"}
+{"qid": "q_10976", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_10977", "final_pred": "1712. ", "EM": "0", "F1": "0"}
+{"qid": "q_10978", "final_pred": "Windsor. ", "EM": "0", "F1": "0"}
+{"qid": "q_10979", "final_pred": "1759. ", "EM": "0", "F1": "0"}
+{"qid": "q_10981", "final_pred": "1013", "EM": "0", "F1": "0"}
+{"qid": "q_10982", "final_pred": "the indigenous tribes and the harsh climate. ", "EM": "0", "F1": "0.10526315789473682"}
+{"qid": "q_10984", "final_pred": "57", "EM": "0", "F1": "0"}
+{"qid": "q_10985", "final_pred": "Navarro", "EM": "0", "F1": "0"}
+{"qid": "q_10986", "final_pred": "1821 - 1803 = 18 years. ", "EM": "0", "F1": "0.4"}
+{"qid": "q_10987", "final_pred": "42. ", "EM": "0", "F1": "0"}
+{"qid": "q_10988", "final_pred": "103. ", "EM": "0", "F1": "0"}
+{"qid": "q_10989", "final_pred": "31. ", "EM": "0", "F1": "0"}
+{"qid": "q_10991", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_10994", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_10995", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_10996", "final_pred": "1966 - 1967 = -1 year", "EM": "0", "F1": "0"}
+{"qid": "q_10999", "final_pred": "76", "EM": "0", "F1": "0"}
+{"qid": "q_11000", "final_pred": "7", "EM": "0", "F1": "0"}
+{"qid": "q_11001", "final_pred": "1,141,748 square kilometers", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11003", "final_pred": "1583. ", "EM": "0", "F1": "0"}
+{"qid": "q_11004", "final_pred": "Kerit the Bear. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11007", "final_pred": "482", "EM": "0", "F1": "0"}
+{"qid": "q_11008", "final_pred": "Shanghai", "EM": "0", "F1": "0"}
+{"qid": "q_11009", "final_pred": "1699. ", "EM": "0", "F1": "0"}
+{"qid": "q_11010", "final_pred": "24", "EM": "0", "F1": "0"}
+{"qid": "q_11011", "final_pred": "26. ", "EM": "0", "F1": "0"}
+{"qid": "q_11012", "final_pred": "1814 - 1730 = 84 years. ", "EM": "0", "F1": "0"}
+{"qid": "q_11014", "final_pred": "46", "EM": "0", "F1": "0"}
+{"qid": "q_11015", "final_pred": "Italy, Venice (now Italy), England, and the Netherlands", "EM": "0", "F1": "0.25"}
+{"qid": "q_11016", "final_pred": "China", "EM": "0", "F1": "0"}
+{"qid": "q_11020", "final_pred": "1938. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11022", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11025", "final_pred": "69", "EM": "1", "F1": "1.0"}
+{"qid": "q_11026", "final_pred": "16", "EM": "0", "F1": "0"}
+{"qid": "q_11027", "final_pred": "26", "EM": "0", "F1": "0"}
+{"qid": "q_11033", "final_pred": "700", "EM": "0", "F1": "0"}
+{"qid": "q_11035", "final_pred": "Ray Kroc. ", "EM": "0", "F1": "0"}
+{"qid": "q_11036", "final_pred": "San Bernardino", "EM": "0", "F1": "0"}
+{"qid": "q_11037", "final_pred": "2,162,400", "EM": "0", "F1": "0"}
+{"qid": "q_11038", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11039", "final_pred": "1945. ", "EM": "0", "F1": "0"}
+{"qid": "q_11041", "final_pred": "Bachelor of Fine Arts", "EM": "0", "F1": "0.25"}
+{"qid": "q_11042", "final_pred": "KCR", "EM": "0", "F1": "0"}
+{"qid": "q_11043", "final_pred": "Peat, Marwick, Okoh & Co", "EM": "0", "F1": "0"}
+{"qid": "q_11044", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11045", "final_pred": "Surgeon", "EM": "0", "F1": "0"}
+{"qid": "q_11046", "final_pred": "16", "EM": "0", "F1": "0"}
+{"qid": "q_11047", "final_pred": "29%", "EM": "0", "F1": "0"}
+{"qid": "q_11048", "final_pred": "Missouri River", "EM": "0", "F1": "0"}
+{"qid": "q_11049", "final_pred": "1863. ", "EM": "0", "F1": "0"}
+{"qid": "q_11050", "final_pred": "New York City", "EM": "0", "F1": "0"}
+{"qid": "q_11051", "final_pred": "1880", "EM": "0", "F1": "0"}
+{"qid": "q_11052", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11053", "final_pred": "the Netherlands. ", "EM": "0", "F1": "0"}
+{"qid": "q_11054", "final_pred": "30", "EM": "1", "F1": "1.0"}
+{"qid": "q_11057", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11058", "final_pred": "No", "EM": "1", "F1": "1.0"}
+{"qid": "q_11061", "final_pred": "1972. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11062", "final_pred": "1890", "EM": "0", "F1": "0"}
+{"qid": "q_11065", "final_pred": "8", "EM": "0", "F1": "0"}
+{"qid": "q_11066", "final_pred": "29. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11067", "final_pred": "29. ", "EM": "0", "F1": "0"}
+{"qid": "q_11068", "final_pred": "7", "EM": "0", "F1": "0"}
+{"qid": "q_11069", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "q_11070", "final_pred": "Montreal Canadiens", "EM": "1", "F1": "1.0"}
+{"qid": "q_11071", "final_pred": "Nicola Sturgeon. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11072", "final_pred": "1999. ", "EM": "0", "F1": "0"}
+{"qid": "q_11073", "final_pred": "1882. \n\n2. \"The History of the Internet\" by John N", "EM": "0", "F1": "0.13333333333333333"}
+{"qid": "q_11074", "final_pred": "1820", "EM": "0", "F1": "0"}
+{"qid": "q_11075", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_11076", "final_pred": "1974", "EM": "0", "F1": "0"}
+{"qid": "q_11079", "final_pred": "90", "EM": "1", "F1": "1.0"}
+{"qid": "q_11080", "final_pred": "20", "EM": "0", "F1": "0"}
+{"qid": "q_11081", "final_pred": "1889.\n2. Yellowstone National Park, Wyoming - America's", "EM": "0", "F1": "0"}
+{"qid": "q_11084", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11085", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11086", "final_pred": "2,000", "EM": "0", "F1": "0"}
+{"qid": "q_11087", "final_pred": "Italy", "EM": "1", "F1": "1.0"}
+{"qid": "q_11089", "final_pred": "1265", "EM": "0", "F1": "0"}
+{"qid": "q_11090", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11091", "final_pred": "2019", "EM": "0", "F1": "0"}
+{"qid": "q_11092", "final_pred": "34", "EM": "0", "F1": "0"}
+{"qid": "q_11093", "final_pred": "4 - 8 = -4 years. ", "EM": "0", "F1": "0.4"}
+{"qid": "q_11096", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11097", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11098", "final_pred": "1680 - 1889 = -1679", "EM": "0", "F1": "0"}
+{"qid": "q_11100", "final_pred": "1814 - 1769 = 45 years. So the answer is 45. ", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "q_11101", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11104", "final_pred": "256. ", "EM": "0", "F1": "0"}
+{"qid": "q_11105", "final_pred": "Athens", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11106", "final_pred": "1935. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_11107", "final_pred": "1 year", "EM": "0", "F1": "0"}
+{"qid": "q_11108", "final_pred": "England. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11109", "final_pred": "10,000", "EM": "0", "F1": "0"}
+{"qid": "q_11111", "final_pred": "1900. ", "EM": "0", "F1": "0"}
+{"qid": "q_11112", "final_pred": "1926. ", "EM": "0", "F1": "0"}
+{"qid": "q_11114", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11116", "final_pred": "1925. ", "EM": "0", "F1": "0"}
+{"qid": "q_11117", "final_pred": "Bryant. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11118", "final_pred": "1889.\n2. Florence - The birthplace of the Renaissance, Florence is a", "EM": "0", "F1": "0"}
+{"qid": "q_11120", "final_pred": "21. ", "EM": "0", "F1": "0"}
+{"qid": "q_11123", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11124", "final_pred": "69 years", "EM": "0", "F1": "0"}
+{"qid": "q_11125", "final_pred": "42", "EM": "0", "F1": "0"}
+{"qid": "q_11126", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11127", "final_pred": "1, 2, 3, 4, and 5.\n", "EM": "0", "F1": "0"}
+{"qid": "q_11128", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11131", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11133", "final_pred": "June 20. ", "EM": "0", "F1": "0"}
+{"qid": "q_11134", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11135", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11136", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11137", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_11139", "final_pred": "A.S. Roma. ", "EM": "0", "F1": "0"}
+{"qid": "q_11140", "final_pred": "38.3 million", "EM": "0", "F1": "0"}
+{"qid": "q_11141", "final_pred": "50", "EM": "0", "F1": "0"}
+{"qid": "q_11142", "final_pred": "30", "EM": "0", "F1": "0"}
+{"qid": "q_11143", "final_pred": "53", "EM": "0", "F1": "0"}
+{"qid": "q_11144", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11146", "final_pred": "995", "EM": "0", "F1": "0"}
+{"qid": "q_11147", "final_pred": "England", "EM": "0", "F1": "0"}
+{"qid": "q_11148", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11149", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_11150", "final_pred": "Ulysses S. Grant", "EM": "0", "F1": "0"}
+{"qid": "q_11151", "final_pred": "Wisconsin. ", "EM": "0", "F1": "0"}
+{"qid": "q_11152", "final_pred": "383. ", "EM": "0", "F1": "0"}
+{"qid": "q_11153", "final_pred": "15", "EM": "0", "F1": "0"}
+{"qid": "q_11154", "final_pred": "13. ", "EM": "0", "F1": "0"}
+{"qid": "q_11155", "final_pred": "Germany", "EM": "1", "F1": "1.0"}
+{"qid": "q_11156", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11157", "final_pred": "Brazil. ", "EM": "0", "F1": "0"}
+{"qid": "q_11158", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "q_11159", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11160", "final_pred": "\"Paper\". ", "EM": "0", "F1": "0"}
+{"qid": "q_11161", "final_pred": "Berklee Performance Center", "EM": "0", "F1": "0.4"}
+{"qid": "q_11162", "final_pred": "The Palace", "EM": "0", "F1": "0"}
+{"qid": "q_11163", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11164", "final_pred": "Laryngitis", "EM": "0", "F1": "0"}
+{"qid": "q_11165", "final_pred": "80. ", "EM": "0", "F1": "0"}
+{"qid": "q_11167", "final_pred": "1871. ", "EM": "0", "F1": "0"}
+{"qid": "q_11168", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11169", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11170", "final_pred": "29", "EM": "0", "F1": "0"}
+{"qid": "q_11171", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11172", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11173", "final_pred": "114", "EM": "1", "F1": "1.0"}
+{"qid": "q_11174", "final_pred": "1932. ", "EM": "0", "F1": "0"}
+{"qid": "q_11175", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11176", "final_pred": "15", "EM": "0", "F1": "0"}
+{"qid": "q_11177", "final_pred": "Rush", "EM": "0", "F1": "0"}
+{"qid": "q_11178", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11179", "final_pred": "No", "EM": "1", "F1": "1.0"}
+{"qid": "q_11180", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11182", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11183", "final_pred": "2018", "EM": "0", "F1": "0"}
+{"qid": "q_11184", "final_pred": "Ryan Murphy. ", "EM": "0", "F1": "0"}
+{"qid": "q_11185", "final_pred": "Ohio", "EM": "1", "F1": "1.0"}
+{"qid": "q_11186", "final_pred": "John Ford. ", "EM": "0", "F1": "0"}
+{"qid": "q_11187", "final_pred": "Cristine Rose", "EM": "0", "F1": "0"}
+{"qid": "q_11188", "final_pred": "Masi Oka. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11189", "final_pred": "$1,000,000", "EM": "0", "F1": "0"}
+{"qid": "q_11190", "final_pred": "1916. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11191", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11192", "final_pred": "29", "EM": "0", "F1": "0"}
+{"qid": "q_11193", "final_pred": "1997. ", "EM": "0", "F1": "0"}
+{"qid": "q_11194", "final_pred": "1864", "EM": "0", "F1": "0"}
+{"qid": "q_11196", "final_pred": "1968", "EM": "0", "F1": "0"}
+{"qid": "q_11197", "final_pred": "43. ", "EM": "0", "F1": "0"}
+{"qid": "q_11198", "final_pred": "the other university. ", "EM": "0", "F1": "0.4"}
+{"qid": "q_11199", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11200", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11201", "final_pred": "Crimson", "EM": "0", "F1": "0"}
+{"qid": "q_11202", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11203", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11204", "final_pred": "41", "EM": "0", "F1": "0"}
+{"qid": "q_11207", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11208", "final_pred": "1988. ", "EM": "0", "F1": "0"}
+{"qid": "q_11210", "final_pred": "Steve Mayer", "EM": "0", "F1": "0"}
+{"qid": "q_11211", "final_pred": "29", "EM": "0", "F1": "0"}
+{"qid": "q_11213", "final_pred": "1099. ", "EM": "0", "F1": "0"}
+{"qid": "q_11214", "final_pred": "1492 - 1447 = 45 years. So the answer is 45. ", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "q_11215", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11216", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11217", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11218", "final_pred": "1862", "EM": "0", "F1": "0"}
+{"qid": "q_11219", "final_pred": "5.\n", "EM": "0", "F1": "0"}
+{"qid": "q_11220", "final_pred": "38. ", "EM": "0", "F1": "0"}
+{"qid": "q_11221", "final_pred": "347 years", "EM": "0", "F1": "0"}
+{"qid": "q_11222", "final_pred": "", "EM": "0", "F1": "0"}
+{"qid": "q_11223", "final_pred": "50", "EM": "0", "F1": "0"}
+{"qid": "q_11224", "final_pred": "fabric similar to felt", "EM": "0", "F1": "0"}
+{"qid": "q_11225", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11226", "final_pred": "Democratic. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11227", "final_pred": "2014 - 2010 = 4 years. ", "EM": "0", "F1": "0"}
+{"qid": "q_11230", "final_pred": "2003. ", "EM": "0", "F1": "0"}
+{"qid": "q_11231", "final_pred": "5 months into the Civil War", "EM": "0", "F1": "0"}
+{"qid": "q_11232", "final_pred": "55", "EM": "1", "F1": "1.0"}
+{"qid": "q_11233", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "q_11234", "final_pred": "Los Angeles County. ", "EM": "0", "F1": "0.4"}
+{"qid": "q_11235", "final_pred": "1891", "EM": "0", "F1": "0"}
+{"qid": "q_11236", "final_pred": "2 years. ", "EM": "0", "F1": "0"}
+{"qid": "q_11239", "final_pred": "1994", "EM": "0", "F1": "0"}
+{"qid": "q_11240", "final_pred": "Italy", "EM": "0", "F1": "0"}
+{"qid": "q_11241", "final_pred": "1899. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11242", "final_pred": "the United States of America. ", "EM": "0", "F1": "0"}
+{"qid": "q_11244", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_11247", "final_pred": "1946. ", "EM": "0", "F1": "0"}
+{"qid": "q_11248", "final_pred": "1977. ", "EM": "0", "F1": "0"}
+{"qid": "q_11250", "final_pred": "1913. ", "EM": "0", "F1": "0"}
+{"qid": "q_11252", "final_pred": "2019", "EM": "0", "F1": "0"}
+{"qid": "q_11253", "final_pred": "50", "EM": "0", "F1": "0"}
+{"qid": "q_11254", "final_pred": "10,000", "EM": "0", "F1": "0"}
+{"qid": "q_11255", "final_pred": "Soviet Union. ", "EM": "0", "F1": "0"}
+{"qid": "q_11256", "final_pred": "Moli\u00e8re's inability to repay his creditors", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11257", "final_pred": "34", "EM": "0", "F1": "0"}
+{"qid": "q_11258", "final_pred": "8", "EM": "0", "F1": "0"}
+{"qid": "q_11260", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_11261", "final_pred": "28. ", "EM": "0", "F1": "0"}
+{"qid": "q_11262", "final_pred": "1960. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11264", "final_pred": "S. M. Johnson", "EM": "0", "F1": "0"}
+{"qid": "q_11267", "final_pred": "350 BC", "EM": "0", "F1": "0.5"}
+{"qid": "q_11268", "final_pred": "1986. ", "EM": "0", "F1": "0"}
+{"qid": "q_11269", "final_pred": "171,944", "EM": "0", "F1": "0"}
+{"qid": "q_11270", "final_pred": "1992", "EM": "0", "F1": "0"}
+{"qid": "q_11271", "final_pred": "Hannes Holm. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11272", "final_pred": "George W. Bush", "EM": "0", "F1": "0.5"}
+{"qid": "q_11273", "final_pred": "Republican", "EM": "0", "F1": "0"}
+{"qid": "q_11274", "final_pred": "2016", "EM": "0", "F1": "0"}
+{"qid": "q_11275", "final_pred": "surgery, radiotherapy, chemotherapy, palliative care, or a combination of these. ", "EM": "0", "F1": "0"}
+{"qid": "q_11276", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11277", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11278", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_11279", "final_pred": "no, Jim Cummings was not older than Kenneth Mars the year The Little Mermaid premiered", "EM": "0", "F1": "0"}
+{"qid": "q_11280", "final_pred": "no, Sally Field was not famous the year The Little Mermaid was released. ", "EM": "0", "F1": "0"}
+{"qid": "q_11281", "final_pred": "14. ", "EM": "0", "F1": "0"}
+{"qid": "q_11284", "final_pred": "John Thomas", "EM": "0", "F1": "0"}
+{"qid": "q_11289", "final_pred": "Chicago Bulls. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11290", "final_pred": "Chapel Hill, North Carolina", "EM": "0", "F1": "0"}
+{"qid": "q_11291", "final_pred": "Fatih Terim. ", "EM": "0", "F1": "0"}
+{"qid": "q_11292", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11293", "final_pred": "no, the WTA Tour was not only in one country", "EM": "0", "F1": "0"}
+{"qid": "q_11294", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11295", "final_pred": "8", "EM": "0", "F1": "0"}
+{"qid": "q_11296", "final_pred": "43. ", "EM": "0", "F1": "0"}
+{"qid": "q_11297", "final_pred": "1865", "EM": "1", "F1": "1.0"}
+{"qid": "q_11298", "final_pred": "1 year and 4 months. ", "EM": "0", "F1": "0"}
+{"qid": "q_11299", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_11300", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11301", "final_pred": "1889. 3. Paris, France - The City of Light is famous for its", "EM": "0", "F1": "0"}
+{"qid": "q_11302", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11303", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11304", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_11305", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11306", "final_pred": "200,000", "EM": "0", "F1": "0"}
+{"qid": "q_11307", "final_pred": "England", "EM": "0", "F1": "0"}
+{"qid": "q_11309", "final_pred": "1.\n", "EM": "0", "F1": "0"}
+{"qid": "q_11310", "final_pred": "1888. ", "EM": "0", "F1": "0"}
+{"qid": "q_11311", "final_pred": "Zimbabwe. ", "EM": "0", "F1": "0"}
+{"qid": "q_11313", "final_pred": "Jah Hut language", "EM": "0", "F1": "0"}
+{"qid": "q_11314", "final_pred": "Belgium. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11315", "final_pred": "San Antonio Spurs", "EM": "0", "F1": "0"}
+{"qid": "q_11316", "final_pred": "1959. ", "EM": "0", "F1": "0"}
+{"qid": "q_11317", "final_pred": "1963. ", "EM": "0", "F1": "0"}
+{"qid": "q_11318", "final_pred": "Belgrade, Serbia. ", "EM": "0", "F1": "0"}
+{"qid": "q_11319", "final_pred": "1875. ", "EM": "0", "F1": "0"}
+{"qid": "q_11320", "final_pred": "1961. ", "EM": "0", "F1": "0"}
+{"qid": "q_11321", "final_pred": "59. ", "EM": "0", "F1": "0"}
+{"qid": "q_11324", "final_pred": "25", "EM": "0", "F1": "0"}
+{"qid": "q_11325", "final_pred": "the Ottoman Empire. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11327", "final_pred": "1972", "EM": "0", "F1": "0"}
+{"qid": "q_11328", "final_pred": "Jeff Lynne, Roy Wood, and Bev Bevan", "EM": "0", "F1": "0.4444444444444444"}
+{"qid": "q_11329", "final_pred": "1977. ", "EM": "0", "F1": "0"}
+{"qid": "q_11330", "final_pred": "March 26, 1978", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "q_11331", "final_pred": "1990. ", "EM": "0", "F1": "0"}
+{"qid": "q_11333", "final_pred": "unknown or cannot be determined", "EM": "0", "F1": "0"}
+{"qid": "q_11334", "final_pred": "25", "EM": "0", "F1": "0"}
+{"qid": "q_11335", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11336", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11339", "final_pred": "64", "EM": "0", "F1": "0"}
+{"qid": "q_11340", "final_pred": "Stratford-upon-Avon. ", "EM": "0", "F1": "0"}
+{"qid": "q_11341", "final_pred": "400 years", "EM": "0", "F1": "0"}
+{"qid": "q_11342", "final_pred": "26", "EM": "0", "F1": "0"}
+{"qid": "q_11344", "final_pred": "George W. Bush. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11345", "final_pred": "Category 3", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11346", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11347", "final_pred": "20", "EM": "0", "F1": "0"}
+{"qid": "q_11348", "final_pred": "1270. ", "EM": "0", "F1": "0"}
+{"qid": "q_11349", "final_pred": "53.\n  07. The answer is Lawrence Tureaud.\n  08", "EM": "0", "F1": "0"}
+{"qid": "q_11350", "final_pred": "823. ", "EM": "0", "F1": "0"}
+{"qid": "q_11351", "final_pred": "Alison Krauss and Union Station (AKUS)", "EM": "0", "F1": "0"}
+{"qid": "q_11352", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11353", "final_pred": "California. ", "EM": "0", "F1": "0"}
+{"qid": "q_11354", "final_pred": "Perfume", "EM": "0", "F1": "0"}
+{"qid": "q_11355", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11357", "final_pred": "1986. ", "EM": "0", "F1": "0"}
+{"qid": "q_11358", "final_pred": "England. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11360", "final_pred": "1809. ", "EM": "0", "F1": "0"}
+{"qid": "q_11361", "final_pred": "1972", "EM": "0", "F1": "0"}
+{"qid": "q_11362", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_11363", "final_pred": "1636", "EM": "0", "F1": "0"}
+{"qid": "q_11365", "final_pred": "\"Iron Man\" (2008). ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11366", "final_pred": "48. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11369", "final_pred": "1977. ", "EM": "0", "F1": "0"}
+{"qid": "q_11370", "final_pred": "0 (zero) years old", "EM": "0", "F1": "0"}
+{"qid": "q_11371", "final_pred": "younger. ", "EM": "0", "F1": "0"}
+{"qid": "q_11372", "final_pred": "50 states", "EM": "0", "F1": "0"}
+{"qid": "q_11373", "final_pred": "1979", "EM": "0", "F1": "0"}
+{"qid": "q_11374", "final_pred": "Lance Armstrong. ", "EM": "0", "F1": "0"}
+{"qid": "q_11376", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "q_11377", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11379", "final_pred": "December 15, 1966", "EM": "1", "F1": "1.0"}
+{"qid": "q_11380", "final_pred": "1982. ", "EM": "0", "F1": "0"}
+{"qid": "q_11381", "final_pred": "1984", "EM": "0", "F1": "0"}
+{"qid": "q_11383", "final_pred": "1971. ", "EM": "0", "F1": "0"}
+{"qid": "q_11384", "final_pred": "1983. ", "EM": "0", "F1": "0"}
+{"qid": "q_11385", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11386", "final_pred": "2005. ", "EM": "0", "F1": "0"}
+{"qid": "q_11387", "final_pred": "28 million. ", "EM": "0", "F1": "0"}
+{"qid": "q_11388", "final_pred": "Snow White, Cinderella, Aurora, Ariel, and Belle. ", "EM": "0", "F1": "0.923076923076923"}
+{"qid": "q_11389", "final_pred": "93. ", "EM": "0", "F1": "0"}
+{"qid": "q_11390", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_11391", "final_pred": "28", "EM": "0", "F1": "0"}
+{"qid": "q_11392", "final_pred": "Chip Ganassi Racing", "EM": "0", "F1": "0.8"}
+{"qid": "q_11393", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11394", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_11395", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "q_11396", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11397", "final_pred": "Chip Ganassi Racing", "EM": "0", "F1": "0.8"}
+{"qid": "q_11398", "final_pred": "61", "EM": "0", "F1": "0"}
+{"qid": "q_11401", "final_pred": "43. ", "EM": "0", "F1": "0"}
+{"qid": "q_11402", "final_pred": "28 years and 10 months", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "q_11403", "final_pred": "8", "EM": "0", "F1": "0"}
+{"qid": "q_11407", "final_pred": "15", "EM": "0", "F1": "0"}
+{"qid": "q_11409", "final_pred": "Tokyo, Japan. ", "EM": "0", "F1": "0.22222222222222224"}
+{"qid": "q_11410", "final_pred": "45. ", "EM": "0", "F1": "0"}
+{"qid": "q_11411", "final_pred": "15th century", "EM": "0", "F1": "0"}
+{"qid": "q_11412", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11417", "final_pred": "30", "EM": "0", "F1": "0"}
+{"qid": "q_11420", "final_pred": "Australia. ", "EM": "0", "F1": "0"}
+{"qid": "q_11421", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11422", "final_pred": "70-001, 70-002, and 70-003. ", "EM": "0", "F1": "0"}
+{"qid": "q_11423", "final_pred": "1842", "EM": "0", "F1": "0"}
+{"qid": "q_11424", "final_pred": "China. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11425", "final_pred": "England. ", "EM": "0", "F1": "0"}
+{"qid": "q_11428", "final_pred": "1987. ", "EM": "0", "F1": "0"}
+{"qid": "q_11429", "final_pred": "1986. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11430", "final_pred": "49", "EM": "0", "F1": "0"}
+{"qid": "q_11431", "final_pred": "1967. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11432", "final_pred": "23. ", "EM": "0", "F1": "0"}
+{"qid": "q_11434", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11435", "final_pred": "2517 square kilometers", "EM": "0", "F1": "0"}
+{"qid": "q_11436", "final_pred": "West Ham United. ", "EM": "0", "F1": "0"}
+{"qid": "q_11437", "final_pred": "the New York Mets. ", "EM": "0", "F1": "0"}
+{"qid": "q_11438", "final_pred": "2013", "EM": "0", "F1": "0"}
+{"qid": "q_11439", "final_pred": "Investors Group Field. ", "EM": "0", "F1": "0"}
+{"qid": "q_11440", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11441", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11442", "final_pred": "Manchester United", "EM": "0", "F1": "0"}
+{"qid": "q_11448", "final_pred": "23. ", "EM": "0", "F1": "0"}
+{"qid": "q_11449", "final_pred": "300 meters (980 feet). ", "EM": "0", "F1": "0"}
+{"qid": "q_11450", "final_pred": "Georgia. ", "EM": "0", "F1": "0"}
+{"qid": "q_11451", "final_pred": "61", "EM": "0", "F1": "0"}
+{"qid": "q_11452", "final_pred": "46", "EM": "0", "F1": "0"}
+{"qid": "q_11453", "final_pred": "the United States", "EM": "0", "F1": "0"}
+{"qid": "q_11454", "final_pred": "1861", "EM": "0", "F1": "0"}
+{"qid": "q_11455", "final_pred": "the Irish rebels. ", "EM": "0", "F1": "0"}
+{"qid": "q_11456", "final_pred": "1897. ", "EM": "0", "F1": "0"}
+{"qid": "q_11458", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11459", "final_pred": "Nevada. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11460", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11461", "final_pred": "yes, the college at which Wingfield was elected to the Board of Regents was founded before 1900. ", "EM": "0", "F1": "0"}
+{"qid": "q_11462", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11463", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11464", "final_pred": "21. ", "EM": "0", "F1": "0"}
+{"qid": "q_11465", "final_pred": "Mr. T.\n7. How many people attended the conference held near Berlin in January 1", "EM": "0", "F1": "0"}
+{"qid": "q_11466", "final_pred": "17. ", "EM": "0", "F1": "0"}
+{"qid": "q_11467", "final_pred": "1628. ", "EM": "0", "F1": "0"}
+{"qid": "q_11468", "final_pred": "17 years", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11469", "final_pred": "1995", "EM": "0", "F1": "0"}
+{"qid": "q_11471", "final_pred": "53", "EM": "1", "F1": "1.0"}
+{"qid": "q_11472", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_11473", "final_pred": "52. ", "EM": "0", "F1": "0"}
+{"qid": "q_11474", "final_pred": "5", "EM": "1", "F1": "1.0"}
+{"qid": "q_11475", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_11477", "final_pred": "1981. ", "EM": "0", "F1": "0"}
+{"qid": "q_11478", "final_pred": "1889.\n2. Research and analysis: Do your homework on the teams,", "EM": "0", "F1": "0"}
+{"qid": "q_11479", "final_pred": "Manchester", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11480", "final_pred": "1981", "EM": "0", "F1": "0"}
+{"qid": "q_11481", "final_pred": "1889.\n2. Nice - Located on the French Riviera, Nice is", "EM": "0", "F1": "0"}
+{"qid": "q_11484", "final_pred": "64", "EM": "0", "F1": "0"}
+{"qid": "q_11485", "final_pred": "1859", "EM": "0", "F1": "0"}
+{"qid": "q_11489", "final_pred": "1 month and 22 days", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "q_11491", "final_pred": "19. ", "EM": "0", "F1": "0"}
+{"qid": "q_11492", "final_pred": "24,000", "EM": "0", "F1": "0"}
+{"qid": "q_11493", "final_pred": "Jeffrey Lynn. ", "EM": "0", "F1": "0"}
+{"qid": "q_11494", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_11496", "final_pred": "0 (zero) years", "EM": "0", "F1": "0"}
+{"qid": "q_11497", "final_pred": "Paris Saint-Germain", "EM": "0", "F1": "0"}
+{"qid": "q_11499", "final_pred": "Harvard University. ", "EM": "0", "F1": "0.4"}
+{"qid": "q_11500", "final_pred": "298th Infantry Division. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11501", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11503", "final_pred": "Missouri", "EM": "0", "F1": "0"}
+{"qid": "q_11504", "final_pred": "Michigan", "EM": "0", "F1": "0"}
+{"qid": "q_11506", "final_pred": "$207.9 million. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_11507", "final_pred": "$74,371,296", "EM": "0", "F1": "0"}
+{"qid": "q_11508", "final_pred": "Nebraska. ", "EM": "0", "F1": "0"}
+{"qid": "q_11509", "final_pred": "10.\n\nHere are the 10 best books on the history of the world:", "EM": "0", "F1": "0.0909090909090909"}
+{"qid": "q_11510", "final_pred": "1870. ", "EM": "0", "F1": "0"}
+{"qid": "q_11511", "final_pred": "Budd Company", "EM": "0", "F1": "0.4"}
+{"qid": "q_11512", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "q_11513", "final_pred": "2002. ", "EM": "0", "F1": "0"}
+{"qid": "q_11514", "final_pred": "475,000", "EM": "0", "F1": "0"}
+{"qid": "q_11515", "final_pred": "Joe Gibbs", "EM": "1", "F1": "1.0"}
+{"qid": "q_11516", "final_pred": "27", "EM": "0", "F1": "0"}
+{"qid": "q_11517", "final_pred": "6.5 years", "EM": "0", "F1": "0"}
+{"qid": "q_11519", "final_pred": "1886. ", "EM": "0", "F1": "0"}
+{"qid": "q_11520", "final_pred": "1889. 2. The answer is Nicaragua. 3. The answer", "EM": "0", "F1": "0"}
+{"qid": "q_11521", "final_pred": "1701. ", "EM": "0", "F1": "0"}
+{"qid": "q_11522", "final_pred": "No", "EM": "1", "F1": "1.0"}
+{"qid": "q_11527", "final_pred": "210", "EM": "0", "F1": "0"}
+{"qid": "q_11528", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11529", "final_pred": "402", "EM": "0", "F1": "0"}
+{"qid": "q_11534", "final_pred": "Gee", "EM": "0", "F1": "0"}
+{"qid": "q_11535", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11541", "final_pred": "Christianity", "EM": "0", "F1": "0"}
+{"qid": "q_11542", "final_pred": "107 years", "EM": "0", "F1": "0"}
+{"qid": "q_11543", "final_pred": "1551", "EM": "0", "F1": "0"}
+{"qid": "q_11544", "final_pred": "17", "EM": "0", "F1": "0"}
+{"qid": "q_11545", "final_pred": "104", "EM": "0", "F1": "0"}
+{"qid": "q_11547", "final_pred": "1672. ", "EM": "0", "F1": "0"}
+{"qid": "q_11548", "final_pred": "1746. ", "EM": "0", "F1": "0"}
+{"qid": "q_11549", "final_pred": "Zhu Houcong. ", "EM": "0", "F1": "0"}
+{"qid": "q_11551", "final_pred": "February 24, 1500. ", "EM": "0", "F1": "0"}
+{"qid": "q_11552", "final_pred": "641", "EM": "0", "F1": "0"}
+{"qid": "q_11553", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11555", "final_pred": "875", "EM": "0", "F1": "0"}
+{"qid": "q_11556", "final_pred": "49", "EM": "0", "F1": "0"}
+{"qid": "q_11558", "final_pred": "23", "EM": "1", "F1": "1.0"}
+{"qid": "q_11560", "final_pred": "26-44-10", "EM": "0", "F1": "0"}
+{"qid": "q_11561", "final_pred": "24", "EM": "0", "F1": "0"}
+{"qid": "q_11562", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_11563", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11564", "final_pred": "10.\n", "EM": "0", "F1": "0"}
+{"qid": "q_11565", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11566", "final_pred": "4", "EM": "1", "F1": "1.0"}
+{"qid": "q_11567", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11568", "final_pred": "45", "EM": "0", "F1": "0"}
+{"qid": "q_11569", "final_pred": "Lee Harvey Oswald", "EM": "1", "F1": "1.0"}
+{"qid": "q_11572", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11573", "final_pred": "Liverpool. ", "EM": "0", "F1": "0"}
+{"qid": "q_11575", "final_pred": "1881. ", "EM": "0", "F1": "0"}
+{"qid": "q_11576", "final_pred": "1982. ", "EM": "0", "F1": "0"}
+{"qid": "q_11577", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11578", "final_pred": "England. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11579", "final_pred": "Manchester United. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11580", "final_pred": "Division 1A", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "q_11582", "final_pred": "1736. ", "EM": "0", "F1": "0"}
+{"qid": "q_11583", "final_pred": "1", "EM": "0", "F1": "0"}
+{"qid": "q_11584", "final_pred": "1995. ", "EM": "0", "F1": "0"}
+{"qid": "q_11586", "final_pred": "John Kocinski. ", "EM": "0", "F1": "0"}
+{"qid": "q_11587", "final_pred": "2018", "EM": "0", "F1": "0"}
+{"qid": "q_11588", "final_pred": "Kenya. ", "EM": "0", "F1": "0"}
+{"qid": "q_11589", "final_pred": "230 years", "EM": "0", "F1": "0"}
+{"qid": "q_11590", "final_pred": "1848. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11591", "final_pred": "Honolulu", "EM": "0", "F1": "0"}
+{"qid": "q_11592", "final_pred": "Montreal", "EM": "0", "F1": "0.5"}
+{"qid": "q_11593", "final_pred": "1868. ", "EM": "0", "F1": "0"}
+{"qid": "q_11594", "final_pred": "6", "EM": "1", "F1": "1.0"}
+{"qid": "q_11595", "final_pred": "1889.\n3. Bangkok, Thailand - Bangkok is a", "EM": "0", "F1": "0"}
+{"qid": "q_11597", "final_pred": "56", "EM": "0", "F1": "0"}
+{"qid": "q_11598", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11599", "final_pred": "Carson Daly", "EM": "0", "F1": "0"}
+{"qid": "q_11600", "final_pred": "Christgau. ", "EM": "0", "F1": "0"}
+{"qid": "q_11601", "final_pred": "13. ", "EM": "0", "F1": "0"}
+{"qid": "q_11603", "final_pred": "12", "EM": "0", "F1": "0"}
+{"qid": "q_11605", "final_pred": "2,716,450", "EM": "0", "F1": "0"}
+{"qid": "q_11606", "final_pred": "3", "EM": "1", "F1": "1.0"}
+{"qid": "q_11608", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11609", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11610", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11613", "final_pred": "76", "EM": "0", "F1": "0"}
+{"qid": "q_11614", "final_pred": "2003 - 1903 = 100 years. So the answer is 100. ", "EM": "0", "F1": "0"}
+{"qid": "q_11615", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11616", "final_pred": "71 - 20 = 51 years", "EM": "0", "F1": "0"}
+{"qid": "q_11620", "final_pred": "1 year", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11621", "final_pred": "1889.\n2. Yellowstone National Park, Wyoming - America's", "EM": "0", "F1": "0"}
+{"qid": "q_11622", "final_pred": "Croatia. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11624", "final_pred": "California", "EM": "1", "F1": "1.0"}
+{"qid": "q_11625", "final_pred": "1889", "EM": "0", "F1": "0"}
+{"qid": "q_11626", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "q_11628", "final_pred": "New York City", "EM": "1", "F1": "1.0"}
+{"qid": "q_11629", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "q_11630", "final_pred": "1971. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11631", "final_pred": "comic book fan conventions", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "q_11632", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11633", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11635", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11637", "final_pred": "5", "EM": "1", "F1": "1.0"}
+{"qid": "q_11640", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11641", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_11642", "final_pred": "Ohio. ", "EM": "0", "F1": "0"}
+{"qid": "q_11645", "final_pred": "33. ", "EM": "0", "F1": "0"}
+{"qid": "q_11646", "final_pred": "39", "EM": "0", "F1": "0"}
+{"qid": "q_11649", "final_pred": "1942. ", "EM": "0", "F1": "0"}
+{"qid": "q_11650", "final_pred": "32. ", "EM": "0", "F1": "0"}
+{"qid": "q_11651", "final_pred": "2002. ", "EM": "0", "F1": "0"}
+{"qid": "q_11652", "final_pred": "1977. ", "EM": "0", "F1": "0"}
+{"qid": "q_11653", "final_pred": "2011. ", "EM": "0", "F1": "0"}
+{"qid": "q_11654", "final_pred": "35. ", "EM": "0", "F1": "0"}
+{"qid": "q_11655", "final_pred": "Temple of Great Compassion", "EM": "0", "F1": "0"}
+{"qid": "q_11660", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11661", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11664", "final_pred": "Video Concert Hall", "EM": "0", "F1": "0"}
+{"qid": "q_11665", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11666", "final_pred": "7", "EM": "0", "F1": "0"}
+{"qid": "q_11667", "final_pred": "1848", "EM": "1", "F1": "1.0"}
+{"qid": "q_11668", "final_pred": "1790 - 1773 = 17 years. So the answer is 17", "EM": "0", "F1": "0"}
+{"qid": "q_11669", "final_pred": "29. ", "EM": "0", "F1": "0"}
+{"qid": "q_11671", "final_pred": "1947", "EM": "0", "F1": "0"}
+{"qid": "q_11672", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_11673", "final_pred": "26. ", "EM": "0", "F1": "0"}
+{"qid": "q_11674", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "q_11675", "final_pred": "Ram\u00edrez and L\u00f3pez. ", "EM": "0", "F1": "0"}
+{"qid": "q_11677", "final_pred": "Spain. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11678", "final_pred": "2019", "EM": "0", "F1": "0"}
+{"qid": "q_11679", "final_pred": "2036", "EM": "0", "F1": "0"}
+{"qid": "q_11680", "final_pred": "705", "EM": "0", "F1": "0"}
+{"qid": "q_11681", "final_pred": "July 15th. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_11682", "final_pred": "8,611 meters or 28,251 feet. ", "EM": "0", "F1": "0"}
+{"qid": "q_11683", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11684", "final_pred": "1908. ", "EM": "0", "F1": "0"}
+{"qid": "q_11685", "final_pred": "California", "EM": "0", "F1": "0"}
+{"qid": "q_11686", "final_pred": "Canada", "EM": "1", "F1": "1.0"}
+{"qid": "q_11687", "final_pred": "the New York Rangers", "EM": "0", "F1": "0"}
+{"qid": "q_11688", "final_pred": "15", "EM": "0", "F1": "0"}
+{"qid": "q_11689", "final_pred": "11", "EM": "0", "F1": "0"}
+{"qid": "q_11690", "final_pred": "Bob Davidson", "EM": "0", "F1": "0"}
+{"qid": "q_11691", "final_pred": "Toronto. ", "EM": "0", "F1": "0"}
+{"qid": "q_11692", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11693", "final_pred": "Illinois. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11696", "final_pred": "Berlin. ", "EM": "0", "F1": "0"}
+{"qid": "q_11698", "final_pred": "2006 and 2002. ", "EM": "0", "F1": "0"}
+{"qid": "q_11699", "final_pred": "1932. ", "EM": "0", "F1": "0"}
+{"qid": "q_11700", "final_pred": "33. ", "EM": "0", "F1": "0"}
+{"qid": "q_11701", "final_pred": "12 years. ", "EM": "0", "F1": "0"}
+{"qid": "q_11702", "final_pred": "41", "EM": "0", "F1": "0"}
+{"qid": "q_11703", "final_pred": "53", "EM": "0", "F1": "0"}
+{"qid": "q_11704", "final_pred": "1376. ", "EM": "0", "F1": "0"}
+{"qid": "q_11705", "final_pred": "58. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11710", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "q_11712", "final_pred": "26. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11713", "final_pred": "Berlin. ", "EM": "0", "F1": "0"}
+{"qid": "q_11714", "final_pred": "Florida Marlins, Chicago Cubs, and San Diego Padres", "EM": "0", "F1": "0"}
+{"qid": "q_11715", "final_pred": "54,251. ", "EM": "0", "F1": "0"}
+{"qid": "q_11717", "final_pred": "humid subtropical. ", "EM": "0", "F1": "0"}
+{"qid": "q_11718", "final_pred": "28 years", "EM": "0", "F1": "0"}
+{"qid": "q_11720", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11723", "final_pred": "1929", "EM": "0", "F1": "0"}
+{"qid": "q_11725", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11726", "final_pred": "7", "EM": "0", "F1": "0"}
+{"qid": "q_11727", "final_pred": "1740. ", "EM": "0", "F1": "0"}
+{"qid": "q_11728", "final_pred": "1882.\n2. \"The History of the World\" by Patrick Geary -", "EM": "0", "F1": "0"}
+{"qid": "q_11729", "final_pred": "Lance Armstrong. ", "EM": "0", "F1": "0.12121212121212122"}
+{"qid": "q_11730", "final_pred": "39. ", "EM": "0", "F1": "0"}
+{"qid": "q_11731", "final_pred": "73", "EM": "0", "F1": "0"}
+{"qid": "q_11733", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_11734", "final_pred": "17. ", "EM": "0", "F1": "0"}
+{"qid": "q_11736", "final_pred": "1", "EM": "0", "F1": "0"}
+{"qid": "q_11737", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "q_11738", "final_pred": "the Chiefs. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11741", "final_pred": "2005", "EM": "0", "F1": "0"}
+{"qid": "q_11742", "final_pred": "2016. ", "EM": "0", "F1": "0"}
+{"qid": "q_11743", "final_pred": "the Fillmore West. ", "EM": "0", "F1": "0"}
+{"qid": "q_11744", "final_pred": "Chicago. ", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "q_11745", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11746", "final_pred": "53.\n  07. So the answer is 1889", "EM": "0", "F1": "0"}
+{"qid": "q_11747", "final_pred": "Okemah, Oklahoma. ", "EM": "0", "F1": "0"}
+{"qid": "q_11748", "final_pred": "1912. ", "EM": "0", "F1": "0"}
+{"qid": "q_11749", "final_pred": "1891. ", "EM": "0", "F1": "0"}
+{"qid": "q_11750", "final_pred": "44", "EM": "0", "F1": "0"}
+{"qid": "q_11751", "final_pred": "over 90,000", "EM": "0", "F1": "0"}
+{"qid": "q_11752", "final_pred": "41", "EM": "0", "F1": "0"}
+{"qid": "q_11753", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11754", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11755", "final_pred": "1960s.\n\n2. \"The History of the Internet\" by John D", "EM": "0", "F1": "0"}
+{"qid": "q_11756", "final_pred": "11", "EM": "0", "F1": "0"}
+{"qid": "q_11759", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "q_11762", "final_pred": "1985. ", "EM": "0", "F1": "0"}
+{"qid": "q_11764", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11765", "final_pred": "1889.\n3. Paris, France - The City of Light is famous for its", "EM": "0", "F1": "0"}
+{"qid": "q_11770", "final_pred": "Darius III. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11771", "final_pred": "Iran. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11774", "final_pred": "United States of America. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11775", "final_pred": "1889. ", "EM": "0", "F1": "0"}
+{"qid": "q_11776", "final_pred": "2008. ", "EM": "0", "F1": "0"}
+{"qid": "q_11777", "final_pred": "Bryan Singer. ", "EM": "0", "F1": "0"}
+{"qid": "q_11779", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11782", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "q_11783", "final_pred": "California. ", "EM": "0", "F1": "0"}
+{"qid": "q_11784", "final_pred": "40", "EM": "0", "F1": "0"}
+{"qid": "q_11785", "final_pred": "United States", "EM": "0", "F1": "0"}
+{"qid": "q_11787", "final_pred": "1972. ", "EM": "0", "F1": "0"}
+{"qid": "q_11790", "final_pred": "1895", "EM": "0", "F1": "0"}
+{"qid": "q_11791", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_11792", "final_pred": "Palm IIIx", "EM": "1", "F1": "1.0"}
+{"qid": "q_11793", "final_pred": "1997", "EM": "0", "F1": "0"}
+{"qid": "q_11794", "final_pred": "1916. ", "EM": "0", "F1": "0"}
+{"qid": "q_11795", "final_pred": "1929", "EM": "0", "F1": "0"}
+{"qid": "q_11796", "final_pred": "St. Louis, Missouri", "EM": "0", "F1": "0"}
+{"qid": "q_11797", "final_pred": "Van Meter, Iowa", "EM": "0", "F1": "0"}
+{"qid": "q_11798", "final_pred": "Western Michigan University", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "q_11799", "final_pred": "1996. ", "EM": "0", "F1": "0"}
+{"qid": "q_11800", "final_pred": "16. ", "EM": "0", "F1": "0"}
+{"qid": "q_11801", "final_pred": "1", "EM": "1", "F1": "1.0"}
+{"qid": "q_11802", "final_pred": "Mississippi", "EM": "0", "F1": "0"}
+{"qid": "q_11803", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11805", "final_pred": "1897. ", "EM": "0", "F1": "0"}
+{"qid": "q_11806", "final_pred": "54. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11808", "final_pred": "Islamabad", "EM": "0", "F1": "0.5"}
+{"qid": "q_11809", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11812", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11813", "final_pred": "0 (zero)", "EM": "0", "F1": "0"}
+{"qid": "q_11815", "final_pred": "Los Angeles Clippers", "EM": "0", "F1": "0"}
+{"qid": "q_11816", "final_pred": "30. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11817", "final_pred": "NBA Championship Trophy", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "q_11818", "final_pred": "Adam Silver. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11819", "final_pred": "Kevin Durant. ", "EM": "0", "F1": "0"}
+{"qid": "q_11820", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11821", "final_pred": "Paul John Carlesimo", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11823", "final_pred": "Seoul, South Korea", "EM": "0", "F1": "0.5"}
+{"qid": "q_11824", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11826", "final_pred": "Finland", "EM": "0", "F1": "0"}
+{"qid": "q_11827", "final_pred": "4", "EM": "1", "F1": "1.0"}
+{"qid": "q_11829", "final_pred": "1789. ", "EM": "0", "F1": "0"}
+{"qid": "q_11830", "final_pred": "127 million. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_11831", "final_pred": "New York City", "EM": "0", "F1": "0"}
+{"qid": "q_11832", "final_pred": "1889", "EM": "0", "F1": "0"}
+{"qid": "q_11835", "final_pred": "178,122", "EM": "0", "F1": "0"}
+{"qid": "q_11836", "final_pred": "1750", "EM": "0", "F1": "0"}
+{"qid": "q_11837", "final_pred": "83", "EM": "0", "F1": "0"}
+{"qid": "q_11838", "final_pred": "1856. ", "EM": "0", "F1": "0"}
+{"qid": "q_11839", "final_pred": "Berlin. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11841", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "q_11842", "final_pred": "the Nobel Foundation. ", "EM": "0", "F1": "0"}
+{"qid": "q_11843", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11844", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_11846", "final_pred": "59. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11847", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_11849", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11850", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11852", "final_pred": "19", "EM": "0", "F1": "0"}
+{"qid": "q_11854", "final_pred": "21. ", "EM": "0", "F1": "0"}
+{"qid": "q_11855", "final_pred": "1839. ", "EM": "0", "F1": "0"}
+{"qid": "q_11856", "final_pred": "1908. ", "EM": "0", "F1": "0"}
+{"qid": "q_11857", "final_pred": "1854", "EM": "0", "F1": "0"}
+{"qid": "q_11859", "final_pred": "47", "EM": "0", "F1": "0"}
+{"qid": "q_11865", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_11867", "final_pred": "13", "EM": "0", "F1": "0"}
+{"qid": "q_11868", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "q_11869", "final_pred": "Date Night and Crazy, Stupid, Love", "EM": "0", "F1": "0"}
+{"qid": "q_11870", "final_pred": "Shrek the Third, Nine, and Despicable Me. ", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "q_11873", "final_pred": "2019", "EM": "0", "F1": "0"}
+{"qid": "q_11875", "final_pred": "Robert Crippen, Frederick Hauck, John Fabian, Norman Thagard, and Sally Ride", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "q_11876", "final_pred": "92. ", "EM": "0", "F1": "0"}
+{"qid": "q_11877", "final_pred": "1944", "EM": "0", "F1": "0"}
+{"qid": "q_11879", "final_pred": "1889", "EM": "0", "F1": "0"}
+{"qid": "q_11880", "final_pred": "1997 to 2004. ", "EM": "0", "F1": "0"}
+{"qid": "q_11881", "final_pred": "September 1939. ", "EM": "0", "F1": "0"}
+{"qid": "q_11883", "final_pred": "50", "EM": "0", "F1": "0"}
+{"qid": "q_11884", "final_pred": "1", "EM": "0", "F1": "0"}
+{"qid": "q_11885", "final_pred": "1", "EM": "0", "F1": "0"}
+{"qid": "q_11887", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11893", "final_pred": "69", "EM": "0", "F1": "0"}
+{"qid": "q_11894", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11895", "final_pred": "1927", "EM": "0", "F1": "0"}
+{"qid": "q_11896", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_11897", "final_pred": "3", "EM": "1", "F1": "1.0"}
+{"qid": "q_11898", "final_pred": "Alexander Grothendieck, Michel Raynaud, and Michel Demazure", "EM": "0", "F1": "0"}
+{"qid": "q_11900", "final_pred": "Alexander Grothendieck. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11901", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_11902", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11903", "final_pred": "86. ", "EM": "0", "F1": "0"}
+{"qid": "q_11904", "final_pred": "Auckland", "EM": "0", "F1": "0"}
+{"qid": "q_11906", "final_pred": "1967. ", "EM": "0", "F1": "0"}
+{"qid": "q_11907", "final_pred": "1996. ", "EM": "0", "F1": "0"}
+{"qid": "q_11909", "final_pred": "no, Joe Barton was not the chairman of the House Committee on Energy and Commerce when the Kyoto agreement was formed", "EM": "0", "F1": "0"}
+{"qid": "q_11910", "final_pred": "1890. ", "EM": "0", "F1": "0"}
+{"qid": "q_11912", "final_pred": "19th- and 20th-century art", "EM": "1", "F1": "1.0"}
+{"qid": "q_11913", "final_pred": "0 years.\"\n00:00:16 - 00:00:", "EM": "0", "F1": "0"}
+{"qid": "q_11914", "final_pred": "1965. ", "EM": "0", "F1": "0"}
+{"qid": "q_11916", "final_pred": "1861 to 1865", "EM": "0", "F1": "0"}
+{"qid": "q_11917", "final_pred": "No", "EM": "0", "F1": "0"}
+{"qid": "q_11921", "final_pred": "Ulm, Germany. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_11924", "final_pred": "1889.\n2. Kruger National Park - As one of Africa's largest", "EM": "0", "F1": "0"}
+{"qid": "q_11926", "final_pred": "Tom Shadyac", "EM": "0", "F1": "0"}
+{"qid": "q_11928", "final_pred": "1", "EM": "0", "F1": "0"}
+{"qid": "q_11929", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11930", "final_pred": "2022", "EM": "0", "F1": "0"}
+{"qid": "q_11932", "final_pred": "Charles Darwin. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11933", "final_pred": "49. ", "EM": "0", "F1": "0"}
+{"qid": "q_11934", "final_pred": "yes. ", "EM": "0", "F1": "0"}
+{"qid": "q_11935", "final_pred": "1850.\n", "EM": "0", "F1": "0.5"}
+{"qid": "q_11936", "final_pred": "1970", "EM": "0", "F1": "0"}
+{"qid": "q_11938", "final_pred": "Ohio", "EM": "0", "F1": "0"}
+{"qid": "q_11939", "final_pred": "Vancouver", "EM": "0", "F1": "0"}
+{"qid": "q_11940", "final_pred": "1982. ", "EM": "0", "F1": "0.5"}
+{"qid": "q_11941", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11942", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11943", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_11944", "final_pred": "7", "EM": "0", "F1": "0"}
+{"qid": "q_11945", "final_pred": "1992. ", "EM": "0", "F1": "0"}
+{"qid": "q_11946", "final_pred": "32", "EM": "1", "F1": "1.0"}
+{"qid": "q_11950", "final_pred": "0", "EM": "0", "F1": "0"}
+{"qid": "q_11952", "final_pred": "Carlos Ischia. ", "EM": "0", "F1": "0"}
+{"qid": "q_11954", "final_pred": "Wisconsin", "EM": "0", "F1": "0"}
+{"qid": "q_11956", "final_pred": "California. ", "EM": "0", "F1": "0"}
+{"qid": "q_11957", "final_pred": "1923. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_11959", "final_pred": "1", "EM": "1", "F1": "1.0"}
+{"qid": "q_11964", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11966", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_11969", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11970", "final_pred": "14 years. ", "EM": "0", "F1": "0"}
+{"qid": "q_11971", "final_pred": "Chao Phraya River", "EM": "1", "F1": "1.0"}
+{"qid": "q_11973", "final_pred": "Vincent van der Voort", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "q_11974", "final_pred": "Belgium. ", "EM": "0", "F1": "0"}
+{"qid": "q_11975", "final_pred": "1715", "EM": "0", "F1": "0"}
+{"qid": "q_11976", "final_pred": "20,000", "EM": "0", "F1": "0"}
+{"qid": "q_11977", "final_pred": "Spain. ", "EM": "0", "F1": "0"}
+{"qid": "q_11978", "final_pred": "49 states and the District of Columbia", "EM": "0", "F1": "0"}
+{"qid": "q_11979", "final_pred": "33,778", "EM": "0", "F1": "0"}
+{"qid": "q_11982", "final_pred": "39. ", "EM": "0", "F1": "0"}
+{"qid": "q_11983", "final_pred": "11. ", "EM": "0", "F1": "0"}
+{"qid": "q_11984", "final_pred": "1800", "EM": "0", "F1": "0"}
+{"qid": "q_11985", "final_pred": "South Carolina", "EM": "0", "F1": "0.5"}
+{"qid": "q_11986", "final_pred": "56", "EM": "0", "F1": "0"}
+{"qid": "q_11987", "final_pred": "29. ", "EM": "0", "F1": "0"}
+{"qid": "q_11988", "final_pred": "44", "EM": "0", "F1": "0"}
+{"qid": "q_11989", "final_pred": "31", "EM": "0", "F1": "0"}
+{"qid": "q_11990", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_11991", "final_pred": "Kids & Explosions", "EM": "0", "F1": "0"}
+{"qid": "q_11992", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_11994", "final_pred": "1921. ", "EM": "0", "F1": "0"}
+{"qid": "q_11996", "final_pred": "1985", "EM": "0", "F1": "0"}
+{"qid": "q_11998", "final_pred": "29. ", "EM": "0", "F1": "0"}
+{"qid": "q_11999", "final_pred": "Ice-T", "EM": "0", "F1": "0.13333333333333333"}
+{"qid": "q_12002", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_12003", "final_pred": "Ohio", "EM": "0", "F1": "0"}
+{"qid": "q_12006", "final_pred": "Rio de Janeiro", "EM": "1", "F1": "1.0"}
+{"qid": "q_12007", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12008", "final_pred": "1754. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12009", "final_pred": "1930. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12010", "final_pred": "50 miles (80 km). ", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "q_12012", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_12013", "final_pred": "18. ", "EM": "0", "F1": "0"}
+{"qid": "q_12014", "final_pred": "2010 - 2002 = 8 years", "EM": "0", "F1": "0"}
+{"qid": "q_12015", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_12016", "final_pred": "yes, Sir Robert Best was still alive when Atholl Fleming's son was born", "EM": "0", "F1": "0"}
+{"qid": "q_12017", "final_pred": "Walter Forde", "EM": "1", "F1": "1.0"}
+{"qid": "q_12018", "final_pred": "California", "EM": "1", "F1": "1.0"}
+{"qid": "q_12019", "final_pred": "1976. ", "EM": "0", "F1": "0"}
+{"qid": "q_12020", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_12021", "final_pred": "92. ", "EM": "0", "F1": "0"}
+{"qid": "q_12023", "final_pred": "8", "EM": "0", "F1": "0"}
+{"qid": "q_12024", "final_pred": "2001", "EM": "0", "F1": "0"}
+{"qid": "q_12025", "final_pred": "1 year. ", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_12026", "final_pred": "80", "EM": "0", "F1": "0"}
+{"qid": "q_12027", "final_pred": "Death Comes to Time", "EM": "1", "F1": "1.0"}
+{"qid": "q_12028", "final_pred": "Peter Capaldi", "EM": "1", "F1": "1.0"}
+{"qid": "q_12030", "final_pred": "204. ", "EM": "0", "F1": "0"}
+{"qid": "q_12031", "final_pred": "6 years", "EM": "0", "F1": "0"}
+{"qid": "q_12032", "final_pred": "35,175", "EM": "0", "F1": "0"}
+{"qid": "q_12033", "final_pred": "1928", "EM": "0", "F1": "0"}
+{"qid": "q_12034", "final_pred": "21. ", "EM": "0", "F1": "0"}
+{"qid": "q_12035", "final_pred": "New York City, New York, USA. ", "EM": "0", "F1": "0"}
+{"qid": "q_12036", "final_pred": "9", "EM": "0", "F1": "0"}
+{"qid": "q_12037", "final_pred": "1980", "EM": "0", "F1": "0"}
+{"qid": "q_12038", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "q_12039", "final_pred": "1977. ", "EM": "0", "F1": "0"}
+{"qid": "q_12040", "final_pred": "25", "EM": "1", "F1": "1.0"}
+{"qid": "q_12041", "final_pred": "1869. ", "EM": "0", "F1": "0"}
+{"qid": "q_12043", "final_pred": "Yes", "EM": "0", "F1": "0"}
+{"qid": "q_12044", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_12045", "final_pred": "1971 - 1967 = 4 years", "EM": "0", "F1": "0"}
+{"qid": "q_12046", "final_pred": "1968", "EM": "0", "F1": "0"}
+{"qid": "q_12047", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_12048", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_12049", "final_pred": "1882", "EM": "0", "F1": "0"}
+{"qid": "q_12052", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_12053", "final_pred": "Australia. ", "EM": "0", "F1": "0"}
+{"qid": "q_12054", "final_pred": "Ann Arbor", "EM": "0", "F1": "0"}
+{"qid": "q_12055", "final_pred": "4-3. ", "EM": "0", "F1": "0"}
+{"qid": "q_12056", "final_pred": "59. ", "EM": "0", "F1": "0"}
+{"qid": "q_12057", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "q_12058", "final_pred": "187 miles", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "q_12060", "final_pred": "56", "EM": "1", "F1": "1.0"}
+{"qid": "q_12061", "final_pred": "50", "EM": "0", "F1": "0"}
+{"qid": "q_12065", "final_pred": "$121 million", "EM": "0", "F1": "0"}
+{"qid": "q_12067", "final_pred": "Ann Arbor", "EM": "0", "F1": "0"}
+{"qid": "q_12069", "final_pred": "1898", "EM": "0", "F1": "0"}
+{"qid": "q_12070", "final_pred": "10 million", "EM": "0", "F1": "0.5"}
+{"qid": "q_12073", "final_pred": "1946", "EM": "0", "F1": "0"}
+{"qid": "q_12075", "final_pred": "yes. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12076", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_12077", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "q_12079", "final_pred": "60", "EM": "0", "F1": "0"}
+{"qid": "q_12080", "final_pred": "45. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12081", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "q_12082", "final_pred": "Mumbai", "EM": "1", "F1": "1.0"}
+{"qid": "q_12083", "final_pred": "44", "EM": "1", "F1": "1.0"}
+{"qid": "q_12085", "final_pred": "25", "EM": "0", "F1": "0"}
+{"qid": "q_12086", "final_pred": "2019-2020", "EM": "0", "F1": "0"}
+{"qid": "q_12088", "final_pred": "yes, William's father was older than the person who commissioned William to explore in Florida", "EM": "0", "F1": "0"}
+{"qid": "q_12091", "final_pred": "42. ", "EM": "0", "F1": "0"}
+{"qid": "q_12093", "final_pred": "2. Japan. 3. Costa Rica - Costa Rica is a tropical paradise with lush", "EM": "0", "F1": "0"}
+{"qid": "q_12095", "final_pred": "Scotland", "EM": "1", "F1": "1.0"}
+{"qid": "q_12098", "final_pred": "5", "EM": "0", "F1": "0"}
+{"qid": "q_12102", "final_pred": "1869. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12103", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "q_12104", "final_pred": "Big Ten Conference", "EM": "0", "F1": "0.4"}
+{"qid": "q_12105", "final_pred": "1945.\n\n5. Miyajima: Miyajima is a", "EM": "0", "F1": "0"}
+{"qid": "q_12106", "final_pred": "55", "EM": "0", "F1": "0"}
+{"qid": "q_12107", "final_pred": "Illinois. ", "EM": "0", "F1": "0"}
+{"qid": "q_12109", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_12110", "final_pred": "Trinidad and Tobago. ", "EM": "0", "F1": "0"}
+{"qid": "q_12111", "final_pred": "Texas. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12112", "final_pred": "10", "EM": "0", "F1": "0"}
+{"qid": "q_12113", "final_pred": "1907. ", "EM": "0", "F1": "0"}
+{"qid": "q_12114", "final_pred": "Harvard University. ", "EM": "0", "F1": "0"}
+{"qid": "q_12115", "final_pred": "1209. ", "EM": "0", "F1": "0"}
+{"qid": "q_12116", "final_pred": "29. ", "EM": "1", "F1": "1.0"}
+{"qid": "q_12117", "final_pred": "2000", "EM": "0", "F1": "0"}
+{"qid": "q_12118", "final_pred": "50.\n2. The Rams' Late-Season Surge: The Los Angeles", "EM": "0", "F1": "0"}
+{"qid": "q_12121", "final_pred": "Manchester United. ", "EM": "0", "F1": "0"}
+{"qid": "q_12122", "final_pred": "10 miles (16 km) long.\n2. Grand Canyon National Park,", "EM": "0", "F1": "0"}
+{"qid": "q_12123", "final_pred": "China, Vietnam, and Laos", "EM": "0", "F1": "0.16"}
+{"qid": "q_12124", "final_pred": "San Jose", "EM": "0", "F1": "0"}
+{"qid": "q_12125", "final_pred": "Ireland", "EM": "0", "F1": "0"}
+{"qid": "q_12126", "final_pred": "1988", "EM": "0", "F1": "0"}
+{"qid": "q_12127", "final_pred": "1925", "EM": "0", "F1": "0"}
+{"qid": "q_12128", "final_pred": "Yes", "EM": "1", "F1": "1.0"}
+{"qid": "q_12129", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "q_12130", "final_pred": "Girona", "EM": "0", "F1": "0"}
+{"qid": "q_12131", "final_pred": "147 meters (482 feet). ", "EM": "0", "F1": "0"}
+{"qid": "q_12133", "final_pred": "2016", "EM": "0", "F1": "0"}
+{"qid": "q_12134", "final_pred": "2019", "EM": "0", "F1": "0"}
+{"qid": "q_12135", "final_pred": "24 years", "EM": "0", "F1": "0"}
+{"qid": "q_12137", "final_pred": "William F. Hagerty. ", "EM": "0", "F1": "0"}
+{"qid": "q_12138", "final_pred": "40", "EM": "0", "F1": "0"}
+{"qid": "q_12139", "final_pred": "3", "EM": "0", "F1": "0"}

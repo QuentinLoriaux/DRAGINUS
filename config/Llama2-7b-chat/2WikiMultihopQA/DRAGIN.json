@@ -1,10 +1,10 @@
 {
-    "model_name_or_path": "meta-llama/Llama-2-7b-chat",
+    "model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
     "method": "dragin",
     "dataset": "2wikimultihopqa",
     "data_path": "../data/2wikimultihopqa",
     "fewshot": 6,
-    "sample": 1000,
+    "sample": 400,
     "shuffle": false,
     "generate_max_length": 64,
     "query_formulation": "real_words",

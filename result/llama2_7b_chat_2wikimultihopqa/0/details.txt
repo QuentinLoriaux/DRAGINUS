@@ -1,0 +1,21 @@
+{"qid": "8813f87c0bdd11eba7f7acde48001122", "final_pred": "Maria \u017bu\u0142awska", "EM": "0", "F1": "0"}
+{"qid": "61a46987092f11ebbdaeac1f6bf848b6", "final_pred": "Blind Shaft", "EM": "0", "F1": "0"}
+{"qid": "e2a3bf2a0bdd11eba7f7acde48001122", "final_pred": "20 August 1630", "EM": "0", "F1": "0"}
+{"qid": "0cd3bdea0bde11eba7f7acde48001122", "final_pred": "1963.\n\n", "EM": "0", "F1": "0"}
+{"qid": "f9dcb4a60bda11eba7f7acde48001122", "final_pred": "Missoula, Montana, USA", "EM": "0", "F1": "0.8"}
+{"qid": "8981e1ce0bb011ebab90acde48001122", "final_pred": "Henry IV of France", "EM": "0", "F1": "0"}
+{"qid": "019bed300bde11eba7f7acde48001122", "final_pred": "Bra\u0219ov, Romania", "EM": "0", "F1": "0"}
+{"qid": "a7b9672009c311ebbdb0ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "298f23b8088a11ebbd6eac1f6bf848b6", "final_pred": "El Extra\u00f1o Viaje.\n", "EM": "1", "F1": "1.0"}
+{"qid": "2ec440560bb011ebab90acde48001122", "final_pred": "Seleucus II", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "05f8a691087b11ebbd67ac1f6bf848b6", "final_pred": "22 August 2013", "EM": "0", "F1": "0"}
+{"qid": "645c9a5a08c311ebbd8dac1f6bf848b6", "final_pred": "Once A Gentleman", "EM": "1", "F1": "1.0"}
+{"qid": "5bec3cd408a711ebbd7fac1f6bf848b6", "final_pred": "Il Seduttore", "EM": "0", "F1": "0"}
+{"qid": "464cfa460bd911eba7f7acde48001122", "final_pred": "Brooklyn, New York, USA", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "c05e16a40bdd11eba7f7acde48001122", "final_pred": "Kirk Douglas", "EM": "0", "F1": "0"}
+{"qid": "2935f1640bda11eba7f7acde48001122", "final_pred": "Los Angeles, California, USA", "EM": "0", "F1": "0"}
+{"qid": "ada1b358085211ebbd58ac1f6bf848b6", "final_pred": "George William Whitaker", "EM": "0", "F1": "0"}
+{"qid": "3f857208086c11ebbd61ac1f6bf848b6", "final_pred": "1899.\n", "EM": "0", "F1": "0"}
+{"qid": "dfe93efe0bdd11eba7f7acde48001122", "final_pred": "March 2, 2004", "EM": "0", "F1": "0"}
+{"qid": "1d890623088711ebbd6dac1f6bf848b6", "final_pred": "Tangled Destinies", "EM": "1", "F1": "1.0"}
+{"qid": "d8c36503097411ebbdb0ac1f6bf848b6", "final_pred": "Moment Of Danger", "EM": "1", "F1": "1.0"}

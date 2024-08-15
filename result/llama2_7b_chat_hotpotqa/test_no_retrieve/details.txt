@@ -1,0 +1,10 @@
+{"qid": "5a8b57f25542995d1e6f1371", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a8c7595554299585d9e36b6", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a85ea095542994775f606a8", "final_pred": "Inheritance Cycle", "EM": "0", "F1": "0"}
+{"qid": "5adbf0a255429947ff17385a", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a8e3ea95542995a26add48d", "final_pred": "New York City.\n", "EM": "0", "F1": "0.7499999999999999"}
+{"qid": "5abd94525542992ac4f382d2", "final_pred": "JYP Entertainment.\n", "EM": "0", "F1": "0.5"}
+{"qid": "5a85b2d95542997b5ce40028", "final_pred": "Aladin Abdel-Qadir", "EM": "0", "F1": "0"}
+{"qid": "5a87ab905542996e4f3088c1", "final_pred": "1,000", "EM": "0", "F1": "0"}
+{"qid": "5a7bbb64554299042af8f7cc", "final_pred": "Terry Richardson", "EM": "1", "F1": "1.0"}
+{"qid": "5a8db19d5542994ba4e3dd00", "final_pred": "no.\n", "EM": "0", "F1": "0"}

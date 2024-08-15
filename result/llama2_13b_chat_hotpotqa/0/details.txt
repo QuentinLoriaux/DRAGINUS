@@ -1,0 +1,75 @@
+{"qid": "5a8b57f25542995d1e6f1371", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a8c7595554299585d9e36b6", "final_pred": "United States Ambassador to UNESCO", "EM": "0", "F1": "0"}
+{"qid": "5a85ea095542994775f606a8", "final_pred": "Animorphs", "EM": "1", "F1": "1.0"}
+{"qid": "5adbf0a255429947ff17385a", "final_pred": "\u00c7ukurcuma, Beyo\u011flu, Istanbul, Turkey.\n\nStep", "EM": "0", "F1": "0"}
+{"qid": "5a8e3ea95542995a26add48d", "final_pred": "the United States", "EM": "0", "F1": "0"}
+{"qid": "5abd94525542992ac4f382d2", "final_pred": "YG Entertainment", "EM": "1", "F1": "1.0"}
+{"qid": "5a85b2d95542997b5ce40028", "final_pred": "Agathe Aladin", "EM": "0", "F1": "0"}
+{"qid": "5a87ab905542996e4f3088c1", "final_pred": "3,650", "EM": "0", "F1": "0"}
+{"qid": "5a7bbb64554299042af8f7cc", "final_pred": "Annie Morton", "EM": "0", "F1": "0"}
+{"qid": "5a8db19d5542994ba4e3dd00", "final_pred": "1987.\n", "EM": "0", "F1": "0"}
+{"qid": "5a7166395542994082a3e814", "final_pred": "\"I'm a Jayhawk\"", "EM": "0", "F1": "0"}
+{"qid": "5a877e5d5542993e715abf7d", "final_pred": "David Diamond", "EM": "0", "F1": "0.5"}
+{"qid": "5ab3b0bf5542992ade7c6e39", "final_pred": "1999", "EM": "1", "F1": "1.0"}
+{"qid": "5ab56e32554299637185c594", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5ab6d09255429954757d337d", "final_pred": "1986-2013", "EM": "0", "F1": "0"}
+{"qid": "5a75e05c55429976ec32bc5f", "final_pred": "2,935,347", "EM": "0", "F1": "0"}
+{"qid": "5ab3e45655429976abd1bcd4", "final_pred": "Yankee Conference", "EM": "0", "F1": "0.4"}
+{"qid": "5ab29c24554299449642c932", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0d4c9554299603e418468", "final_pred": "1981-1989", "EM": "0", "F1": "0"}
+{"qid": "5a8133725542995ce29dcbdb", "final_pred": "Robert Erskine Childers", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5ae7a8175542993210983ed8", "final_pred": "Pedro Rodr\u00edguez", "EM": "1", "F1": "1.0"}
+{"qid": "5ae6050f55429929b0807a5e", "final_pred": "Sonic the Hedgehog", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5adddccd5542997dc7907069", "final_pred": "a Mac computer", "EM": "0", "F1": "0"}
+{"qid": "5ae2070a5542994d89d5b313", "final_pred": "Wolf Alice", "EM": "0", "F1": "0"}
+{"qid": "5ae22b8d554299234fd0440f", "final_pred": "Peter Schmeichel", "EM": "0", "F1": "0"}
+{"qid": "5a722b8655429971e9dc9329", "final_pred": "Lee Hazlewood", "EM": "0", "F1": "0.8"}
+{"qid": "5adf37a95542995ec70e8f97", "final_pred": "1968", "EM": "0", "F1": "0"}
+{"qid": "5abd259d55429924427fcf1a", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a828c8355429966c78a6a50", "final_pred": "Henry J", "EM": "0", "F1": "0.8"}
+{"qid": "5a8a3e745542996c9b8d5e70", "final_pred": "Tunnels & Trolls", "EM": "0", "F1": "0"}
+{"qid": "5ac23ff0554299636651994d", "final_pred": "14th March 2000", "EM": "0", "F1": "0.5"}
+{"qid": "5ae4a3265542995ad6573de5", "final_pred": "Japan", "EM": "0", "F1": "0"}
+{"qid": "5ae0361155429925eb1afc2c", "final_pred": "Roland Garros", "EM": "0", "F1": "0"}
+{"qid": "5abc0a5d5542993f40c73c64", "final_pred": "\"no\"", "EM": "1", "F1": "1.0"}
+{"qid": "5a7cc50e554299452d57ba3e", "final_pred": "Letters to Cleo", "EM": "1", "F1": "1.0"}
+{"qid": "5abf63f15542997ec76fd3ea", "final_pred": "1917", "EM": "0", "F1": "0"}
+{"qid": "5a8ef2a75542995a26add583", "final_pred": "2009", "EM": "0", "F1": "0"}
+{"qid": "5a80721b554299485f5985ef", "final_pred": "World War I", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab51dae5542991779162d82", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a7571135542992d0ec05f98", "final_pred": "Stanford", "EM": "0", "F1": "0"}
+{"qid": "5a7a0e1e5542990783324e1a", "final_pred": "Manchester Terrier", "EM": "0", "F1": "0"}
+{"qid": "5a74106b55429979e288289e", "final_pred": "India", "EM": "0", "F1": "0"}
+{"qid": "5a79311755429970f5fffe67", "final_pred": "1971", "EM": "0", "F1": "0"}
+{"qid": "5ab2d3df554299194fa9352c", "final_pred": "Ethiopian sovereignty", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a760ab65542994ccc918697", "final_pred": "Hubert Humphrey", "EM": "0", "F1": "0"}
+{"qid": "5a7d54165542995f4f402256", "final_pred": "East Lothian coast", "EM": "0", "F1": "0"}
+{"qid": "5ab859a955429934fafe6d7b", "final_pred": "Ray Davies", "EM": "0", "F1": "0"}
+{"qid": "5add61d65542995b365fab21", "final_pred": "Khrushchevism", "EM": "0", "F1": "0"}
+{"qid": "5a8e068b5542995085b37384", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5abbf698554299114383a0b5", "final_pred": "3: The de Havilland Mosquito", "EM": "0", "F1": "0"}
+{"qid": "5a8e1027554299653c1aa15f", "final_pred": "2018 Pac-12 Conference", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5ab84bf555429916710eb01f", "final_pred": "12,244", "EM": "0", "F1": "0"}
+{"qid": "5a77724455429972597f153e", "final_pred": "the Indianapolis Motor Speedway (IMS)", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5a87c13f5542996e4f30890c", "final_pred": "Paris", "EM": "0", "F1": "0"}
+{"qid": "5ab96ab755429970cfb8eacd", "final_pred": "\n\nMax Martin\nShellback\nGreg Kurstin\nRyan Tedder\nNoel Gallagher\nJamie Scott\nJohnny McDaid\n\nAll of these writers collaborated with Ellie Goulding on her third studio album, Delirium", "EM": "0", "F1": "0.11764705882352941"}
+{"qid": "5a8a43eb5542996c9b8d5e82", "final_pred": "Adelaide", "EM": "0", "F1": "0"}
+{"qid": "5ae73acb5542991e8301cc07", "final_pred": "drifting", "EM": "1", "F1": "1.0"}
+{"qid": "5a7320565542991f9a20c61d", "final_pred": "neither", "EM": "0", "F1": "0"}
+{"qid": "5ae32e125542991a06ce9946", "final_pred": "35,145", "EM": "0", "F1": "0"}
+{"qid": "5adc53f75542996e6852530a", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5a8b20335542996c9b8d5fb3", "final_pred": "Larry Johnson", "EM": "0", "F1": "0"}
+{"qid": "5a85fb085542994775f606de", "final_pred": "Joel Goldsm", "EM": "0", "F1": "0"}
+{"qid": "5a7be2595542997c3ec972ac", "final_pred": "1882.\n\nTherefore, Virginia Woolf was born earlier than Emma Bull", "EM": "0", "F1": "0.30769230769230765"}
+{"qid": "5a77152355429966f1a36c2e", "final_pred": "821", "EM": "1", "F1": "1.0"}
+{"qid": "5a8f4c8d554299458435d5a3", "final_pred": "230", "EM": "0", "F1": "0"}
+{"qid": "5a80840f554299485f59863b", "final_pred": "Charmed", "EM": "1", "F1": "1.0"}
+{"qid": "5a8361b65542992ef85e22a0", "final_pred": "the International Boxing Hall of Fame", "EM": "1", "F1": "1.0"}
+{"qid": "5ae7ba7a5542993210983f12", "final_pred": "1 of the 3. Step 2: The question states that the popular song was stuck behind", "EM": "0", "F1": "0"}
+{"qid": "5ac2acff55429921a00ab02b", "final_pred": "There is no answer", "EM": "0", "F1": "0"}
+{"qid": "5aba7cfe554299232ef4a2fd", "final_pred": "the EFL Cup", "EM": "0", "F1": "0.5"}
+{"qid": "5ae5aba0554299546bf82f17", "final_pred": "Teen Titans Go!", "EM": "1", "F1": "1.0"}
+{"qid": "5ae1f4cb554299234fd0436d", "final_pred": "Kievans", "EM": "0", "F1": "0"}
+{"qid": "5ae7e1fc55429952e35ea9cc", "final_pred": "orange", "EM": "1", "F1": "1.0"}
+{"qid": "5ae37c765542992f92d822d4", "final_pred": "Tromeo and Juliet", "EM": "1", "F1": "1.0"}
+{"qid": "5ae33c4d5542992f92d82262", "final_pred": "Bill Clinton", "EM": "0", "F1": "0.4"}
