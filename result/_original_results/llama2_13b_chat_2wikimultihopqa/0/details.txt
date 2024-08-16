@@ -1,0 +1,100 @@
+{"qid": "8813f87c0bdd11eba7f7acde48001122", "final_pred": "Irena Kwietniowska", "EM": "0", "F1": "0"}
+{"qid": "61a46987092f11ebbdaeac1f6bf848b6", "final_pred": "The Mask Of", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "e2a3bf2a0bdd11eba7f7acde48001122", "final_pred": "24 May 1747", "EM": "0", "F1": "0"}
+{"qid": "0cd3bdea0bde11eba7f7acde48001122", "final_pred": "Golden Bear", "EM": "0", "F1": "0"}
+{"qid": "f9dcb4a60bda11eba7f7acde48001122", "final_pred": "Denmark", "EM": "0", "F1": "0"}
+{"qid": "8981e1ce0bb011ebab90acde48001122", "final_pred": "Louis-C\u00e9sar de La Baume Le Blanc", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "019bed300bde11eba7f7acde48001122", "final_pred": "Romania", "EM": "0", "F1": "0"}
+{"qid": "a7b9672009c311ebbdb0ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "298f23b8088a11ebbd6eac1f6bf848b6", "final_pred": "Fernando Fern\u00e1n G\u00f3mez.\n", "EM": "0", "F1": "0"}
+{"qid": "2ec440560bb011ebab90acde48001122", "final_pred": "Seleucus II Callinicus", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "05f8a691087b11ebbd67ac1f6bf848b6", "final_pred": "Crimen A Las Tres", "EM": "0", "F1": "0"}
+{"qid": "645c9a5a08c311ebbd8dac1f6bf848b6", "final_pred": "Once A Gentleman", "EM": "1", "F1": "1.0"}
+{"qid": "5bec3cd408a711ebbd7fac1f6bf848b6", "final_pred": "Il Seduttore", "EM": "0", "F1": "0"}
+{"qid": "464cfa460bd911eba7f7acde48001122", "final_pred": "Brooklyn, New York, United States", "EM": "0", "F1": "0.7499999999999999"}
+{"qid": "c05e16a40bdd11eba7f7acde48001122", "final_pred": "heart attack", "EM": "0", "F1": "0.5"}
+{"qid": "2935f1640bda11eba7f7acde48001122", "final_pred": "London, England", "EM": "0", "F1": "0"}
+{"qid": "ada1b358085211ebbd58ac1f6bf848b6", "final_pred": "Fleetwood Sheppard", "EM": "1", "F1": "1.0"}
+{"qid": "3f857208086c11ebbd61ac1f6bf848b6", "final_pred": "Ke\u00efta!", "EM": "0", "F1": "0"}
+{"qid": "dfe93efe0bdd11eba7f7acde48001122", "final_pred": "August 25, 1963", "EM": "0", "F1": "0"}
+{"qid": "1d890623088711ebbd6dac1f6bf848b6", "final_pred": "Tangled Destinies", "EM": "1", "F1": "1.0"}
+{"qid": "d8c36503097411ebbdb0ac1f6bf848b6", "final_pred": "Moment Of Danger", "EM": "1", "F1": "1.0"}
+{"qid": "2207e9060bda11eba7f7acde48001122", "final_pred": "American", "EM": "0", "F1": "0"}
+{"qid": "7abc1e3008d511ebbd98ac1f6bf848b6", "final_pred": "Poker In Bed", "EM": "0", "F1": "0"}
+{"qid": "ae331827088b11ebbd6fac1f6bf848b6", "final_pred": "The Incredible Sarah.\n", "EM": "0", "F1": "0"}
+{"qid": "2002bf0c0bb011ebab90acde48001122", "final_pred": "Philip the Magnanimous.\n", "EM": "0", "F1": "0"}
+{"qid": "c531e7560baf11ebab90acde48001122", "final_pred": "Marie Leszczynska", "EM": "0", "F1": "0.5"}
+{"qid": "4d982dc308c111ebbd8bac1f6bf848b6", "final_pred": "Condemned Women", "EM": "1", "F1": "1.0"}
+{"qid": "a9cc5f240bdb11eba7f7acde48001122", "final_pred": "not given", "EM": "0", "F1": "0"}
+{"qid": "6ebe05740bde11eba7f7acde48001122", "final_pred": "Nice, France.\n", "EM": "0", "F1": "0"}
+{"qid": "a0065fe9085f11ebbd5dac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "7c490349090311ebbdadac1f6bf848b6", "final_pred": "Placer Sangriento", "EM": "1", "F1": "1.0"}
+{"qid": "8d2382e0085811ebbd5aac1f6bf848b6", "final_pred": "\u015eemsettin Ba\u015f", "EM": "0", "F1": "0"}
+{"qid": "1a114c5e088f11ebbd71ac1f6bf848b6", "final_pred": "22 August 1907.\n", "EM": "0", "F1": "0"}
+{"qid": "7a1d9d7c0bb011ebab90acde48001122", "final_pred": "Octavian", "EM": "0", "F1": "0"}
+{"qid": "0bedb7e80bdc11eba7f7acde48001122", "final_pred": "pulmonary tuberculosis", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "1869092c0bb011ebab90acde48001122", "final_pred": "Manadhar", "EM": "0", "F1": "0"}
+{"qid": "9980b1ed089d11ebbd78ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "c19b72520bdb11eba7f7acde48001122", "final_pred": "Beijing, China", "EM": "0", "F1": "0.5"}
+{"qid": "3a84baaf088311ebbd6dac1f6bf848b6", "final_pred": "Madame Pasca", "EM": "1", "F1": "1.0"}
+{"qid": "633132f008b711ebbd88ac1f6bf848b6", "final_pred": "D'Arcy Coulson", "EM": "1", "F1": "1.0"}
+{"qid": "9aee006a09c211ebbdb0ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "b3110a5e0bda11eba7f7acde48001122", "final_pred": "Denmark", "EM": "0", "F1": "0"}
+{"qid": "5b6b8c02089711ebbd77ac1f6bf848b6", "final_pred": "45 Fathers.\n", "EM": "1", "F1": "1.0"}
+{"qid": "3705552a0bb011ebab90acde48001122", "final_pred": "Louis Alexan Berthier", "EM": "0", "F1": "0.4"}
+{"qid": "07e964920bde11eba7f7acde48001122", "final_pred": "Vigevano, Italy", "EM": "0", "F1": "0"}
+{"qid": "f7c4fdf2087611ebbd67ac1f6bf848b6", "final_pred": "A Quiet Place In The Country", "EM": "1", "F1": "1.0"}
+{"qid": "db19bf4c086e11ebbd62ac1f6bf848b6", "final_pred": "John Beach", "EM": "1", "F1": "1.0"}
+{"qid": "9e6d7bdc08a111ebbd79ac1f6bf848b6", "final_pred": "The House By The Cemetery", "EM": "0", "F1": "0"}
+{"qid": "c3c94d0a0bdc11eba7f7acde48001122", "final_pred": "no one", "EM": "0", "F1": "0"}
+{"qid": "96fb4aee0baf11ebab90acde48001122", "final_pred": "Queen Joan of Ponthieu.\n", "EM": "0", "F1": "0.4"}
+{"qid": "e618b2c608c911ebbd92ac1f6bf848b6", "final_pred": "Nicos Poulantzas", "EM": "0", "F1": "0"}
+{"qid": "d71f453b085811ebbd5bac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "f7eb7e31088c11ebbd70ac1f6bf848b6", "final_pred": "Aryeh Ben-Eliezer", "EM": "1", "F1": "1.0"}
+{"qid": "e41c14820bd911eba7f7acde48001122", "final_pred": "France", "EM": "0", "F1": "0"}
+{"qid": "27e835ee0bb011ebab90acde48001122", "final_pred": "William Gore, 1st Earl of Arran", "EM": "0", "F1": "0.1818181818181818"}
+{"qid": "3f635554096511ebbdafac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "b69ad95c08ad11ebbd83ac1f6bf848b6", "final_pred": "Heroes Of The Street", "EM": "1", "F1": "1.0"}
+{"qid": "931a85420bdd11eba7f7acde48001122", "final_pred": "London, England", "EM": "1", "F1": "1.0"}
+{"qid": "0bbded440bda11eba7f7acde48001122", "final_pred": "India", "EM": "0", "F1": "0"}
+{"qid": "258867240bdd11eba7f7acde48001122", "final_pred": "Vancouver, Canada", "EM": "0", "F1": "0"}
+{"qid": "3cbd107e0bde11eba7f7acde48001122", "final_pred": "Huntington, New York, United States", "EM": "0", "F1": "0"}
+{"qid": "5e8240ea0bdd11eba7f7acde48001122", "final_pred": "Rome, Italy", "EM": "1", "F1": "1.0"}
+{"qid": "6638110e0bdb11eba7f7acde48001122", "final_pred": "Moscow, Russia", "EM": "1", "F1": "1.0"}
+{"qid": "7de9188c088b11ebbd6fac1f6bf848b6", "final_pred": "Toen 'T Licht Verdween.\n", "EM": "1", "F1": "1.0"}
+{"qid": "3972d2b60baf11ebab90acde48001122", "final_pred": "Marie Of Valois", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "a8cbc4c40bdc11eba7f7acde48001122", "final_pred": "France", "EM": "0", "F1": "0"}
+{"qid": "32e50df00bb011ebab90acde48001122", "final_pred": "Albert III of Austria", "EM": "0", "F1": "0.22222222222222224"}
+{"qid": "deb907f80bdd11eba7f7acde48001122", "final_pred": "Germany", "EM": "0", "F1": "0"}
+{"qid": "b81fbe620bdc11eba7f7acde48001122", "final_pred": "Budapest, Hungary", "EM": "0", "F1": "0"}
+{"qid": "3717c0600bde11eba7f7acde48001122", "final_pred": "Regensburg", "EM": "0", "F1": "0"}
+{"qid": "0f1ac1a00bdb11eba7f7acde48001122", "final_pred": "Ivor Novello Award", "EM": "0", "F1": "0.4"}
+{"qid": "f420d4a008a311ebbd7cac1f6bf848b6", "final_pred": "Antonieta", "EM": "0", "F1": "0"}
+{"qid": "6638a0f0084e11ebbd56ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "07388c7c0bb011ebab90acde48001122", "final_pred": "King Louis Xi Of France", "EM": "0", "F1": "0.20000000000000004"}
+{"qid": "83ff07cd096711ebbdafac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "7a57c5d2089111ebbd73ac1f6bf848b6", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "42f6d3b208b911ebbd88ac1f6bf848b6", "final_pred": "Gene Watson", "EM": "1", "F1": "1.0"}
+{"qid": "f1ff478c089011ebbd72ac1f6bf848b6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "6b55ac320bdb11eba7f7acde48001122", "final_pred": "July 18, 1918", "EM": "0", "F1": "0"}
+{"qid": "424d56700bde11eba7f7acde48001122", "final_pred": "Germany", "EM": "0", "F1": "0"}
+{"qid": "5c0c69f80bdd11eba7f7acde48001122", "final_pred": "Thailand", "EM": "0", "F1": "0"}
+{"qid": "ac786909087411ebbd67ac1f6bf848b6", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "29427eea0bdd11eba7f7acde48001122", "final_pred": "Liverpool, England", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "d370f0b0085711ebbd5aac1f6bf848b6", "final_pred": "Captain Kidd (1945 film).\nQuestion", "EM": "0", "F1": "0.4000000000000001"}
+{"qid": "a9f9985a09a211ebbdb0ac1f6bf848b6", "final_pred": "Knee Deep In My Heart", "EM": "0", "F1": "0.3636363636363636"}
+{"qid": "53ab316c08b911ebbd88ac1f6bf848b6", "final_pred": "The Devil's Hairpin", "EM": "1", "F1": "1.0"}
+{"qid": "bc633e2c0baf11ebab90acde48001122", "final_pred": "King", "EM": "0", "F1": "0"}
+{"qid": "2b4bd5020baf11ebab90acde48001122", "final_pred": "Kuj\u014d Kanezane", "EM": "0", "F1": "0.5"}
+{"qid": "3647118c0bdd11eba7f7acde48001122", "final_pred": "Madrid, Spain", "EM": "1", "F1": "1.0"}
+{"qid": "d6074911090011ebbdadac1f6bf848b6", "final_pred": "She Wore A Yellow Ribbon", "EM": "1", "F1": "1.0"}
+{"qid": "146b7443086611ebbd5eac1f6bf848b6", "final_pred": "Michael Doeberl", "EM": "0", "F1": "0"}
+{"qid": "ea1fc06c0bda11eba7f7acde48001122", "final_pred": "Prime Minister of Norway", "EM": "0", "F1": "0"}
+{"qid": "00c75ffc0bde11eba7f7acde48001122", "final_pred": "Saarbr\u00fccken, Germany", "EM": "0", "F1": "0"}
+{"qid": "94198d580bb011ebab90acde48001122", "final_pred": "Matilda of Tuscany", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "71d8e20e0bdb11eba7f7acde48001122", "final_pred": "Cardiff", "EM": "0", "F1": "0"}
+{"qid": "0323cdea090d11ebbdadac1f6bf848b6", "final_pred": "Emmy Of Stork'S Nest", "EM": "1", "F1": "1.0"}
+{"qid": "f7c153ce092e11ebbdaeac1f6bf848b6", "final_pred": "Dilan 1991", "EM": "0", "F1": "0"}
+{"qid": "0f44750808e411ebbda4ac1f6bf848b6", "final_pred": "Silas Hardy", "EM": "0", "F1": "0"}
+{"qid": "e701105e0bdd11eba7f7acde48001122", "final_pred": "Berlin, Germany", "EM": "0", "F1": "0"}
+{"qid": "b5e9ef2c0bdd11eba7f7acde48001122", "final_pred": "Homs, Syria", "EM": "0", "F1": "0.6666666666666666"}

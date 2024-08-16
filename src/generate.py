@@ -53,7 +53,8 @@ class BasicGenerator:
 
         self.stopList = StoppingCriteriaList([StopOnPeriod(self.tokenizer)])
         self.stopQuestion = StoppingCriteriaList([StopOnQuestion(self.tokenizer)])
-        
+       
+        self.variant = None
         # ================== few-shot for negation ==================
         negate_few_shot1_prompt = """
         <input> The Theory of Relativity, developed by Albert Einstein, revolutionized our understanding of space, time, and gravity. </input>
@@ -144,6 +145,8 @@ class BasicGenerator:
         <input> """
         conclusion_few_shot_prompt2 = """ </input>
         <output> """
+        self.conclusion_few_shot1 = self.tokenizer.encode(conclusion_few_shot_prompt1, return_tensors="pt")[0]
+        self.conclusion_few_shot2 = self.tokenizer.encode(conclusion_few_shot_prompt2, return_tensors="pt")[0][1:]
 
 
 
@@ -226,7 +229,7 @@ class BasicGenerator:
 
 
     def clean_output(self, outputs_seq, input_length):
-        # Truncate post answer tokens caused by few-shot
+        # Truncate post-answer tokens caused by few-shot
         tokens = self.get_tokens(gen_tokens=outputs_seq[:, input_length:])
         seqtok = []
         range_ = self.range_words(gen_tokens=outputs_seq[:, input_length:])
@@ -247,12 +250,10 @@ class BasicGenerator:
         input_ids = self.tokenizer.encode(input_text, return_tensors="pt")
         input_ids = input_ids.to(self.model.device)
         input_length = input_ids.shape[1]
-        #attention_mask = torch.ones_like(input_ids)
 
         outputs = self.model.generate(
             input_ids = input_ids, 
             max_new_tokens = max_length, 
-            # attention_mask = attention_mask,
             stopping_criteria = self.stopQuestion,
         )
         generated_tokens = self.clean_output(outputs_seq=outputs, input_length=input_length )[:, input_length:]
@@ -272,23 +273,29 @@ class BasicGenerator:
             return_dict_in_generate = True, 
             output_scores = True,
         )
-        outputs.sequences = self.clean_output(outputs.sequences, input_length)
-        # print("###", outputs.sequences)
+        outputs.sequences = self.clean_output(outputs.sequences, input_length) # ================== IDEA TO DO : stop generation if \nQuestion is first sentence generated or when <s> appears
         self.stored_outputs = outputs
         self.current_input_length = input_length
 
         # for i in range(12):
-        #     ftoken = self.tokenizer.convert_ids_to_tokens([outputs.sequences[0, input_length+i]])
+        #     ftoken = self.tokenizer.convert_ids_to_tokens([outputs.sequences[0, input_length+i]]) # forced token
         #     prefix_inp = outputs.sequences[0, :input_length+i].view(1, -1)
         #     print(ftoken, self.next_prob(prefix_inp, ftoken))
 
         return outputs, input_length
 
-    def generate_opp(self, input_tokens, max_length, solver="max"):
+    def generate_sub(self, input_tokens, max_length):
         input_tokens_ids = torch.tensor(self.tokenizer.convert_tokens_to_ids(input_tokens))
-        # input_ids = torch.cat( (self.ditto_few_shot1, input_tokens_ids , self.ditto_few_shot2)).view(1, -1).to(self.model.device)
-        input_ids = torch.cat( (self.negate_few_shot1, input_tokens_ids , self.negate_few_shot2)).view(1, -1).to(self.model.device)
-        # input_ids = torch.cat( (self.substitute_few_shot1, input_tokens_ids , self.substitute_few_shot2)).view(1, -1).to(self.model.device)
+
+        if self.variant == "negate":
+            input_ids = torch.cat( (self.negate_few_shot1, input_tokens_ids , self.negate_few_shot2)).view(1, -1).to(self.model.device)
+        elif self.variant == "ditto":
+            input_ids = torch.cat( (self.ditto_few_shot1, input_tokens_ids , self.ditto_few_shot2)).view(1, -1).to(self.model.device)
+        elif self.variant == "substitute":
+            input_ids = torch.cat( (self.substitute_few_shot1, input_tokens_ids , self.substitute_few_shot2)).view(1, -1).to(self.model.device)
+        else:
+            raise NotImplementedError
+
         input_length = input_ids.shape[1]
         attention_mask = torch.ones_like(input_ids)
 
@@ -380,10 +387,6 @@ class BasicRAG:
         sentences = [sent for sent in sentences if len(sent) > 0]
         return sentences[0] if len(sentences) > 0 else ""
 
-    def get_last_sentence(self, text):
-        sentences = [sent.text.strip() for sent in nlp(text).sents]
-        sentences = [sent for sent in sentences if len(sent) > 0]
-        return sentences[-1] if len(sentences) > 0 else "" 
     
     def inference(self, question, demo, case):
         # non-retrieval
@@ -403,67 +406,14 @@ class BasicRAG:
 class AttnWeightRAG(BasicRAG):
     def __init__(self, args):
         super().__init__(args)
-
-    def modifier(self, text):
-        attentions = self.generator.get_attention()
-        entropies = self.generator.get_entropy()
-        tokens = self.generator.get_tokens()
-        range_ = self.generator.range_words()
-
-        seqtok = []
-        seqattns = []
-        seqentropies = []
-        for r in range_:
-            seqtok.append("".join(tokens[r[0]: r[1]+1]).replace(self.generator.space_token, ""))
-            seqattns.append(sum(attentions[r[0]: r[1]+1]).item())
-            seqentropies.append(sum(entropies[r[0]:r[1]+1]) / (r[1] - r[0] + 1)) 
-
-        sentences = [sent.text.strip() for sent in nlp(text).sents]
-        sentences = [sent for sent in sentences if len(sent) > 0]
-        tid = 0
-        for sid, sent in enumerate(sentences):
-            tl, tr = tid, tid
-            if sid == len(sentences) - 1:
-                tl, tr = tid, len(seqtok)
-            else:
-                for i in range(tid + 1, len(seqtok)):
-                    seq = " ".join(seqtok[tl:i])
-                    if sent in seq:
-                        tr = i
-                        break
-                tid = tr
-
-            # if self.method == 'dragin_base':
-                attns = seqattns[tl:tr]
-                attns = np.array(attns) / sum(attns)
-                value = [attns[i-tl] * seqentropies[i] * (tr-tl) for i in range(tl, tr)] # ============ Idea : Tolerate  longer sentences
-                # print("=====\n", "VALUE", value)
-                thres = [1 if v > self.hallucination_threshold else 0 for v in value] # ============ Idea : use neuron layer instead of threshold
-                if 1 in thres:
-                    # hallucinated
-                    print("hallucinated words",[seqtok[i+tl] for i,j in enumerate(thres) if j == 1])
-                    if "check_real_words" in self.__dict__ and self.check_real_words:
-                        doc = nlp(sent)
-                        real_words = set(token.text for token in doc if token.pos_ in 
-                            ['NOUN', 'ADJ', 'VERB', 'PROPN', 'NUM'])
-                        def match(tok):
-                            for word in real_words:
-                                if word in tok:
-                                    return True
-                            return False
-                        for i in range(len(thres)):
-                            if not match(seqtok[tl+i]):
-                                thres[i] = 0                
-                    prev = "" if sid == 0 else " ".join(sentences[:sid-1])# well generated. Why not keeping the previous sentence?
-                    return True, prev, seqtok[tl:tr], thres
-
-            # elif self.method == 'negation_check': # use opposite sentence 
-                # return False, text, None, None
-            
-        return False, None, None, None
+        self.generator.variant = self.variant
 
 
-    def negation(self, text, former_prompt):
+    def need_detection(self, text, former_prompt):
+        
+        if self.method == 'no_rag':
+            return False, None, None, None
+
         attentions = self.generator.get_attention()
         entropies = self.generator.get_entropy()
         tokens = self.generator.get_tokens()
@@ -494,118 +444,137 @@ class AttnWeightRAG(BasicRAG):
                         break
                 tid = tr
 
-            if "answer" in sent.lower() or "answer" in seqtok[tl:tr]: # I choose to not detect hallucinations in the answer and anything past this is unwanted
+            if "answer" in sent.lower() or "answer" in seqtok[tl:tr]: # I choose to not detect hallucinations in the final answer and anything past this is unwanted
                 return False, None, None, None
 
-            if tr - tl <= 3: # ignore 1. 2. 3. and non meaningful sentences
+            if tr - tl <= 3: # ignore 1. 2. 3. enumerations and non meaningful sentences
                 continue
 
-            cpt = 0
-            while range_[tl][0]+cpt < len(tokens) and  tokens[range_[tl][0]+cpt] not in ['.', '?', '!']: # get length of sentence in tokens
-                cpt += 1
 
-            # Compute attention for sentence
+            # Compute attention weight for sentence
             attns = seqattns[tl:tr]
             attns = np.array(attns) / sum(attns)
 
-            # Compute SRIND and comparison values
             sRINDvalue = [attns[i-tl] * seqentropies[i] * (tr-tl) for i in range(tl, tr)] 
-            value = sum([attns[i-tl] * seqentropies[i] for i in range(tl, tr)])/(tr-tl)
-
-            print("===== INFO =====")
-            print(seqtok[tl:tr])
-            # print(tokens[range_[tl][0] : range_[tl][0]+cpt+1])
-            print(value)
-
-            # =============== GENERATION OF OPPOSITE SENTENCE =================
-            outputs, input_length = self.generator.generate_opp(tokens[range_[tl][0] : range_[tl][0]+cpt+1], max_length=self.generate_max_length)
-            opp_tokens = self.generator.get_tokens()
-
-            # raw opposite attention
-            before_ids = torch.tensor(self.generator.tokenizer.convert_tokens_to_ids(tokens[:range_[tl][0]])).to(self.generator.model.device) # previous sentences generated
-            after_ids = torch.tensor(self.generator.tokenizer.convert_tokens_to_ids(tokens[range_[tl][0]+cpt+1 :])).to(self.generator.model.device) # next sentences generated
-            if sid == 0:
-                aware_ids = torch.cat( ( outputs.sequences[:, input_length:][0] , after_ids )).view(1, -1)
-            else:
-                aware_ids = torch.cat( ( before_ids ,outputs.sequences[:, input_length:][0] , after_ids )).view(1, -1)
-            opp_attns = self.generator.get_attention(gen_tokens = aware_ids)[range_[tl][0]:range_[tl][0]+len(opp_tokens)]
-
-            # computing entropy + probs
-            entropies, opp_probs = [], []
-            prefix_ids = self.generator.tokenizer.encode(former_prompt, return_tensors="pt").to(self.generator.model.device)
-            if sid > 0:
-                prefix_ids = torch.cat( (prefix_ids[0], before_ids)).view(1, -1).to(self.generator.model.device)
-            for i in range(len(opp_tokens)):
-                input_ids = prefix_ids
-                if i > 0:
-                    prev_forced_ids = torch.tensor(self.generator.tokenizer.convert_tokens_to_ids(opp_tokens[:i])).to(self.generator.model.device)
-                    input_ids = torch.cat( (prefix_ids[0] , prev_forced_ids )).view(1, -1).to(self.generator.model.device)
-                
-                entropies.append(self.generator.next_entropy(input_ids))
-                i_prob = self.generator.next_prob(input_ids, opp_tokens[i])
-                opp_probs.append(i_prob)
-                # print(opp_tokens[i] , i_prob)
-
-            # computing words values
-            opp_attnseqs = []
-            opp_token_seqs = []
-            opp_entropseqs = []
-            opp_range = self.generator.range_words()
-            for r in opp_range:
-                opp_entropseqs.append(sum(entropies[r[0]:r[1]+1]) / (r[1] - r[0] + 1))
-                opp_attnseqs.append(sum(opp_attns[r[0]: r[1]+1]).item())
-                opp_token_seqs.append("".join(opp_tokens[r[0]: r[1]+1]).replace(self.generator.space_token, ""))
-
-            # normalize attention for current sentence
-            weight_attns = np.array(opp_attnseqs) / sum(opp_attnseqs)
-
-            # opp_value = [weight_attns[i] * opp_entropseqs[i] * len(opp_token_seqs) for i in range(len(opp_token_seqs))]
-            opp_value = sum([weight_attns[i] * opp_entropseqs[i] for i in range(len(opp_token_seqs))])/(len(opp_token_seqs))
-
-            print(opp_token_seqs)
-            # print(opp_tokens)
-            print(opp_value)
-
-            # thres to remove hallucinated words from query
             thres = [1 if v > self.hallucination_threshold else 0 for v in sRINDvalue]
-            tolerance = 1.01 # lower value to tolerate more 
-            comparison = opp_value > value*tolerance
-            # comparison = True
-            if not comparison:
-                # hallucinated
-                print("hallucinated words",[seqtok[i+tl] for i,j in enumerate(thres) if j == 1])
-                if "check_real_words" in self.__dict__ and self.check_real_words:
-                    doc = nlp(sent)
-                    real_words = set(token.text for token in doc if token.pos_ in 
-                        ['NOUN', 'ADJ', 'VERB', 'PROPN', 'NUM'])
-                    def match(tok):
-                        for word in real_words:
-                            if word in tok:
-                                return True
-                        return False
-                    for i in range(len(thres)):
-                        if not match(seqtok[tl+i]):
-                            thres[i] = 0                
-                prev = "" if sid == 0 else " ".join(sentences[:sid-1])
-                return True, prev, seqtok[tl:tr], thres
+            
+            if self.method == 'draginus':
+                
+                # get length of sentence in tokens
+                cpt = 0
+                while range_[tl][0]+cpt < len(tokens) and  tokens[range_[tl][0]+cpt] not in ['.', '?', '!']: 
+                    cpt += 1
+
+                # generation of substitute
+                outputs, input_length = self.generator.generate_sub(tokens[range_[tl][0] : range_[tl][0]+cpt+1], max_length=self.generate_max_length)
+                sub_tokens = self.generator.get_tokens()
+
+                # raw opposite attention
+                before_ids = torch.tensor(self.generator.tokenizer.convert_tokens_to_ids(tokens[:range_[tl][0]])).to(self.generator.model.device) # previous sentences generated
+                after_ids = torch.tensor(self.generator.tokenizer.convert_tokens_to_ids(tokens[range_[tl][0]+cpt+1 :])).to(self.generator.model.device) # next sentences generated
+                if sid == 0:
+                    aware_ids = torch.cat( ( outputs.sequences[:, input_length:][0] , after_ids )).view(1, -1)
+                else:
+                    aware_ids = torch.cat( ( before_ids ,outputs.sequences[:, input_length:][0] , after_ids )).view(1, -1)
+
+                sub_attns = self.generator.get_attention(gen_tokens = aware_ids)[range_[tl][0]:range_[tl][0]+len(sub_tokens)]
+
+                # computing entropy + probs
+                entropies, sub_probs = [], []
+                prefix_ids = self.generator.tokenizer.encode(former_prompt, return_tensors="pt").to(self.generator.model.device)
+                if sid > 0:
+                    prefix_ids = torch.cat( (prefix_ids[0], before_ids)).view(1, -1).to(self.generator.model.device)
+
+                for i in range(len(sub_tokens)):
+                    input_ids = prefix_ids
+                    if i > 0:
+                        prev_forced_ids = torch.tensor(self.generator.tokenizer.convert_tokens_to_ids(sub_tokens[:i])).to(self.generator.model.device)
+                        input_ids = torch.cat( (prefix_ids[0] , prev_forced_ids )).view(1, -1).to(self.generator.model.device)
+                    
+                    entropies.append(self.generator.next_entropy(input_ids))
+                    # i_prob = self.generator.next_prob(input_ids, sub_tokens[i])
+                    # sub_probs.append(i_prob)
+                    # print(sub_tokens[i] , i_prob)
+
+
+                # computing words values
+                sub_attnseqs = []
+                sub_token_seqs = []
+                sub_entropseqs = []
+                for r in self.generator.range_words():
+                    sub_entropseqs.append(sum(entropies[r[0]:r[1]+1]) / (r[1] - r[0] + 1))
+                    sub_attnseqs.append(sum(sub_attns[r[0]: r[1]+1]).item())
+                    sub_token_seqs.append("".join(sub_tokens[r[0]: r[1]+1]).replace(self.generator.space_token, ""))
+
+                # normalize attention for current sentence
+                weight_attns = np.array(sub_attnseqs) / sum(sub_attnseqs)
+
+                # sub_SRINDvalue = [weight_attns[i] * sub_entropseqs[i] * len(sub_token_seqs) for i in range(len(sub_token_seqs))]
+                value = sum([attns[i-tl] * seqentropies[i] for i in range(tl, tr)])/(tr-tl)
+                sub_value = sum([weight_attns[i] * sub_entropseqs[i] for i in range(len(sub_token_seqs))])/(len(sub_token_seqs))
+
+                print("===== INFO =====")
+                print(seqtok[tl:tr])
+                # print(tokens[range_[tl][0] : range_[tl][0]+cpt+1])
+                print(value)
+
+                print(sub_token_seqs)
+                # print(sub_tokens)
+                print(sub_value)
+
+                if "intolerance" in self.__dict__ :
+                    confident = sub_value > value*self.intolerance
+                else:
+                    print("intolerance defaulting to 1")
+                    confident = sub_value > value
+
+                if not confident:
+                    print("hallucinated words",[seqtok[i+tl] for i,j in enumerate(thres) if j == 1])
+                    if "check_real_words" in self.__dict__ and self.check_real_words:
+                        thres = self.filter_real_words(sent, seqtok[tl:], thres)
+                    prev = "" if sid == 0 else " ".join(sentences[:sid-1])
+                    return True, prev, seqtok[tl:tr], thres
+
+            elif self.method == 'dragin':
+                if 1 in thres :
+                    print("hallucinated words",[seqtok[i+tl] for i,j in enumerate(thres) if j == 1])
+                    if "check_real_words" in self.__dict__ and self.check_real_words:
+                        thres = self.filter_real_words(sent, seqtok[tl:], thres)
+                    prev = "" if sid == 0 else " ".join(sentences[:sid-1])
+                    return True, prev, seqtok[tl:tr], thres
+            
+            else:
+                raise NotImplementedError
+
+
+
         return False, None, None, None
 
-# compare the mean between the generated sentence and the negation sentence. use a threshold ?
 
 
+    def filter_real_words(self, sent, seqtok, thres):
+        doc = nlp(sent)
+        real_words = set(token.text for token in doc if token.pos_ in 
+            ['NOUN', 'ADJ', 'VERB', 'PROPN', 'NUM'])
+        def match(tok):
+            for word in real_words:
+                if word in tok:
+                    return True
+            return False
+        for i in range(len(thres)):
+            if not match(seqtok[i]):
+                thres[i] = 0  
+        return thres
  
+
+
     def inference(self, question, demo, case):
-        # print(question, "#" * 20)
-
-        # demo = []
-        # case = "the arena where the lewiston maineiacs played their home games can seat how many people?"
-        # question = case
-
-        # ============================= idea : determine type of question to modify treatment
-        text = ""
+        
         print("#" * 20, question, "#" * 20)
+        text = ""
         while True:
             old_len = len(text)
+
             prompt = "".join([d["case"]+"\n" for d in demo])
             prompt += " ".join(s for s in  [case, text] if len(s) > 0)
             
@@ -616,46 +585,47 @@ class AttnWeightRAG(BasicRAG):
             if self.use_counter == True:
                 self.counter.add_generate(new_text, self.generator.tokenizer)
 
-            hallucination, ptext, curr_tokens, curr_hit =  self.negation(new_text, prompt) #================= idea : compare to the negation
-            # hallucination, ptext, curr_tokens, curr_hit =  self.modifier(new_text)
-            # hallucination = False
-            if not hallucination:
+            activated, prev_text, curr_tokens, curr_hit =  self.need_detection(new_text, prompt) 
+
+            if not activated:
                 text = text.strip() + " " + new_text.strip()
             else:
                 print('#### curr_hit ', curr_hit)
+                
                 # query formulation 
-                if self.query_formulation == "real_words": 
-                    retrieve_question = self.keep_real_words(
-                        prev_text = " ".join(s for s in [question, text, ptext] if len(s) > 0), 
-                        curr_tokens = curr_tokens, 
-                        curr_hit = curr_hit,
-                    ) 
+                retrieve_question = self.keep_real_words(
+                    prev_text = " ".join(s for s in [question, text, prev_text] if len(s) > 0), 
+                    curr_tokens = curr_tokens, 
+                    curr_hit = curr_hit,
+                ) 
 
                 # Retrieval
                 docs = self.retrieve(retrieve_question, topk=self.retrieve_topk)
 
-                prompt = "".join([d["case"]+"\n" for d in demo]) # few-shot , case : question + prompt
+                # prompt formulation
+                prompt = "".join([d["case"]+"\n" for d in demo])
                 prompt += "context:\n"
                 for i, doc in enumerate(docs):
                     prompt += f"[{i+1}] {doc}\n"
                     # print(f"[{i+1}] {doc}\n")
                 prompt += "Answer in the same format as before.\n"
-                prompt += " ".join(s for s in [case, text, ptext.strip()] if len(s) > 0)
+                prompt += " ".join(s for s in [case, text, prev_text.strip()] if len(s) > 0)
 
-                # print('#####', prompt)
+                # Generation
                 new_text = self.generator.generate_naive(prompt, self.generate_max_length)
-                print('#### RAG AUGMENTED TXT ', new_text)
+                print('#### RAG TXT ', new_text)
 
                 if self.use_counter == True:
                     self.counter.add_generate(new_text, self.generator.tokenizer)
                     self.counter.hallucinated += 1
 
                 new_text = self.get_top_sentence(new_text)
-                text = " ".join(s for s in [text.strip(), ptext.strip(), new_text.strip()] if len(s) > 0)
+                text = " ".join(s for s in [text.strip(), prev_text.strip(), new_text.strip()] if len(s) > 0)
 
+                # print('#####', prompt)
                 # print("### retrieve_question ###\n", retrieve_question, "\n###context###\n", context, "\n###new_text###\n", new_text, "\n###text###\n", text, "\n###\n")
             
-            # 判断 token 的个数要少于 generate_max_length 
+            # end loop if answer given or too much tokens
             tokens_count = len(self.generator.tokenizer.encode(text))
             if tokens_count > self.generate_max_length or len(text) <= old_len or "the answer is" in text:
                 break
@@ -681,17 +651,17 @@ class AttnWeightRAG(BasicRAG):
             tokenseq = "".join(tokens_tmp[r[0]: r[1]+1]).replace(self.generator.space_token, "")
             tokens.append(tokenseq)
 
-        # 获取幻觉词对应的 attention
         curr_st = len(tokens) - len(curr_tokens)
+        
+        # get attention corresponding to words 
         atten_tmp = torch.mean(atten_tmp, dim=0)
         attns = []
         for r in range_:
-            # att = torch.zeros(atten_tmp.shape[0], input_length)
             att = torch.zeros(input_length)
             for i in range(r[0], r[1] + 1):
                 if i == 0:
                     continue
-                v = atten_tmp[i-1][:r[0]] # 上一位的
+                v = atten_tmp[i-1][:r[0]] 
                 v = v / v.sum()
                 t = torch.zeros(input_length)
                 t[:r[0]] = v
@@ -701,17 +671,17 @@ class AttnWeightRAG(BasicRAG):
             att = torch.tensor([att[rr[0]:rr[1]+1].sum() for rr in range_])
             attns.append(att)
             
-        # 计算每个超过阈值的 token 在前文的 attentions
+        # Count the attentions of each token that exceeds the threshold 
         forward_attns = torch.zeros(len(tokens))
         hit_cnt = 0
         for i in range(len(curr_hit)):
             if curr_hit[i] == 1:
-                forward_attns += attns[curr_st + i]
+                forward_attns += attns[curr_st + i] # it looks like it adds some attention values of other non hallucinated words, did not understand...
                 hit_cnt += 1
         forward_attns /= hit_cnt
         forward_attns = forward_attns.tolist()
 
-        # 分析词性，保留实词对应的 attns
+        # grammar analysis and keeping attention of real words 
         doc = nlp(all_text)
         real_words = set(token.text for token in doc if token.pos_ in 
                       ['NOUN', 'ADJ', 'VERB', 'PROPN', 'NUM'])
@@ -739,15 +709,6 @@ class AttnWeightRAG(BasicRAG):
         real_pairs = real_pairs[:top_k]
         real_pairs = sorted(real_pairs, key = lambda x:x[2])
         return " ".join([x[1] for x in real_pairs])
-
-
-
-
-
-
-
-         
-
 
 
 

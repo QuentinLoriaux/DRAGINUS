@@ -14,12 +14,15 @@ logger = logging.getLogger(__name__)
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("-c", "--config_path", type=str, required=True)
+    parser.add_argument("-i", "--intolerance", type=float, required=False)
     args = parser.parse_args()
     config_path = args.config_path
+    intolerance = args.intolerance
     with open(config_path, "r") as f:
         args = json.load(f)
     args = argparse.Namespace(**args)
     args.config_path = config_path
+    args.intolerance = intolerance
     if "shuffle" not in args:
         args.shuffle = False 
     if "use_counter" not in args:
@@ -66,26 +69,11 @@ def main():
         samples = min(len(data), args.sample)
         data = data.select(range(samples))
    
-    # 根据 method 选择不同的生成策略
-    if args.method == "non-retrieval":
-        model = BasicRAG(args)
-    elif args.method == "single-retrieval":
-        model = SingleRAG(args)
-    elif args.method == "fix-length-retrieval" or args.method == "fix-sentence-retrieval":
-        model = FixLengthRAG(args)
-    elif args.method == "token":
-        model = TokenRAG(args)
-    elif args.method == "entity":
-        model = EntityRAG(args)
-    elif args.method == "attn_prob" or args.method == "dragin":
-        model = AttnWeightRAG(args)
-    else:
-        raise NotImplementedError
+    model = AttnWeightRAG(args)
 
     logger.info("start inference")
     for i in tqdm(range(len(data))):
         last_counter = copy(model.counter)
-        # i = 5
         batch = data[i]
         pred = model.inference(batch["question"], batch["demo"], batch["case"])
         pred = pred.strip()

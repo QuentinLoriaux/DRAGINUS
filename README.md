@@ -4,11 +4,12 @@ Instructions mostly copied from DRAGIN's repository.
 
 ## Specific to DRAGINUS
 
-This fork of DRAGIN uses substitutes of sentences and produces data with them in order to decide whether to activate or not the retrieval. The only different file from the original repository is generate.py, it contains separated functions to compute values such as probability, entropy and attention.
+This fork of DRAGIN uses substitutes of sentences and produces data with them in order to decide whether to activate or not the retrieval. The main different file from the original repository is generate.py, it contains separated functions to compute values such as probability, entropy and attention. I also adapted main.py to add parameters
 
-- The default substitutes are negations, you can replace them by keyword modifications or else by commenting/uncommenting the code in the **generate_full** function of generate.py.
-- In the **negate** function of generate.py, you can change the **tolerance** : lower means we accept more differences between a sentence and it's variant.
+- The default substitutes are negations in config files. They can be changed to "ditto" and "substitution" for now (see fewshots)
+- The intolerance parameter can be added by specifying the option "-i" in the command line. It is set to 1.0 by default.
 - feel free to ask questions and if I have time, I might update config files and add the above parameters there.
+- TODO: Compare usefulness of with DRAGINUS and without RAG
 
 ## Install environment
 
