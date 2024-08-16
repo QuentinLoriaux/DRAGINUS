@@ -1,6 +1,7 @@
 {
     "model_name_or_path": "meta-llama/Llama-2-13b-chat-hf",
-    "method": "dragin",
+    "method": "draginus",
+    "variant": "negate",
     "dataset": "2wikimultihopqa",
     "data_path": "../data/2wikimultihopqa",
     "fewshot": 6,

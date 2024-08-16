@@ -4,7 +4,7 @@
     "dataset": "hotpotqa",
     "data_path": "../data/hotpotqa",
     "fewshot": 8,
-    "sample": 400,
+    "sample": 1000,
     "shuffle": false,
     "generate_max_length": 100,
     "query_formulation": "real_words",

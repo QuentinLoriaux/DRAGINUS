@@ -1,5 +1,5 @@
 {
-    "model_name_or_path": "meta-llama/Llama-2-7b-chat-hf",
+    "model_name_or_path": "lmsys/vicuna-13b-v1.5",
     "method": "draginus",
     "variant": "negate",
     "dataset": "iirc",
@@ -10,7 +10,7 @@
     "generate_max_length": 128,
     "query_formulation": "real_words",
     "retrieve_keep_top_k": 35,
-    "output_dir": "../result/llama2_7b_chat_iirc",
+    "output_dir": "../result/vicuna_13b_v1.5_iirc",
     "retriever": "BM25",
     "es_index_name": "wiki",
     "retrieve_topk": 3,

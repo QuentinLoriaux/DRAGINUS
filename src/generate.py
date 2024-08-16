@@ -388,7 +388,7 @@ class BasicRAG:
         return sentences[0] if len(sentences) > 0 else ""
 
     
-    def inference(self, question, demo, case):
+    def inference(self, question, demo, case, ragless = False):
         # non-retrieval
         assert self.query_formulation == "direct"
         prompt = "".join([d["case"]+"\n" for d in demo])
@@ -568,7 +568,7 @@ class AttnWeightRAG(BasicRAG):
  
 
 
-    def inference(self, question, demo, case):
+    def inference(self, question, demo, case, ragless = False):
         
         print("#" * 20, question, "#" * 20)
         text = ""
@@ -585,7 +585,10 @@ class AttnWeightRAG(BasicRAG):
             if self.use_counter == True:
                 self.counter.add_generate(new_text, self.generator.tokenizer)
 
-            activated, prev_text, curr_tokens, curr_hit =  self.need_detection(new_text, prompt) 
+            if ragless:
+                activated = False
+            else:
+                activated, prev_text, curr_tokens, curr_hit =  self.need_detection(new_text, prompt) 
 
             if not activated:
                 text = text.strip() + " " + new_text.strip()

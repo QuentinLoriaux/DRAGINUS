@@ -1,6 +1,7 @@
 {
-    "model_name_or_path": "meta-llama/Llama-2-13b-chat-hf",
-    "method": "dragin",
+    "model_name_or_path": "lmsys/vicuna-13b-v1.5",
+    "method": "draginus",
+    "variant": "negate",
     "dataset": "hotpotqa",
     "data_path": "../data/hotpotqa",
     "fewshot": 8,
@@ -9,7 +10,7 @@
     "generate_max_length": 100,
     "query_formulation": "real_words",
     "retrieve_keep_top_k": 35,
-    "output_dir": "../result/llama2_13b_chat_hotpotqa",
+    "output_dir": "../result/vicuna_13b_v1.5_hotpotqa",
     "retriever": "BM25",
     "es_index_name": "wiki",
     "retrieve_topk": 3,

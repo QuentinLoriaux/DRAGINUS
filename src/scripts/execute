@@ -1,0 +1,14 @@
+#!bash
+
+run_and_eval() {
+    local model=$1
+    local dataset=$2
+    local intolerance=$3
+
+    config_path="../config/${model}/${dataset}/draginus.json"
+    result_path="../result/$(echo "${model}" | tr '[:upper:]' '[:lower:]' | tr '-' '_')_${dataset}/0"
+
+    python3 main.py -c "${config_path}" -i ${intolerance}
+    python3 evaluate.py --dir "${result_path}"
+}
+

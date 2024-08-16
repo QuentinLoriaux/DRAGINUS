@@ -4,7 +4,7 @@
     "dataset": "iirc",
     "data_path": "../data/iirc",
     "fewshot": 8,
-    "sample": 100,
+    "sample": 1000,
     "shuffle": false,
     "generate_max_length": 128,
     "query_formulation": "real_words",
