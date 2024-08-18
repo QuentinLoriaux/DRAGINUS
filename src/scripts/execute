@@ -6,7 +6,7 @@ run_and_eval() {
     local intolerance=$3
 
     config_path="../config/${model}/${dataset}/draginus.json"
-    result_path="../result/$(echo "${model}" | tr '[:upper:]' '[:lower:]' | tr '-' '_')_${dataset}/0"
+    result_path="../result/$(echo "${model}" | tr '[:upper:]' '[:lower:]' | tr '-' '_')_$(echo "${dataset}" | tr '[:upper:]' '[:lower:]')/0"
 
     python3 main.py -c "${config_path}" -i ${intolerance}
     python3 evaluate.py --dir "${result_path}"

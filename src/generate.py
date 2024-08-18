@@ -207,7 +207,7 @@ class BasicGenerator:
 
     def next_entropy(self, prefix_ids):
         if prefix_ids.dtype != torch.long and prefix_ids.dtype != torch.int:
-            prefix_ids = gen_tokens.long()
+            prefix_ids = prefix_ids.long()
 
         outputs = self.model.generate(
             input_ids = prefix_ids, 
