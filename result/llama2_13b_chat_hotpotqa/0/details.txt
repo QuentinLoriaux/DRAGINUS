@@ -1,0 +1,1000 @@
+{"qid": "5a8b57f25542995d1e6f1371", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a8c7595554299585d9e36b6", "final_pred": "United States Ambassador to UNESCO", "EM": "0", "F1": "0"}
+{"qid": "5a85ea095542994775f606a8", "final_pred": "Animorphs", "EM": "1", "F1": "1.0"}
+{"qid": "5adbf0a255429947ff17385a", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a8e3ea95542995a26add48d", "final_pred": "the United States", "EM": "0", "F1": "0"}
+{"qid": "5abd94525542992ac4f382d2", "final_pred": "YG Entertainment", "EM": "1", "F1": "1.0"}
+{"qid": "5a85b2d95542997b5ce40028", "final_pred": "Agathe Aladin", "EM": "0", "F1": "0"}
+{"qid": "5a87ab905542996e4f3088c1", "final_pred": "3,677", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7bbb64554299042af8f7cc", "final_pred": "Annie Morton", "EM": "0", "F1": "0"}
+{"qid": "5a8db19d5542994ba4e3dd00", "final_pred": "1987.\n", "EM": "0", "F1": "0"}
+{"qid": "5a7166395542994082a3e814", "final_pred": "\"I'm a Jayhawk\"", "EM": "0", "F1": "0"}
+{"qid": "5a877e5d5542993e715abf7d", "final_pred": "David Diamond", "EM": "0", "F1": "0.5"}
+{"qid": "5ab3b0bf5542992ade7c6e39", "final_pred": "1999", "EM": "1", "F1": "1.0"}
+{"qid": "5ab56e32554299637185c594", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5ab6d09255429954757d337d", "final_pred": "1986-2013", "EM": "0", "F1": "0"}
+{"qid": "5a75e05c55429976ec32bc5f", "final_pred": "2,935,347", "EM": "0", "F1": "0"}
+{"qid": "5ab3e45655429976abd1bcd4", "final_pred": "Yankee Conference", "EM": "0", "F1": "0.4"}
+{"qid": "5ab29c24554299449642c932", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0d4c9554299603e418468", "final_pred": "1981-1989", "EM": "0", "F1": "0"}
+{"qid": "5a8133725542995ce29dcbdb", "final_pred": "Robert Erskine Childers", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5ae7a8175542993210983ed8", "final_pred": "Pedro Rodr\u00edguez", "EM": "1", "F1": "1.0"}
+{"qid": "5ae6050f55429929b0807a5e", "final_pred": "Sonic the Hedgehog", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5adddccd5542997dc7907069", "final_pred": "iSight iMac G5", "EM": "0", "F1": "0"}
+{"qid": "5ae2070a5542994d89d5b313", "final_pred": "Wolf Alice", "EM": "0", "F1": "0"}
+{"qid": "5ae22b8d554299234fd0440f", "final_pred": "Peter Schmeichel", "EM": "0", "F1": "0"}
+{"qid": "5a722b8655429971e9dc9329", "final_pred": "Lee Hazlewood", "EM": "0", "F1": "0.8"}
+{"qid": "5adf37a95542995ec70e8f97", "final_pred": "1968", "EM": "0", "F1": "0"}
+{"qid": "5abd259d55429924427fcf1a", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a828c8355429966c78a6a50", "final_pred": "Henry J", "EM": "0", "F1": "0.8"}
+{"qid": "5a8a3e745542996c9b8d5e70", "final_pred": "Tunnels & Trolls", "EM": "0", "F1": "0"}
+{"qid": "5ac23ff0554299636651994d", "final_pred": "2000", "EM": "1", "F1": "1.0"}
+{"qid": "5ae4a3265542995ad6573de5", "final_pred": "Japan", "EM": "0", "F1": "0"}
+{"qid": "5ae0361155429925eb1afc2c", "final_pred": "Roland Garros", "EM": "0", "F1": "0"}
+{"qid": "5abc0a5d5542993f40c73c64", "final_pred": "Step 4: Evaluate the information. Freakonomics is an American documentary", "EM": "0", "F1": "0"}
+{"qid": "5a7cc50e554299452d57ba3e", "final_pred": "Letters to Cleo", "EM": "1", "F1": "1.0"}
+{"qid": "5abf63f15542997ec76fd3ea", "final_pred": "1917", "EM": "0", "F1": "0"}
+{"qid": "5a8ef2a75542995a26add583", "final_pred": "2009", "EM": "0", "F1": "0"}
+{"qid": "5a80721b554299485f5985ef", "final_pred": "World War I", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab51dae5542991779162d82", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a7571135542992d0ec05f98", "final_pred": "Stanford", "EM": "0", "F1": "0"}
+{"qid": "5a7a0e1e5542990783324e1a", "final_pred": "Manchester Terrier", "EM": "0", "F1": "0"}
+{"qid": "5a74106b55429979e288289e", "final_pred": "India", "EM": "0", "F1": "0"}
+{"qid": "5a79311755429970f5fffe67", "final_pred": "1971", "EM": "0", "F1": "0"}
+{"qid": "5ab2d3df554299194fa9352c", "final_pred": "Ethiopian sovereignty", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a760ab65542994ccc918697", "final_pred": "Hubert Humphrey", "EM": "0", "F1": "0"}
+{"qid": "5a7d54165542995f4f402256", "final_pred": "East Lothian coast", "EM": "0", "F1": "0"}
+{"qid": "5ab859a955429934fafe6d7b", "final_pred": "John Lennon", "EM": "0", "F1": "0"}
+{"qid": "5add61d65542995b365fab21", "final_pred": "Khrushchevism", "EM": "0", "F1": "0"}
+{"qid": "5a8e068b5542995085b37384", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5abbf698554299114383a0b5", "final_pred": "3: The de Havilland Mosquito", "EM": "0", "F1": "0"}
+{"qid": "5a8e1027554299653c1aa15f", "final_pred": "2018 Pac-12 Conference", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5ab84bf555429916710eb01f", "final_pred": "12,244", "EM": "0", "F1": "0"}
+{"qid": "5a77724455429972597f153e", "final_pred": "the Indianapolis Motor Speedway (IMS)", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5a87c13f5542996e4f30890c", "final_pred": "Paris", "EM": "0", "F1": "0"}
+{"qid": "5ab96ab755429970cfb8eacd", "final_pred": "\n\nMax Martin\nShellback\nGreg Kurstin\nRyan Tedder\nNoel Gallagher\nJamie Scott\nJohnny McDaid\n\nAll of these writers collaborated with Ellie Goulding on her third studio album, Delirium", "EM": "0", "F1": "0.11764705882352941"}
+{"qid": "5a8a43eb5542996c9b8d5e82", "final_pred": "Adelaide", "EM": "0", "F1": "0"}
+{"qid": "5ae73acb5542991e8301cc07", "final_pred": "drifting", "EM": "1", "F1": "1.0"}
+{"qid": "5a7320565542991f9a20c61d", "final_pred": "Jerry Glanville", "EM": "0", "F1": "0"}
+{"qid": "5ae32e125542991a06ce9946", "final_pred": "35,145", "EM": "0", "F1": "0"}
+{"qid": "5adc53f75542996e6852530a", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5a8b20335542996c9b8d5fb3", "final_pred": "Larry Johnson", "EM": "0", "F1": "0"}
+{"qid": "5a85fb085542994775f606de", "final_pred": "Joel Goldsm", "EM": "0", "F1": "0"}
+{"qid": "5a7be2595542997c3ec972ac", "final_pred": "1882.\n\nTherefore, Virginia Woolf was born earlier than Emma Bull", "EM": "0", "F1": "0.30769230769230765"}
+{"qid": "5a77152355429966f1a36c2e", "final_pred": "821", "EM": "1", "F1": "1.0"}
+{"qid": "5a8f4c8d554299458435d5a3", "final_pred": "230", "EM": "0", "F1": "0"}
+{"qid": "5a80840f554299485f59863b", "final_pred": "Charmed", "EM": "1", "F1": "1.0"}
+{"qid": "5a8361b65542992ef85e22a0", "final_pred": "the International Boxing Hall of Fame", "EM": "1", "F1": "1.0"}
+{"qid": "5ae7ba7a5542993210983f12", "final_pred": "1 of the 3. Step 2: The question states that the popular song was stuck behind", "EM": "0", "F1": "0"}
+{"qid": "5ac2acff55429921a00ab02b", "final_pred": "There is no answer", "EM": "0", "F1": "0"}
+{"qid": "5aba7cfe554299232ef4a2fd", "final_pred": "the EFL Cup", "EM": "0", "F1": "0.5"}
+{"qid": "5ae5aba0554299546bf82f17", "final_pred": "Teen Titans Go!", "EM": "1", "F1": "1.0"}
+{"qid": "5ae1f4cb554299234fd0436d", "final_pred": "Kievans", "EM": "0", "F1": "0"}
+{"qid": "5ae7e1fc55429952e35ea9cc", "final_pred": "orange", "EM": "1", "F1": "1.0"}
+{"qid": "5ae37c765542992f92d822d4", "final_pred": "Tromeo and Juliet", "EM": "1", "F1": "1.0"}
+{"qid": "5ae33c4d5542992f92d82262", "final_pred": "Bill Clinton", "EM": "0", "F1": "0.4"}
+{"qid": "5a77cb335542997042120b3a", "final_pred": "John John Florence", "EM": "1", "F1": "1.0"}
+{"qid": "5a8979f4554299669944a52e", "final_pred": "Ward", "EM": "0", "F1": "0"}
+{"qid": "5a713ea95542994082a3e6e4", "final_pred": "Ais tribe", "EM": "0", "F1": "0"}
+{"qid": "5a78bd9b554299078472774a", "final_pred": "British", "EM": "1", "F1": "1.0"}
+{"qid": "5a7625e8554299109176e66a", "final_pred": "1865", "EM": "1", "F1": "1.0"}
+{"qid": "5ae2dd2055429928c423950d", "final_pred": "Haverhill", "EM": "0", "F1": "0"}
+{"qid": "5abdf12255429976d4830a2f", "final_pred": "Bob Seger", "EM": "1", "F1": "1.0"}
+{"qid": "5a88658955429938390d3f47", "final_pred": "drafting men into the armed forces", "EM": "0", "F1": "0"}
+{"qid": "5a86ebac55429960ec39b6d6", "final_pred": "Mondel\u0113z International", "EM": "0", "F1": "0.4"}
+{"qid": "5aba5d2e55429901930fa799", "final_pred": "Monica Lewinsky", "EM": "1", "F1": "1.0"}
+{"qid": "5ae5736e5542990ba0bbb2b3", "final_pred": "April 1, 1949", "EM": "1", "F1": "1.0"}
+{"qid": "5ae005b555429942ec259bec", "final_pred": "1880", "EM": "0", "F1": "0"}
+{"qid": "5a7759fc5542993569682d60", "final_pred": "Canary Islands, Spain", "EM": "1", "F1": "1.0"}
+{"qid": "5a835478554299123d8c20ed", "final_pred": "many", "EM": "0", "F1": "0"}
+{"qid": "5aba749055429901930fa7d8", "final_pred": "cinematographer and film director", "EM": "0", "F1": "0.4"}
+{"qid": "5abfb3425542990832d3a1c0", "final_pred": "The Conversation", "EM": "1", "F1": "1.0"}
+{"qid": "5ac3165c5542995ef918c10a", "final_pred": "John Waters", "EM": "1", "F1": "1.0"}
+{"qid": "5ae53b545542990ba0bbb23c", "final_pred": "Harrah's, Lake Tahoe, Nevada", "EM": "0", "F1": "0"}
+{"qid": "5ae224da554299234fd043ee", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5ae2b770554299495565db0f", "final_pred": "June", "EM": "0", "F1": "0"}
+{"qid": "5a80b3a9554299485f5986cc", "final_pred": "Fairfax County", "EM": "1", "F1": "1.0"}
+{"qid": "5a8e0a005542995085b373a1", "final_pred": "3.\n", "EM": "0", "F1": "0"}
+{"qid": "5ac1b8ee5542994d76dccedc", "final_pred": "Pamela B. Green", "EM": "0", "F1": "0"}
+{"qid": "5adccd795542990d50227d2c", "final_pred": "Beijing", "EM": "1", "F1": "1.0"}
+{"qid": "5a84c4135542994c784dda31", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a85eed75542996432c5713b", "final_pred": "distinct bands near the Native American Sem", "EM": "0", "F1": "0"}
+{"qid": "5a774e9c55429972597f14f3", "final_pred": "CeCe Winans", "EM": "0", "F1": "0"}
+{"qid": "5ae738f75542991bbc9761c4", "final_pred": "2009", "EM": "0", "F1": "0"}
+{"qid": "5ac32b565542995ef918c154", "final_pred": "Atlanta, Georgia", "EM": "0", "F1": "0"}
+{"qid": "5abc8d75554299700f9d7900", "final_pred": "Leo Varadkar", "EM": "1", "F1": "1.0"}
+{"qid": "5a8bb29b554299240d9c2089", "final_pred": "George Raft", "EM": "1", "F1": "1.0"}
+{"qid": "5ab659e355429954757d324e", "final_pred": "1889", "EM": "0", "F1": "0"}
+{"qid": "5a8b8b3155429949d91db5d7", "final_pred": "Step 2: Identify the commonality between Owner earnings and Warren Buffett", "EM": "0", "F1": "0"}
+{"qid": "5ae7eaf65542994a481bbe1d", "final_pred": "December 12, 1981", "EM": "0", "F1": "0"}
+{"qid": "5a8c4c625542995e66a475a1", "final_pred": "Bell X-1", "EM": "0", "F1": "0"}
+{"qid": "5a818387554299260e20a291", "final_pred": "Blake Shelton", "EM": "1", "F1": "1.0"}
+{"qid": "5ab978855542996be2020512", "final_pred": "2 centuries", "EM": "0", "F1": "0.5"}
+{"qid": "5ae63dad55429929b0807afe", "final_pred": "1936", "EM": "0", "F1": "0.5"}
+{"qid": "5a7a455c5542994f819ef1a7", "final_pred": "George Archainbaud", "EM": "1", "F1": "1.0"}
+{"qid": "5a7dcc775542990b8f503ab5", "final_pred": "picric acid", "EM": "1", "F1": "1.0"}
+{"qid": "5a887bc0554299206df2b2b6", "final_pred": "12", "EM": "0", "F1": "0"}
+{"qid": "5a83880e554299123d8c214e", "final_pred": "Batman", "EM": "0", "F1": "0"}
+{"qid": "5a879adb5542996e4f30887f", "final_pred": "a member of the United States House of Representatives", "EM": "0", "F1": "0.4"}
+{"qid": "5add11935542994734353827", "final_pred": "yes.\nOstava is not an American band. It is a Serbian rock band from", "EM": "0", "F1": "0"}
+{"qid": "5a8c5569554299240d9c2126", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a75f0ea5542994ccc91866c", "final_pred": "A500", "EM": "0", "F1": "0"}
+{"qid": "5a89f5815542993b751ca9c5", "final_pred": "Princess Jessica", "EM": "1", "F1": "1.0"}
+{"qid": "5a8d5fc6554299585d9e37c6", "final_pred": "\"The Spiderwick Chronicles\"", "EM": "1", "F1": "1.0"}
+{"qid": "5ac120c55542992a796dedfc", "final_pred": "KKR", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab7c1a955429928e1fe38c8", "final_pred": "The Bye Bye Man", "EM": "1", "F1": "1.0"}
+{"qid": "5abd01205542992ac4f3819b", "final_pred": "Bruxner Highway.\nStep 3: Identify the river that runs along the town of", "EM": "0", "F1": "0"}
+{"qid": "5ab69c25554299110f219a39", "final_pred": "Owsley Stanley", "EM": "1", "F1": "1.0"}
+{"qid": "5a7b12a355429927d897bf2a", "final_pred": "the 11th century", "EM": "0", "F1": "0.4"}
+{"qid": "5ae0006755429925eb1afbd3", "final_pred": "San Luis Obispo, California", "EM": "1", "F1": "1.0"}
+{"qid": "5ae305df5542992decbdcdc3", "final_pred": "KFC Yum!", "EM": "0", "F1": "0"}
+{"qid": "5a8574945542997b5ce3fffb", "final_pred": "LaLee's Kin: The Legacy of Cotton", "EM": "1", "F1": "1.0"}
+{"qid": "5a7332935542991f9a20c67d", "final_pred": "Catan", "EM": "0", "F1": "0"}
+{"qid": "5a80071f5542992bc0c4a684", "final_pred": "Crystal Dynamics", "EM": "1", "F1": "1.0"}
+{"qid": "5ae73c065542991e8301cc18", "final_pred": "Infinite", "EM": "0", "F1": "0"}
+{"qid": "5a87d8215542994775f60800", "final_pred": "\"Suicide Squad\"", "EM": "1", "F1": "1.0"}
+{"qid": "5ac2ffbd554299677310267b", "final_pred": "Alice Murphy", "EM": "0", "F1": "0"}
+{"qid": "5a7c960655429935c91b5244", "final_pred": "Texas Tech University", "EM": "1", "F1": "1.0"}
+{"qid": "5a7d61775542991319bc93b9", "final_pred": "neither", "EM": "0", "F1": "0"}
+{"qid": "5ac1c6805542994ab5c67e11", "final_pred": "animated television specials", "EM": "0", "F1": "0.30769230769230765"}
+{"qid": "5a7a230e5542996a35c170ee", "final_pred": "2005", "EM": "0", "F1": "0"}
+{"qid": "5ae4627d5542991a06ce9a4d", "final_pred": "St Hilda's College, Oxford", "EM": "0", "F1": "0.4"}
+{"qid": "5ac2d1d755429921a00ab053", "final_pred": "7 (Roberta Vinci's career-high singles ranking)", "EM": "0", "F1": "0.25"}
+{"qid": "5ab4e3065542990594ba9cb4", "final_pred": "\"Teach the Controversy\"", "EM": "0", "F1": "0.8"}
+{"qid": "5ac298f9554299657fa28fc9", "final_pred": "Ian Watkins", "EM": "0", "F1": "0.125"}
+{"qid": "5ab6a2be554299710c8d1f08", "final_pred": "Nebula", "EM": "0", "F1": "0"}
+{"qid": "5a738d27554299623ed4abf3", "final_pred": "Erika Jayne", "EM": "1", "F1": "1.0"}
+{"qid": "5ab2a186554299295394677b", "final_pred": "the 19th century", "EM": "0", "F1": "0"}
+{"qid": "5a8704f8554299211dda2ba4", "final_pred": "Isles of Scotland", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab5ed505542997d4ad1f255", "final_pred": "the Beatles", "EM": "1", "F1": "1.0"}
+{"qid": "5a77c1505542997042120b1b", "final_pred": "(Who Says) You Can't Have It All", "EM": "0", "F1": "0"}
+{"qid": "5a88d745554299206df2b378", "final_pred": "director", "EM": "1", "F1": "1.0"}
+{"qid": "5ae748d1554299572ea547b0", "final_pred": "1901", "EM": "1", "F1": "1.0"}
+{"qid": "5a7a8a9c554299042af8f666", "final_pred": "Argand lamp", "EM": "1", "F1": "1.0"}
+{"qid": "5adffe7155429906c02daa9e", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "5ab642845542995eadeeff8e", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a906a685542990a9849362e", "final_pred": "Brazil", "EM": "1", "F1": "1.0"}
+{"qid": "5a7633ad5542992db9473741", "final_pred": "the Seven Days Battles", "EM": "1", "F1": "1.0"}
+{"qid": "5a74ce9655429974ef308c6c", "final_pred": "Lush", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a713a5a5542994082a3e6a9", "final_pred": "Manchester United F.C.\n\nTherefore, the answer is Manchester United F.C", "EM": "0", "F1": "0.3636363636363636"}
+{"qid": "5ab341f755429969a97a8114", "final_pred": "1971.\n\nPlease note that the questions are based on the information provided in the", "EM": "0", "F1": "0"}
+{"qid": "5a8325b35542990548d0b18f", "final_pred": "Kathy Sullivan", "EM": "0", "F1": "0"}
+{"qid": "5ab9374b554299131ca422c6", "final_pred": "Frank Lowy", "EM": "1", "F1": "1.0"}
+{"qid": "5ae52c0f5542992663a4f12e", "final_pred": "Crystal Lake", "EM": "0", "F1": "0"}
+{"qid": "5adbfbd555429947ff173893", "final_pred": "Kelly Osbourne", "EM": "0", "F1": "0.8"}
+{"qid": "5ab7f0015542992aa3b8c88b", "final_pred": "Tommy Haas", "EM": "0", "F1": "0"}
+{"qid": "5ac547525542993e66e822a3", "final_pred": "research and development", "EM": "0", "F1": "0"}
+{"qid": "5a7cbf8c554299452d57b9f4", "final_pred": "Dinosaur", "EM": "1", "F1": "1.0"}
+{"qid": "5a7ddc5a5542995f4f4022da", "final_pred": "Wichita, Kansas", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7a1cd85542990783324e65", "final_pred": "November 8, 2016", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "5ae0a59a55429945ae9593e2", "final_pred": "Cunobeline", "EM": "0", "F1": "0"}
+{"qid": "5a8b987f5542997f31a41d7a", "final_pred": "C", "EM": "0", "F1": "0.5"}
+{"qid": "5a8739a05542994775f607ab", "final_pred": "Mexico", "EM": "0", "F1": "0"}
+{"qid": "5ae67dba55429908198fa5f0", "final_pred": "646,889", "EM": "0", "F1": "0"}
+{"qid": "5a7b3f4d5542992d025e67bb", "final_pred": "Benj Pasek and Justin Paul", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "5ae2dfd155429928c423951b", "final_pred": "Lake Macquarie", "EM": "0", "F1": "0"}
+{"qid": "5ab6ba245542995eadef007f", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5ab8854555429934fafe6e0c", "final_pred": "paintings", "EM": "0", "F1": "0"}
+{"qid": "5a8eea4a5542990e94052bb7", "final_pred": "Old Frisian", "EM": "0", "F1": "0"}
+{"qid": "5a74c85055429916b0164218", "final_pred": "the United Kingdom", "EM": "0", "F1": "0"}
+{"qid": "5a88dcf9554299206df2b383", "final_pred": "Scotland", "EM": "1", "F1": "1.0"}
+{"qid": "5a7625c7554299109176e668", "final_pred": "The Talk Nerdy with Carrie Keagan", "EM": "0", "F1": "0"}
+{"qid": "5ac0d83a554299294b219038", "final_pred": "Las Vegas", "EM": "0", "F1": "0"}
+{"qid": "5a790d8f554299029c4b5eec", "final_pred": "George Harrison", "EM": "1", "F1": "1.0"}
+{"qid": "5ab2c5e255429916697740ba", "final_pred": "center", "EM": "0", "F1": "0"}
+{"qid": "5abcfc365542993a06baf9d6", "final_pred": "1975", "EM": "0", "F1": "0"}
+{"qid": "5a8ee6915542990e94052bad", "final_pred": "season 1", "EM": "0", "F1": "0"}
+{"qid": "5abba4855542993f40c73b68", "final_pred": "Anthony Hemingway, John Dahl, and Steve Shill", "EM": "0", "F1": "0.16666666666666666"}
+{"qid": "5ae0bae555429906c02dab08", "final_pred": "The Joe Schmo Show", "EM": "0", "F1": "0"}
+{"qid": "5ab271fe554299449642c8a6", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5a7997a2554299029c4b5f59", "final_pred": "1990", "EM": "0", "F1": "0"}
+{"qid": "5add673e5542992ae4cec54d", "final_pred": "Oregon State Beavers", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ae819ac55429952e35eaa16", "final_pred": "NBC", "EM": "0", "F1": "0"}
+{"qid": "5aba65a055429939ce03dcd2", "final_pred": "French", "EM": "0", "F1": "0"}
+{"qid": "5a87bada5542994846c1cddc", "final_pred": "New Jersey", "EM": "0", "F1": "0"}
+{"qid": "5ae74fc45542997b22f6a6b4", "final_pred": "Severe acute respiratory syndrome (SARS)", "EM": "0", "F1": "0.888888888888889"}
+{"qid": "5adf65555542992d7e9f9334", "final_pred": "Jerry Green", "EM": "0", "F1": "0"}
+{"qid": "5ade69e455429975fa854ec5", "final_pred": "Vikram Bhatt", "EM": "0", "F1": "0"}
+{"qid": "5ae057fd55429945ae959328", "final_pred": "London", "EM": "0", "F1": "0"}
+{"qid": "5ab28019554299722f9b4d51", "final_pred": "no settlement", "EM": "0", "F1": "0"}
+{"qid": "5a75f79555429976ec32bcca", "final_pred": "Typhoon Haiyan", "EM": "0", "F1": "0"}
+{"qid": "5adef80b5542993a75d263c4", "final_pred": "Crackle", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0aaf455429945ae959401", "final_pred": "Brackley Town", "EM": "0", "F1": "0"}
+{"qid": "5ab47d765542991751b4d78f", "final_pred": "no one", "EM": "0", "F1": "0"}
+{"qid": "5a7ed2c655429930675135e5", "final_pred": "nomination", "EM": "0", "F1": "0"}
+{"qid": "5ac3e0f7554299194317388b", "final_pred": "Kevin Spacey", "EM": "1", "F1": "1.0"}
+{"qid": "5a7bae20554299294a54aa96", "final_pred": "America's Got Talent", "EM": "0", "F1": "0"}
+{"qid": "5ab8ee035542991b5579f04b", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5a7a276d5542996c55b2dd27", "final_pred": "William Gratwicke", "EM": "0", "F1": "0"}
+{"qid": "5a717d4c5542994082a3e854", "final_pred": "Semyon Aranovich Gershgorin", "EM": "0", "F1": "0"}
+{"qid": "5ac02e31554299294b218f3f", "final_pred": "Gal Gadot", "EM": "1", "F1": "1.0"}
+{"qid": "5a79ea435542996c55b2dc9e", "final_pred": "Captain Lawrence F. Gaines", "EM": "0", "F1": "0"}
+{"qid": "5ab7e4dc5542995dae37e9df", "final_pred": "Jackson Storm", "EM": "1", "F1": "1.0"}
+{"qid": "5a834ed95542990548d0b1ca", "final_pred": "712 Fifth Avenue", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab41d855542996a3a969f4b", "final_pred": "right-hand batsman", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7b7ff75542995eb53be93d", "final_pred": "Penelope Lively", "EM": "0", "F1": "0"}
+{"qid": "5a7d19d85542995ed0d165e8", "final_pred": "Knoxville, Tennessee", "EM": "0", "F1": "0"}
+{"qid": "5ae7ed17554299540e5a56a3", "final_pred": "44", "EM": "1", "F1": "1.0"}
+{"qid": "5ab2659e554299340b5254b2", "final_pred": "the Sasanian Empire", "EM": "0", "F1": "0.5"}
+{"qid": "5abd2eab5542992ac4f38210", "final_pred": "Pine Valley", "EM": "0", "F1": "0"}
+{"qid": "5abaf3195542996cc5e49f2c", "final_pred": "Solomon Islands", "EM": "0", "F1": "0"}
+{"qid": "5a791a97554299148911f9f2", "final_pred": "Kimmy Schmidt", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5adf58f15542993a75d264d2", "final_pred": "Riverdale", "EM": "0", "F1": "0"}
+{"qid": "5adc65e85542996e68525350", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a87ab9b5542996e4f3088c2", "final_pred": "the 19th century", "EM": "0", "F1": "0"}
+{"qid": "5a738fe855429908901be2fb", "final_pred": "\"Awake\"", "EM": "1", "F1": "1.0"}
+{"qid": "5a8c65a1554299585d9e3680", "final_pred": "Planters.\n\n", "EM": "0", "F1": "0"}
+{"qid": "5ac2bbd0554299218029db09", "final_pred": "American", "EM": "1", "F1": "1.0"}
+{"qid": "5adf3e355542993a75d26440", "final_pred": "15", "EM": "0", "F1": "0"}
+{"qid": "5ae82ae555429952e35eaa71", "final_pred": "Gunsmoke", "EM": "0", "F1": "0"}
+{"qid": "5ac289ff5542996366519a02", "final_pred": "4.\n", "EM": "0", "F1": "0"}
+{"qid": "5a7a5b3a5542996c55b2dd71", "final_pred": "the Houses of Parliament", "EM": "0", "F1": "0"}
+{"qid": "5ab8688b55429934fafe6daa", "final_pred": "Starlite", "EM": "1", "F1": "1.0"}
+{"qid": "5a7a3a945542996a35c17147", "final_pred": "the Tanjong Pagar Centre", "EM": "0", "F1": "0"}
+{"qid": "5ab9b29c554299743d22ebae", "final_pred": "Craig v", "EM": "0", "F1": "0.8"}
+{"qid": "5a8b63fa55429950cd6afcd7", "final_pred": "\"The Queen City.\"", "EM": "1", "F1": "1.0"}
+{"qid": "5ade51b45542997c77adedf4", "final_pred": "Arrowhead Stadium", "EM": "1", "F1": "1.0"}
+{"qid": "5ae4c49a5542995dadf24400", "final_pred": "cranberries", "EM": "0", "F1": "0"}
+{"qid": "5a7d3470554299452d57bb56", "final_pred": "The Strip Search Scam", "EM": "0", "F1": "0"}
+{"qid": "5ae4f2c75542993aec5ec0fb", "final_pred": "17th busiest in the U.S", "EM": "0", "F1": "0"}
+{"qid": "5ab1d7ac554299449642c7e6", "final_pred": "Ehret", "EM": "0", "F1": "0"}
+{"qid": "5a85cead5542991dd0999ea9", "final_pred": "Ted Williams' Big League", "EM": "0", "F1": "0"}
+{"qid": "5a73a7c755429978a71e9068", "final_pred": "1956.\nStep 3: Identify the year Angela Lansbury was", "EM": "0", "F1": "0"}
+{"qid": "5a7f113d55429934daa2fcbe", "final_pred": "Rafael Almeida", "EM": "0", "F1": "0"}
+{"qid": "5ae6828f5542996d980e7bb9", "final_pred": "Capability Brown", "EM": "0", "F1": "0"}
+{"qid": "5ab31864554299233954ff06", "final_pred": "sarod", "EM": "0", "F1": "0"}
+{"qid": "5abe239355429976d4830a7d", "final_pred": "Edgar Wright", "EM": "0", "F1": "0"}
+{"qid": "5ac2659b55429963665199a1", "final_pred": "\"not given\"", "EM": "0", "F1": "0"}
+{"qid": "5ae058e855429945ae959331", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a7b8749554299294a54a9db", "final_pred": "Thomas Friedman", "EM": "0", "F1": "0.8"}
+{"qid": "5a864ff7554299211dda2af2", "final_pred": "Taylor Swift.\n\nTherefore, the answer is Taylor Swift", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "5ae4d3c95542990ba0bbb165", "final_pred": "Istanbul", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab7f97a5542991d322237ef", "final_pred": "shopping mall", "EM": "0", "F1": "0.8"}
+{"qid": "5a7b46e55542995eb53be8e5", "final_pred": "Hangzhou, Zhejiang, China", "EM": "0", "F1": "0"}
+{"qid": "5a879ba55542993e715abfc3", "final_pred": "Alain Resnais", "EM": "0", "F1": "0"}
+{"qid": "5ae4563e5542996836b02c7f", "final_pred": "over 600", "EM": "0", "F1": "0.8"}
+{"qid": "5ab6ff3a5542991d3222372a", "final_pred": "Williams College", "EM": "0", "F1": "0.5"}
+{"qid": "5a7a46605542994f819ef1ad", "final_pred": "1946", "EM": "0", "F1": "0"}
+{"qid": "5ade7a435542997c77adee3a", "final_pred": "House of Windsor", "EM": "0", "F1": "0"}
+{"qid": "5ac1795f5542994ab5c67d5f", "final_pred": "Mick Jackson", "EM": "0", "F1": "0"}
+{"qid": "5ab1e984554299340b525428", "final_pred": "1.5 km.\n\n", "EM": "0", "F1": "0"}
+{"qid": "5a86769c5542994775f60776", "final_pred": "Slaughterhouse-Five", "EM": "1", "F1": "1.0"}
+{"qid": "5ab7da6f55429928e1fe3928", "final_pred": "Leinster", "EM": "0", "F1": "0"}
+{"qid": "5ae497f15542995ad6573db8", "final_pred": "Dergview", "EM": "0", "F1": "0"}
+{"qid": "5ae6f2a7554299572ea5464a", "final_pred": "Romeo Montague", "EM": "0", "F1": "0"}
+{"qid": "5adea9ea55429939a52fe934", "final_pred": "\"not specified.\"", "EM": "0", "F1": "0"}
+{"qid": "5a7caae75542996dd594b971", "final_pred": "anabolic-androgenic steroid", "EM": "0", "F1": "0"}
+{"qid": "5ac01bb8554299012d1db5a6", "final_pred": "Michael Shanks", "EM": "0", "F1": "0"}
+{"qid": "5abc3a65554299700f9d782d", "final_pred": "Emily Robison", "EM": "0", "F1": "0"}
+{"qid": "5ae3ff575542995dadf242aa", "final_pred": "2,738,294", "EM": "0", "F1": "0"}
+{"qid": "5a89fb525542993b751ca9d6", "final_pred": "Anna Clyne", "EM": "1", "F1": "1.0"}
+{"qid": "5ab3d69255429969a97a81c9", "final_pred": "USS Essex (CV-9)", "EM": "0", "F1": "0.8"}
+{"qid": "5ac5199a5542994611c8b38a", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5ae048a255429924de1b708e", "final_pred": "Van Helsing", "EM": "0", "F1": "0"}
+{"qid": "5a9068a95542990a98493621", "final_pred": "12 miles", "EM": "0", "F1": "0.5"}
+{"qid": "5adf9dc3554299025d62a2e6", "final_pred": "Laura Osnes", "EM": "0", "F1": "0.8"}
+{"qid": "5ae406245542995dadf242e2", "final_pred": "multiple.\n\nAnswer: Multiple", "EM": "0", "F1": "0"}
+{"qid": "5ab6369655429953192ad2a1", "final_pred": "7 (the number of species in Eucryphia) is greater than 2 (the number", "EM": "0", "F1": "0.16666666666666669"}
+{"qid": "5ae628f55542995703ce8b32", "final_pred": "Fusignano", "EM": "0", "F1": "0"}
+{"qid": "5adccdd55542992c1e3a2408", "final_pred": "Peahi", "EM": "0", "F1": "0"}
+{"qid": "5abd1529554299114383a1e3", "final_pred": "Christianity Today is a magazine", "EM": "0", "F1": "0"}
+{"qid": "5a78db8055429970f5fffdb2", "final_pred": "James Franco", "EM": "1", "F1": "1.0"}
+{"qid": "5ab9debb55429955dce3ed97", "final_pred": "DI Humphrey Goodman", "EM": "1", "F1": "1.0"}
+{"qid": "5ae791ef55429952e35ea979", "final_pred": "October", "EM": "0", "F1": "0"}
+{"qid": "5ab8f7535542991b5579f0a7", "final_pred": "Sacred Planet", "EM": "1", "F1": "1.0"}
+{"qid": "5ac119335542992a796dede4", "final_pred": "Calgary", "EM": "0", "F1": "0"}
+{"qid": "5a7d2afd5542995f4f402221", "final_pred": "Mahesh Bhupathi", "EM": "0", "F1": "0"}
+{"qid": "5a8dd5f955429917b4a5bcc7", "final_pred": "Dentistry", "EM": "0", "F1": "0"}
+{"qid": "5a83a532554299334474606f", "final_pred": "Peterhouse", "EM": "0", "F1": "0"}
+{"qid": "5a90692f5542990a98493625", "final_pred": "1997 American mystery crime film", "EM": "0", "F1": "0"}
+{"qid": "5a7555215542996c70cfaee1", "final_pred": "\"Hey Pa!", "EM": "0", "F1": "0.5"}
+{"qid": "5a90580655429933b8a204ef", "final_pred": "13-3", "EM": "0", "F1": "0"}
+{"qid": "5a88e605554299206df2b39c", "final_pred": "Wytheville, Virginia", "EM": "0", "F1": "0"}
+{"qid": "5add67915542992200553af8", "final_pred": "The Phantom Hour", "EM": "0", "F1": "0"}
+{"qid": "5a8463545542990548d0b2a3", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a74684655429929fddd8410", "final_pred": "Britney Spears", "EM": "0", "F1": "0"}
+{"qid": "5a835c9f5542992ef85e228a", "final_pred": "the Continental Army", "EM": "1", "F1": "1.0"}
+{"qid": "5ae7edee554299540e5a56ad", "final_pred": "the Canary Islands", "EM": "0", "F1": "0"}
+{"qid": "5a8ee4315542990e94052ba7", "final_pred": "26 May 1880", "EM": "0", "F1": "0"}
+{"qid": "5a8cb288554299585d9e3726", "final_pred": "9.\n\n", "EM": "0", "F1": "0"}
+{"qid": "5adfbca255429942ec259b2c", "final_pred": "late 1960s and early 1970s", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "5ae24abc5542994d89d5b3c3", "final_pred": "Europe", "EM": "0", "F1": "0"}
+{"qid": "5ab802085542990e739ec7ca", "final_pred": "18", "EM": "0", "F1": "0"}
+{"qid": "5adfa3da554299025d62a317", "final_pred": "26th May 1966", "EM": "0", "F1": "0"}
+{"qid": "5a76e88555429972597f13f4", "final_pred": "The Soloist", "EM": "1", "F1": "1.0"}
+{"qid": "5ac3ae475542995ef918c1e5", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5abffc41554299012d1db551", "final_pred": "1901", "EM": "1", "F1": "1.0"}
+{"qid": "5ae4c39f5542995dadf243fb", "final_pred": "Chorley", "EM": "0", "F1": "0"}
+{"qid": "5a79c6a55542994bb9457091", "final_pred": "Sir George Cayley", "EM": "0", "F1": "0.8"}
+{"qid": "5a7be5bd5542997c3ec972ba", "final_pred": "Leonberger.\n\n", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "5a7ec61a55429934daa2fc5f", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a7cb9b95542990527d55515", "final_pred": "2013", "EM": "1", "F1": "1.0"}
+{"qid": "5a867089554299211dda2b30", "final_pred": "Rolling Stone", "EM": "1", "F1": "1.0"}
+{"qid": "5ae1801955429901ffe4aec4", "final_pred": "the United Kingdom", "EM": "0", "F1": "0"}
+{"qid": "5a76387d554299109176e6ba", "final_pred": "Ava DuVernay", "EM": "0", "F1": "0"}
+{"qid": "5abd0d635542992ac4f381b8", "final_pred": "13 days", "EM": "0", "F1": "0"}
+{"qid": "5ae68fcb5542992ae0d1635b", "final_pred": "Brooklyn, New York", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ab28b12554299449642c8ee", "final_pred": "the Northumbrian dialect of English", "EM": "0", "F1": "0.4"}
+{"qid": "5a7133565542994082a3e65c", "final_pred": "Oldham County", "EM": "1", "F1": "1.0"}
+{"qid": "5abbd3ac55429931dba1458b", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a85ab905542994c784ddb35", "final_pred": "The Saturdays and Rachel Stevens", "EM": "0", "F1": "0.4"}
+{"qid": "5a8d93ad554299653c1aa13d", "final_pred": "John Fogerty", "EM": "0", "F1": "0"}
+{"qid": "5a886886554299206df2b258", "final_pred": "FIFA Women's World Cup", "EM": "0", "F1": "0"}
+{"qid": "5a7c6bcc55429935c91b519c", "final_pred": "1944", "EM": "1", "F1": "1.0"}
+{"qid": "5a825bb455429940e5e1a874", "final_pred": "Wilmette, Illinois", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a72a0be5542992359bc3143", "final_pred": "Oedipus.\n\n", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ade15f35542997545bbbe47", "final_pred": "artist", "EM": "0", "F1": "0"}
+{"qid": "5a77cb5e55429967ab1052a7", "final_pred": "Kang the Conqueror", "EM": "0", "F1": "0"}
+{"qid": "5a83aaeb5542996488c2e483", "final_pred": "no studio album", "EM": "0", "F1": "0"}
+{"qid": "5ac4392e5542997ea680ca32", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a7f5c9f55429969796c1a0f", "final_pred": "Spring City", "EM": "1", "F1": "1.0"}
+{"qid": "5a8b770f5542995d1e6f13a7", "final_pred": "London, England", "EM": "0", "F1": "0"}
+{"qid": "5ae3dc205542992f92d823a1", "final_pred": "a minor basilica", "EM": "1", "F1": "1.0"}
+{"qid": "5a7cf29255429909bec768b8", "final_pred": "more than 150 million", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "5a79f6ca554299029c4b5f90", "final_pred": "Aqua", "EM": "1", "F1": "1.0"}
+{"qid": "5a8e3dc05542995085b37401", "final_pred": "Reynolds v", "EM": "0", "F1": "0"}
+{"qid": "5ade24e35542992fa25da6e6", "final_pred": "The CW", "EM": "0", "F1": "0"}
+{"qid": "5ab5f854554299637185c64e", "final_pred": "Pakistan", "EM": "0", "F1": "0"}
+{"qid": "5ab5b6c1554299637185c5e5", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5ae25ed15542992decbdccd2", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5ab808ea5542991d3222380e", "final_pred": "76,416", "EM": "1", "F1": "1.0"}
+{"qid": "5ae5072e55429960a22e0246", "final_pred": "Matt Flynn", "EM": "1", "F1": "1.0"}
+{"qid": "5ac01bca5542992a796dec8d", "final_pred": "Happy", "EM": "0", "F1": "0.5"}
+{"qid": "5adf34d35542993a75d26425", "final_pred": "Gerry Adams", "EM": "0", "F1": "0.8"}
+{"qid": "5add67555542992ae4cec54e", "final_pred": "1918.\n\nTherefore, the answer is 1918", "EM": "0", "F1": "0"}
+{"qid": "5a8085705542992bc0c4a74b", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "5a756fa15542996c70cfaefb", "final_pred": "437,544", "EM": "0", "F1": "0"}
+{"qid": "5a7f6eab5542992097ad2f66", "final_pred": "", "EM": "0", "F1": "0"}
+{"qid": "5ae5e1345542996de7b71a50", "final_pred": "Jack Ryan", "EM": "1", "F1": "1.0"}
+{"qid": "5a72c6f65542994cef4bc402", "final_pred": "strawberries, raspberries, or cranberries", "EM": "0", "F1": "0"}
+{"qid": "5a80ad7c5542992097ad3018", "final_pred": "2009", "EM": "1", "F1": "1.0"}
+{"qid": "5a77a65b5542992a6e59df57", "final_pred": "\"Current", "EM": "0", "F1": "0"}
+{"qid": "5a78b209554299148911f93e", "final_pred": "88.\n\nStep 2: Calculate the lifespan of J. M", "EM": "0", "F1": "0"}
+{"qid": "5ab85a1155429934fafe6d7c", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a8da81e554299068b959d7e", "final_pred": "producer", "EM": "0", "F1": "0"}
+{"qid": "5ab8f57b5542991b5579f097", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5ab6bf6d55429953192ad372", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5ae7385d5542992ae0d163da", "final_pred": "Pittsfield", "EM": "0", "F1": "0"}
+{"qid": "5a7dd9445542997cc2c474ac", "final_pred": "J", "EM": "0", "F1": "0"}
+{"qid": "5ab446d455429942dd415f07", "final_pred": "New York City", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5ac497025542997ea680ca8d", "final_pred": "Dan Lin, Roy Lee, and Phil Lord", "EM": "0", "F1": "0.8750000000000001"}
+{"qid": "5a7b7bed5542997c3ec971bc", "final_pred": "Apsley House", "EM": "0", "F1": "0"}
+{"qid": "5a89706055429951533612f9", "final_pred": "St", "EM": "0", "F1": "0"}
+{"qid": "5ac02edb554299294b218f41", "final_pred": "Phil Collins", "EM": "1", "F1": "1.0"}
+{"qid": "5ab67772554299110f219a12", "final_pred": "media", "EM": "0", "F1": "0"}
+{"qid": "5a7b65ab5542997c3ec97144", "final_pred": "Lancaster", "EM": "0", "F1": "0"}
+{"qid": "5a760faa5542994ccc9186a8", "final_pred": "Harmony in Ultraviolet", "EM": "0", "F1": "0"}
+{"qid": "5adbe1a7554299438c868cc3", "final_pred": "Home Depot", "EM": "0", "F1": "0"}
+{"qid": "5a80aeff5542996402f6a5eb", "final_pred": "being the first player to win the Heisman Trophy while at a junior college", "EM": "0", "F1": "0.23529411764705885"}
+{"qid": "5ae74890554299572ea547af", "final_pred": "1978", "EM": "0", "F1": "0"}
+{"qid": "5ac3d9c9554299204fd21ea3", "final_pred": "James Packer", "EM": "1", "F1": "1.0"}
+{"qid": "5abc8620554299700f9d78e2", "final_pred": "documentary film", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7b4bc35542992d025e67e0", "final_pred": "England", "EM": "1", "F1": "1.0"}
+{"qid": "5a85dfcc5542994775f60673", "final_pred": "Changmin", "EM": "0", "F1": "0"}
+{"qid": "5a7b76735542997c3ec9719f", "final_pred": "Hot toddy", "EM": "1", "F1": "1.0"}
+{"qid": "5a8c66db554299585d9e3683", "final_pred": "2019", "EM": "0", "F1": "0"}
+{"qid": "5a7e05ba5542995f4f402392", "final_pred": "Johnny Carson", "EM": "0", "F1": "0"}
+{"qid": "5a88a4245542997e5c09a668", "final_pred": "Cornelius Vanderbilt Whitney", "EM": "0", "F1": "0"}
+{"qid": "5a8799c55542996e4f308877", "final_pred": "Scandinavian design", "EM": "1", "F1": "1.0"}
+{"qid": "5ac038db554299294b218f57", "final_pred": "The Hunger Games: Catching Fire", "EM": "0", "F1": "0"}
+{"qid": "5a764c0b55429976ec32bd89", "final_pred": "1) being the world's first multi-purpose, domed sports stadium, and", "EM": "0", "F1": "0"}
+{"qid": "5a77309d55429972597f1487", "final_pred": "Jos\u00e9 Echegaray y Eizaguirre", "EM": "1", "F1": "1.0"}
+{"qid": "5ab7bae95542993667793ff4", "final_pred": "Knowsley United Women", "EM": "1", "F1": "1.0"}
+{"qid": "5a7c9f325542990527d554e6", "final_pred": "The Verve", "EM": "0", "F1": "0"}
+{"qid": "5a8f69b55542997ba9cb324f", "final_pred": "Cold Spring Historic District", "EM": "0", "F1": "0.5"}
+{"qid": "5adbda2755429944faac2385", "final_pred": "Philip K. Dick", "EM": "1", "F1": "1.0"}
+{"qid": "5ab67bd355429954757d32f2", "final_pred": "the New York Giants", "EM": "1", "F1": "1.0"}
+{"qid": "5a90843c5542995651fb517e", "final_pred": "1961", "EM": "1", "F1": "1.0"}
+{"qid": "5a8324815542990548d0b184", "final_pred": "Copenhagen", "EM": "1", "F1": "1.0"}
+{"qid": "5adf4a275542993a75d26498", "final_pred": "John Newbery", "EM": "0", "F1": "0"}
+{"qid": "5ae4c5595542990ba0bbb123", "final_pred": "Soha Ali Khan", "EM": "1", "F1": "1.0"}
+{"qid": "5ab5057b5542991779162d56", "final_pred": "horror movies", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5a837d9a554299123d8c213e", "final_pred": "Katie L", "EM": "0", "F1": "0"}
+{"qid": "5a81ebee554299676cceb16d", "final_pred": "horror movie", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5ab48c325542996a3a969f93", "final_pred": "Essex", "EM": "1", "F1": "1.0"}
+{"qid": "5a8488f45542992a431d1a47", "final_pred": "John Whiting", "EM": "0", "F1": "0"}
+{"qid": "5abe689a55429976d4830b16", "final_pred": "French Open", "EM": "1", "F1": "1.0"}
+{"qid": "5a7a014a5542996c55b2dccf", "final_pred": "Bismarck", "EM": "1", "F1": "1.0"}
+{"qid": "5a895d305542993b751ca931", "final_pred": "Manchester United", "EM": "0", "F1": "0.3636363636363636"}
+{"qid": "5a85c3a15542992a431d1b97", "final_pred": "Canada", "EM": "0", "F1": "0"}
+{"qid": "5ae32b6755429928c4239644", "final_pred": "ABC", "EM": "0", "F1": "0"}
+{"qid": "5a8d02cc554299441c6b9fb6", "final_pred": "King Henry VIII", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5a78daf855429970f5fffdae", "final_pred": "Icehouse pieces", "EM": "1", "F1": "1.0"}
+{"qid": "5adc094a55429947ff1738c0", "final_pred": "Option A", "EM": "0", "F1": "0"}
+{"qid": "5ae77c245542997b22f6a795", "final_pred": "1973.\n", "EM": "0", "F1": "0"}
+{"qid": "5a88f9555542995153361214", "final_pred": "1963 to 1991", "EM": "1", "F1": "1.0"}
+{"qid": "5a874ce15542996432c57256", "final_pred": "Augusta, Georgia", "EM": "0", "F1": "0"}
+{"qid": "5a7e7ed05542991319bc94c2", "final_pred": "Gallery", "EM": "0", "F1": "0"}
+{"qid": "5abf44025542993fe9a41def", "final_pred": "Langston Hughes.\n\n", "EM": "1", "F1": "1.0"}
+{"qid": "5ab531cc5542990594ba9d23", "final_pred": "284,000 square feet", "EM": "0", "F1": "0"}
+{"qid": "5a90605d5542995651fb514d", "final_pred": "Violent J and Shaggy 2 Dope.\n", "EM": "0", "F1": "0.15384615384615383"}
+{"qid": "5ac45b58554299076e296dad", "final_pred": "0 because there is no information about the population of Hanggin Rear Banner in the context", "EM": "0", "F1": "0"}
+{"qid": "5a8eb4d65542990e94052b82", "final_pred": "Chuck Jones", "EM": "0", "F1": "0"}
+{"qid": "5a8038b55542996402f6a485", "final_pred": "French and Swedish", "EM": "0", "F1": "0.4"}
+{"qid": "5ab83d595542990e739ec886", "final_pred": "warriors", "EM": "0", "F1": "0"}
+{"qid": "5ae0d52e554299603e418469", "final_pred": "James Huth", "EM": "0", "F1": "0"}
+{"qid": "5a8f9b8c5542997ba9cb32e6", "final_pred": "Dirty Pretty Things", "EM": "1", "F1": "1.0"}
+{"qid": "5ae75a4c5542997b22f6a6f1", "final_pred": "Itchy & Scratchy Show", "EM": "1", "F1": "1.0"}
+{"qid": "5ab45a0b5542991779162c7e", "final_pred": "3.\n\nTherefore, the answer is Viaport Rotterdam", "EM": "0", "F1": "0.5"}
+{"qid": "5a8b452655429971feec468e", "final_pred": "Louis McCullough", "EM": "0", "F1": "0"}
+{"qid": "5a8d7b1755429941ae14dfc6", "final_pred": "4,053", "EM": "0", "F1": "0"}
+{"qid": "5ab6f0c25542995eadef00ea", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5ab72a025542992aa3b8c7b8", "final_pred": "documentary films", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ade42b55542992fa25da717", "final_pred": "ten", "EM": "0", "F1": "0"}
+{"qid": "5ae4c2b95542995dadf243ef", "final_pred": "offensive coordinator", "EM": "0", "F1": "0.5"}
+{"qid": "5abf10b75542997719eab659", "final_pred": "183 cm", "EM": "0", "F1": "0"}
+{"qid": "5add564a5542990dbb2f7e38", "final_pred": "MGM Resorts International", "EM": "1", "F1": "1.0"}
+{"qid": "5a738225554299623ed4abc3", "final_pred": "Bedknobs and Broomsticks", "EM": "1", "F1": "1.0"}
+{"qid": "5a729e7b5542992359bc313d", "final_pred": "Holston River", "EM": "1", "F1": "1.0"}
+{"qid": "5a811152554299260e20a22e", "final_pred": "Conservative", "EM": "0", "F1": "0.5"}
+{"qid": "5adddd075542992200553b71", "final_pred": "Dominic Polcino", "EM": "0", "F1": "0"}
+{"qid": "5ade9545554299728e26c740", "final_pred": "Geelong Football Club", "EM": "1", "F1": "1.0"}
+{"qid": "5ab25004554299722f9b4cd7", "final_pred": "20th century.\n\nStep 3: Compare the two time periods. The Battle", "EM": "0", "F1": "0"}
+{"qid": "5ac1f4495542991316484bd2", "final_pred": "no one", "EM": "0", "F1": "0"}
+{"qid": "5ac0cf0f554299294b219018", "final_pred": "neither", "EM": "0", "F1": "0"}
+{"qid": "5ab3306a55429969a97a80fd", "final_pred": "Walt Disney Productions", "EM": "1", "F1": "1.0"}
+{"qid": "5ade0fb95542997545bbbe39", "final_pred": "310 miles (500 km)", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ab78edc5542995dae37e95c", "final_pred": "Kansas", "EM": "0", "F1": "0.4"}
+{"qid": "5ac056385542997d64295a08", "final_pred": "BWAA.\nTherefore, the answer is BWAA", "EM": "0", "F1": "0"}
+{"qid": "5aba9e2455429939ce03dd3a", "final_pred": "1909", "EM": "1", "F1": "1.0"}
+{"qid": "5a90b43455429916514e7523", "final_pred": "Sun Valley, Idaho", "EM": "1", "F1": "1.0"}
+{"qid": "5abb30755542996cc5e49fd8", "final_pred": "President of the United States", "EM": "1", "F1": "1.0"}
+{"qid": "5ae4ec1e5542990ba0bbb19b", "final_pred": "The Bears and I", "EM": "1", "F1": "1.0"}
+{"qid": "5add405f5542992c1e3a2581", "final_pred": "Human Sexual Response", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5a71717d5542994082a3e834", "final_pred": "Amber Benson", "EM": "0", "F1": "0"}
+{"qid": "5adf8fe55542993344016d0f", "final_pred": "Bedknobs and Broomsticks", "EM": "1", "F1": "1.0"}
+{"qid": "5a78f59755429970f5fffdf7", "final_pred": "4 Albert Square, Walford, London Borough of Newham, Greater London, England", "EM": "0", "F1": "0.4705882352941177"}
+{"qid": "5a8099935542996402f6a58b", "final_pred": "American Horror Story", "EM": "0", "F1": "0"}
+{"qid": "5ab6aaff55429953192ad35b", "final_pred": "Phoenix Television", "EM": "1", "F1": "1.0"}
+{"qid": "5abcc96c5542996583600492", "final_pred": "Planet Terror", "EM": "1", "F1": "1.0"}
+{"qid": "5a8b78775542997f31a41d3d", "final_pred": "Prime Minister", "EM": "0", "F1": "0.8"}
+{"qid": "5a7252db5542990c210a4104", "final_pred": "2", "EM": "0", "F1": "0"}
+{"qid": "5ae2ee5e5542991a06ce990a", "final_pred": "Sir George Yeardley", "EM": "0", "F1": "0"}
+{"qid": "5abc5951554299114383a116", "final_pred": "Alguien que me amara", "EM": "0", "F1": "0"}
+{"qid": "5ac1a3665542994ab5c67daf", "final_pred": "\"Royal Navy Officer\" because the man served Prince Andrew who is a member of the British royal", "EM": "0", "F1": "0"}
+{"qid": "5adc0c2b55429947ff1738db", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a7634f155429976ec32bd6b", "final_pred": "High Plains Aquifer", "EM": "0", "F1": "0.4"}
+{"qid": "5a7574e25542996c70cfaf01", "final_pred": "Ibn Arabi", "EM": "0", "F1": "0"}
+{"qid": "5adc8977554299438c868de2", "final_pred": "Poetic Edda and Prose Edda", "EM": "0", "F1": "0.20000000000000004"}
+{"qid": "5a7dc2495542997cc2c4749a", "final_pred": "South Asian Games", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5a8f05b1554299458435d517", "final_pred": "Lord Salisbury", "EM": "0", "F1": "0"}
+{"qid": "5ab7bbbf55429928e1fe38bf", "final_pred": "the Kansas City crime family", "EM": "1", "F1": "1.0"}
+{"qid": "5a8af28555429951533613b5", "final_pred": "Albert Park", "EM": "1", "F1": "1.0"}
+{"qid": "5ae1f596554299234fd04372", "final_pred": "1983", "EM": "0", "F1": "0"}
+{"qid": "5a8b3af455429971feec467b", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5add311b5542994ed6169cc5", "final_pred": "Apatosaurus", "EM": "1", "F1": "1.0"}
+{"qid": "5ae60426554299546bf83019", "final_pred": "BraveStarr", "EM": "1", "F1": "1.0"}
+{"qid": "5a8cfee555429941ae14df5c", "final_pred": "indirectly", "EM": "0", "F1": "0"}
+{"qid": "5a71166d5542994082a3e576", "final_pred": "the Battle of Guam", "EM": "1", "F1": "1.0"}
+{"qid": "5ae789615542997ec2727695", "final_pred": "Martha Coolidge", "EM": "1", "F1": "1.0"}
+{"qid": "5a7757215542993569682d58", "final_pred": "\"The Devil's Candy\"", "EM": "0", "F1": "0"}
+{"qid": "5a81ff62554299676cceb1c4", "final_pred": "mother", "EM": "0", "F1": "0"}
+{"qid": "5ae4890a5542995ad6573d60", "final_pred": "leadership advisory", "EM": "0", "F1": "0"}
+{"qid": "5a79c1335542994bb9457066", "final_pred": "novelist", "EM": "0", "F1": "0"}
+{"qid": "5ac52fc35542994611c8b403", "final_pred": "78.3%.", "EM": "0", "F1": "0"}
+{"qid": "5adda7585542997dc790700c", "final_pred": "Edmonton, Alberta", "EM": "1", "F1": "1.0"}
+{"qid": "5adf043b5542993a75d263d4", "final_pred": "Sean Hannity. ", "EM": "0", "F1": "0"}
+{"qid": "5abd6bf055429933744ab7c8", "final_pred": "Tennessee Volunteers", "EM": "0", "F1": "0"}
+{"qid": "5ae0038655429925eb1afbe0", "final_pred": "neither", "EM": "0", "F1": "0"}
+{"qid": "5a73977d554299623ed4ac08", "final_pred": "Armenia", "EM": "0", "F1": "0"}
+{"qid": "5ac2a399554299218029dada", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5ae0f6f5554299422ee99583", "final_pred": "Warner Bros. Records", "EM": "0", "F1": "0.8"}
+{"qid": "5adc1ae5554299438c868d5c", "final_pred": "Slayer", "EM": "0", "F1": "0"}
+{"qid": "5ae6860e5542991bbc976112", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "5ae1316555429901ffe4adda", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5adfeb0555429942ec259b88", "final_pred": "prison", "EM": "0", "F1": "0"}
+{"qid": "5ab5499e5542992aa134a295", "final_pred": "1874", "EM": "0", "F1": "0"}
+{"qid": "5adeffa85542992d7e9f926f", "final_pred": "rock", "EM": "1", "F1": "1.0"}
+{"qid": "5adfd2f255429925eb1afaa5", "final_pred": "a puzzle-platform video game developed by Valve Corporation", "EM": "0", "F1": "0"}
+{"qid": "5ae5b301554299546bf82f2d", "final_pred": "the adrenal cortex", "EM": "0", "F1": "0"}
+{"qid": "5ab1eac95542993be8fa987f", "final_pred": "one", "EM": "0", "F1": "0"}
+{"qid": "5ae15e125542990adbacf773", "final_pred": "Berghuis v", "EM": "0", "F1": "0"}
+{"qid": "5a77beae5542992a6e59dfae", "final_pred": "Diana Krall", "EM": "0", "F1": "0"}
+{"qid": "5ae1f5a15542997f29b3c1b5", "final_pred": "1943", "EM": "0", "F1": "0"}
+{"qid": "5ade908b55429975fa854f13", "final_pred": "Formula One World Championship", "EM": "0", "F1": "0"}
+{"qid": "5ab47cd75542991751b4d78d", "final_pred": "2002", "EM": "1", "F1": "1.0"}
+{"qid": "5a79b7f6554299029c4b5f6f", "final_pred": "4,613", "EM": "1", "F1": "1.0"}
+{"qid": "5ab626d555429953192ad279", "final_pred": "Jersey City, New Jersey", "EM": "0", "F1": "0"}
+{"qid": "5a84873e5542997175ce1eec", "final_pred": "137th", "EM": "1", "F1": "1.0"}
+{"qid": "5ac537975542996feb3fea3c", "final_pred": "Ronald Reagan", "EM": "0", "F1": "0.8"}
+{"qid": "5a8f45ca5542997ba9cb320e", "final_pred": "neither", "EM": "0", "F1": "0"}
+{"qid": "5a8ac4085542992d82986f74", "final_pred": "\"Forbidden Quest\"", "EM": "0", "F1": "0"}
+{"qid": "5a7b374c5542995eb53be8cc", "final_pred": "the United Kingdom", "EM": "0", "F1": "0"}
+{"qid": "5ab92e02554299753720f775", "final_pred": "366", "EM": "0", "F1": "0"}
+{"qid": "5ab58f9a554299488d4d99da", "final_pred": "22 November 1761", "EM": "0", "F1": "0.8"}
+{"qid": "5adf860e5542993344016cbc", "final_pred": "1964-1974", "EM": "0", "F1": "0"}
+{"qid": "5a7ad9865542995eb53be8aa", "final_pred": "Honda Integra", "EM": "0", "F1": "0.5"}
+{"qid": "5a71443f5542994082a3e727", "final_pred": "Nuptse.\n\n", "EM": "0", "F1": "0"}
+{"qid": "5a7cbf93554299452d57b9f5", "final_pred": "Step 3: Of the constituent colleges of the University of Oxford, Exeter", "EM": "0", "F1": "0"}
+{"qid": "5adf98215542993344016d19", "final_pred": "India", "EM": "0", "F1": "0"}
+{"qid": "5ae1fa2b5542997f29b3c1df", "final_pred": "Eminem", "EM": "1", "F1": "1.0"}
+{"qid": "5ae650fb55429929b0807b2e", "final_pred": "the adult entertainment industry", "EM": "0", "F1": "0"}
+{"qid": "5a85597c5542997175ce1fba", "final_pred": "Canadian", "EM": "1", "F1": "1.0"}
+{"qid": "5ac19d4c55429963665198bb", "final_pred": "the May Revolution", "EM": "1", "F1": "1.0"}
+{"qid": "5ab611cc5542992aa134a411", "final_pred": "director and producer", "EM": "1", "F1": "1.0"}
+{"qid": "5ab7c87d55429928e1fe38de", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "5ab4bea15542990594ba9cae", "final_pred": "Dublin", "EM": "1", "F1": "1.0"}
+{"qid": "5ade9c9c5542997c77adee8c", "final_pred": "Quo Vadis", "EM": "0", "F1": "0"}
+{"qid": "5ae0d7315542990adbacf678", "final_pred": "Music for Electric Metronomes.\n\nTherefore, the answer is Music for Electric Met", "EM": "0", "F1": "0"}
+{"qid": "5ae1ba55554299234fd042d9", "final_pred": "Kings Point, New York", "EM": "1", "F1": "1.0"}
+{"qid": "5a839c8b5542996488c2e479", "final_pred": "Lord Chancellor", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5abdd08d5542991f6610604c", "final_pred": "Guardians of the Galaxy Vol. 2.\nTherefore, the answer is Guardians", "EM": "0", "F1": "0.7142857142857143"}
+{"qid": "5ade190f55429975fa854e40", "final_pred": "no scandal", "EM": "0", "F1": "0.5"}
+{"qid": "5a8cd381554299653c1aa12b", "final_pred": "Sigmund Freud", "EM": "1", "F1": "1.0"}
+{"qid": "5abd12bb55429933744ab703", "final_pred": "Mount Everest", "EM": "1", "F1": "1.0"}
+{"qid": "5abb1e1b5542992ccd8e7f19", "final_pred": "Nobel Prize in Literature", "EM": "1", "F1": "1.0"}
+{"qid": "5adeb95d5542992fa25da827", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a8ba59a554299240d9c2058", "final_pred": "1999", "EM": "1", "F1": "1.0"}
+{"qid": "5a7c53a855429935c91b515d", "final_pred": "", "EM": "0", "F1": "0"}
+{"qid": "5ae54eea5542993aec5ec19d", "final_pred": "Social Code", "EM": "1", "F1": "1.0"}
+{"qid": "5a8026a05542992e7d278df8", "final_pred": "3 December 2015", "EM": "0", "F1": "0.8"}
+{"qid": "5a7a27ce5542996c55b2dd28", "final_pred": "The Korean War", "EM": "0", "F1": "0"}
+{"qid": "5ab9812d554299753720f821", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5ac3b5d3554299741d48a2f3", "final_pred": "Saturday Night Live", "EM": "0", "F1": "0"}
+{"qid": "5ab811e95542995dae37ea22", "final_pred": "Charlie Puth", "EM": "0", "F1": "0"}
+{"qid": "5a80541d5542996402f6a4d2", "final_pred": "2016", "EM": "1", "F1": "1.0"}
+{"qid": "5ac2546a554299636651997b", "final_pred": "Motion City Soundtrack", "EM": "1", "F1": "1.0"}
+{"qid": "5ab8f3235542991b5579f084", "final_pred": "44, which is the number of President Barack Obama", "EM": "0", "F1": "0"}
+{"qid": "5ac31066554299741d48a19d", "final_pred": "England", "EM": "0", "F1": "0"}
+{"qid": "5ac279345542990b17b153b0", "final_pred": "October 22, 1874, which is the date of birth of Herbert Akroyd Stuart", "EM": "0", "F1": "0"}
+{"qid": "5adfc50355429942ec259b43", "final_pred": "Melbourne Cricket Ground", "EM": "0", "F1": "0"}
+{"qid": "5ae5e1985542996de7b71a54", "final_pred": "Cardinal John Pole", "EM": "0", "F1": "0"}
+{"qid": "5a87411d5542994846c1cd37", "final_pred": "teacher, speaker, and writer", "EM": "0", "F1": "0"}
+{"qid": "5ab4107a554299753aec5a2f", "final_pred": "1966", "EM": "0", "F1": "0"}
+{"qid": "5ae3d8415542992f92d8239a", "final_pred": "a high school diploma", "EM": "0", "F1": "0.7499999999999999"}
+{"qid": "5a88a19a5542997e5c09a64b", "final_pred": "3. Lepidoptera caterpillars", "EM": "0", "F1": "0"}
+{"qid": "5a7e1ad155429965cec5ea66", "final_pred": "Nebula Award, Philip K", "EM": "0", "F1": "0.6153846153846153"}
+{"qid": "5a745e1455429929fddd83fd", "final_pred": "methamphetamine", "EM": "0", "F1": "0"}
+{"qid": "5a8ca7d4554299240d9c21b8", "final_pred": "Jane Eyre", "EM": "0", "F1": "0"}
+{"qid": "5a7ec90055429934daa2fc66", "final_pred": "Celtic FC", "EM": "0", "F1": "0"}
+{"qid": "5a82112955429926c1cdae25", "final_pred": "Hernando, Mississippi", "EM": "0", "F1": "0.5"}
+{"qid": "5a85a3005542991dd0999e72", "final_pred": "World War II", "EM": "1", "F1": "1.0"}
+{"qid": "5ab4475c5542996a3a969f6c", "final_pred": "Eddie Izzard", "EM": "1", "F1": "1.0"}
+{"qid": "5ac1a04e5542991316484b63", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5ae09ce855429924de1b7113", "final_pred": "number 2", "EM": "0", "F1": "0"}
+{"qid": "5a78bc6b554299148911f979", "final_pred": "women's magazines", "EM": "0", "F1": "0"}
+{"qid": "5ab2a8b655429929539467ab", "final_pred": "Ravi Shankar", "EM": "0", "F1": "0"}
+{"qid": "5a8a7d2b55429930ff3c0dfc", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5ae3f2395542995ad6573cc6", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a90bd7b55429916514e7547", "final_pred": "Polypodium", "EM": "1", "F1": "1.0"}
+{"qid": "5ae20e265542994d89d5b325", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5abc039a5542993f40c73c49", "final_pred": "", "EM": "0", "F1": "0"}
+{"qid": "5a77c74155429967ab105291", "final_pred": "Vib Gyor", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "5ae48e7e55429913cc20449d", "final_pred": "Europe", "EM": "1", "F1": "1.0"}
+{"qid": "5abaf4535542996cc5e49f35", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5a901e5c55429933b8a2047c", "final_pred": "Tennessee Williams", "EM": "0", "F1": "0"}
+{"qid": "5ab528a3554299637185c4e5", "final_pred": "musicians", "EM": "0", "F1": "0"}
+{"qid": "5a88fc4255429938390d4019", "final_pred": "September 24, 2020", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ae0345855429924de1b705f", "final_pred": "Groupama", "EM": "0", "F1": "0"}
+{"qid": "5ac1b5de5542994d76dccec6", "final_pred": "\"Graduation\"", "EM": "0", "F1": "0"}
+{"qid": "5a82fe5055429966c78a6ad3", "final_pred": "Christianity", "EM": "0", "F1": "0"}
+{"qid": "5a798f8c5542994bb9457023", "final_pred": "Port Moresby, Papua New Guinea", "EM": "1", "F1": "1.0"}
+{"qid": "5add63845542992ae4cec541", "final_pred": "April 29, 2005, and US$129", "EM": "0", "F1": "0.6"}
+{"qid": "5ababbe9554299232ef4a38a", "final_pred": "Margery Williams", "EM": "1", "F1": "1.0"}
+{"qid": "5ae3205c55429928c423961e", "final_pred": "Leslie Knope", "EM": "1", "F1": "1.0"}
+{"qid": "5abcf2b4554299700f9d7937", "final_pred": "Giotto di Bondone", "EM": "0", "F1": "0.5"}
+{"qid": "5a8b4a5f55429949d91db531", "final_pred": "Start", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a79be0e5542994f819ef084", "final_pred": "March 13, 2013", "EM": "1", "F1": "1.0"}
+{"qid": "5ae69e3f5542996d980e7c61", "final_pred": "the University of Zurich", "EM": "0", "F1": "0.5"}
+{"qid": "5a8a495055429930ff3c0d6a", "final_pred": "Tumwater", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a8c5c6f554299653c1aa04d", "final_pred": "Coyote Ugly", "EM": "1", "F1": "1.0"}
+{"qid": "5a80ecea55429938b6142254", "final_pred": "Queen and I (2012)", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5a8242c155429940e5e1a81d", "final_pred": "Florence, Italy", "EM": "0", "F1": "0"}
+{"qid": "5a7cef5d55429909bec768ac", "final_pred": "Ready to Die", "EM": "0", "F1": "0"}
+{"qid": "5a7319e755429901807daf86", "final_pred": "Viktor Navorski.\n", "EM": "0", "F1": "0"}
+{"qid": "5ae1d0e8554299234fd0430a", "final_pred": "Guthred", "EM": "0", "F1": "0.5"}
+{"qid": "5ade99295542992fa25da7d8", "final_pred": "1, 2, and 3", "EM": "0", "F1": "0"}
+{"qid": "5a734bb65542994cef4bc50f", "final_pred": "Vince Guaraldi", "EM": "0", "F1": "0.4"}
+{"qid": "5abe7eb05542993f32c2a12c", "final_pred": "26 July 1873", "EM": "0", "F1": "0"}
+{"qid": "5a84f7255542991dd0999e33", "final_pred": "Sudan.\n\nStep 2: Identify the country that is south of Libya", "EM": "0", "F1": "0.15384615384615383"}
+{"qid": "5a70f1685542994082a3e40f", "final_pred": "Violin Sonata No", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ae0de1455429924de1b71b4", "final_pred": "orange Julius", "EM": "0", "F1": "0.5"}
+{"qid": "5ae4a2b25542995ad6573de0", "final_pred": "Quantrill's Raiders", "EM": "0", "F1": "0"}
+{"qid": "5abd9c2355429924427fd06c", "final_pred": "2008", "EM": "0", "F1": "0"}
+{"qid": "5a74701655429979e2882952", "final_pred": "9 (the number of studio albums released by Blonde Redhead)", "EM": "0", "F1": "0.3636363636363636"}
+{"qid": "5ab7f7465542993667794071", "final_pred": "de Havilland Gyron", "EM": "0", "F1": "0"}
+{"qid": "5a7a6ee75542996c55b2ddac", "final_pred": "Krzysztof Zanussi", "EM": "1", "F1": "1.0"}
+{"qid": "5a85fa815542996432c57155", "final_pred": "Taiwan", "EM": "0", "F1": "0"}
+{"qid": "5ae27f555542992decbdcd30", "final_pred": "Simone Signoret", "EM": "0", "F1": "0"}
+{"qid": "5ade3d75554299728e26c68b", "final_pred": "\"Finding Nemo\"", "EM": "1", "F1": "1.0"}
+{"qid": "5ae236da5542994d89d5b397", "final_pred": "after 1997", "EM": "0", "F1": "0"}
+{"qid": "5adfad2b554299603e41835c", "final_pred": "Kenny Young", "EM": "1", "F1": "1.0"}
+{"qid": "5abbc58455429931dba14502", "final_pred": "Jason Blum", "EM": "0", "F1": "0"}
+{"qid": "5a861fa75542994775f60706", "final_pred": "T-6 Texan", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "5a888fe6554299206df2b2f7", "final_pred": "T", "EM": "0", "F1": "0.4"}
+{"qid": "5ab865235542992aa3b8c8db", "final_pred": "the 400 meters", "EM": "0", "F1": "0"}
+{"qid": "5ae064985542993d6555eb47", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5ae531a95542990ba0bbb1fc", "final_pred": "1986", "EM": "1", "F1": "1.0"}
+{"qid": "5ae533535542993aec5ec173", "final_pred": "political correctness", "EM": "1", "F1": "1.0"}
+{"qid": "5adebea1554299728e26c7b6", "final_pred": "24-hour music channel operated by Music Box Ltd", "EM": "0", "F1": "0"}
+{"qid": "5adfdc7d55429942ec259b64", "final_pred": "Andrew Johnson", "EM": "1", "F1": "1.0"}
+{"qid": "5adbe9fa55429944faac23ba", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5ae31bbd55429928c42395fc", "final_pred": "Yes, both Guildford Cathedral and St Paul's Cathedral are located in", "EM": "0", "F1": "0"}
+{"qid": "5ae2120e5542997283cd23ad", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a9052765542995651fb513d", "final_pred": "Bhabananda Deka", "EM": "0", "F1": "0.8"}
+{"qid": "5ae6795855429908198fa5e4", "final_pred": "16th Street and Georgetown Road", "EM": "1", "F1": "1.0"}
+{"qid": "5a84e61b5542997b5ce3ff86", "final_pred": "the 500th episode milestone for the show", "EM": "0", "F1": "0.5"}
+{"qid": "5ab266b5554299340b5254b4", "final_pred": "Ron Paul", "EM": "0", "F1": "0"}
+{"qid": "5ab5ec0a5542997d4ad1f250", "final_pred": "154", "EM": "0", "F1": "0"}
+{"qid": "5a72a9ab5542992359bc315a", "final_pred": "the Pennacook tribe", "EM": "0", "F1": "0.5"}
+{"qid": "5a848b5c5542997175ce1ef2", "final_pred": "horror punk", "EM": "0", "F1": "0"}
+{"qid": "5ab467975542991751b4d75f", "final_pred": "2012", "EM": "0", "F1": "0"}
+{"qid": "5a75ebfc5542992d0ec06018", "final_pred": "Ojibwe", "EM": "0", "F1": "0"}
+{"qid": "5a7cdd6b55429909bec76858", "final_pred": "Louis XIV", "EM": "1", "F1": "1.0"}
+{"qid": "5a8209845542990a1d231f1f", "final_pred": "ducks", "EM": "1", "F1": "1.0"}
+{"qid": "5a726b0f5542997f827839be", "final_pred": "1938.\nAnswer: Samantha Cristoforetti was born after August", "EM": "0", "F1": "0"}
+{"qid": "5ac2616b5542996366519997", "final_pred": "Jamaica", "EM": "0", "F1": "0"}
+{"qid": "5ae4f3c455429960a22e0221", "final_pred": "35 acres.\n", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5a8b4ec155429949d91db53f", "final_pred": "Zachary Levi", "EM": "1", "F1": "1.0"}
+{"qid": "5ac52f455542996feb3fea12", "final_pred": "at least 23 years ago", "EM": "0", "F1": "0"}
+{"qid": "5ab438395542990594ba9bb9", "final_pred": "Mae Whitman", "EM": "0", "F1": "0"}
+{"qid": "5a81a7f75542995ce29dcc25", "final_pred": "Nike", "EM": "0", "F1": "0"}
+{"qid": "5add98985542990dbb2f7e82", "final_pred": "Liberty.\n", "EM": "0", "F1": "0"}
+{"qid": "5ae1465855429920d5234373", "final_pred": "the New York Yankees", "EM": "1", "F1": "1.0"}
+{"qid": "5a721d5a55429971e9dc9283", "final_pred": "Ballarat Bitter", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "5ae7ea695542994a481bbe17", "final_pred": "Apsley Cherry-Garrard", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ae7eb3c5542994a481bbe20", "final_pred": "Babylon", "EM": "1", "F1": "1.0"}
+{"qid": "5adf69055542995534e8c7a4", "final_pred": "Fife", "EM": "0", "F1": "0.4"}
+{"qid": "5a806cdf5542996402f6a508", "final_pred": "the University of Vienna", "EM": "1", "F1": "1.0"}
+{"qid": "5a78d01d55429974737f78b3", "final_pred": "22:00 on SBS", "EM": "0", "F1": "0.5"}
+{"qid": "5adf62d05542992d7e9f932d", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a8b3fe85542995d1e6f1323", "final_pred": "Trinity Mirror", "EM": "0", "F1": "0"}
+{"qid": "5a7dedef5542995f4f40231a", "final_pred": "Garry Chalk", "EM": "0", "F1": "0"}
+{"qid": "5a88c68d55429938390d3fba", "final_pred": "Irish", "EM": "1", "F1": "1.0"}
+{"qid": "5abc0bea554299658360040d", "final_pred": "King Lear", "EM": "0", "F1": "0"}
+{"qid": "5abb2f245542996cc5e49fd2", "final_pred": "personal-care products", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5a72f74a55429901807daf59", "final_pred": "2.\nStep 3: Identify the profession of the person who directed the movie \"S", "EM": "0", "F1": "0"}
+{"qid": "5ae0a54e5542993d6555ebdd", "final_pred": "Dominick Cruz", "EM": "0", "F1": "0"}
+{"qid": "5a866e7e554299211dda2b29", "final_pred": "Lord", "EM": "0", "F1": "0"}
+{"qid": "5abaf6865542996cc5e49f3c", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5ae534bb5542990ba0bbb21d", "final_pred": "MIT Technology Review", "EM": "0", "F1": "0"}
+{"qid": "5ae327e05542992f92d82220", "final_pred": "13", "EM": "1", "F1": "1.0"}
+{"qid": "5abebbe65542997719eab59d", "final_pred": "February 20, 1975", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab5e9865542992aa134a3db", "final_pred": "ancient Greek mythology", "EM": "0", "F1": "0.8"}
+{"qid": "5a7a112a5542990783324e2b", "final_pred": "jazz and heavy metal musicians", "EM": "0", "F1": "0"}
+{"qid": "5adf430e5542993a75d2645e", "final_pred": "Dundee Canal", "EM": "1", "F1": "1.0"}
+{"qid": "5a779be75542995d83181215", "final_pred": "England", "EM": "1", "F1": "1.0"}
+{"qid": "5a809b575542996402f6a59c", "final_pred": "Lou Holtz.\n\n\n\n", "EM": "0", "F1": "0"}
+{"qid": "5abed9435542994516f45457", "final_pred": "Tron", "EM": "1", "F1": "1.0"}
+{"qid": "5adf4ba65542992d7e9f931c", "final_pred": "Beauty and the Beast", "EM": "1", "F1": "1.0"}
+{"qid": "5ae491155542995ad6573da3", "final_pred": "April 22, 1952", "EM": "0", "F1": "0"}
+{"qid": "5ac440385542997ea680ca4e", "final_pred": "3.\n", "EM": "0", "F1": "0"}
+{"qid": "5a84d80c5542992a431d1ab5", "final_pred": "MiMA", "EM": "1", "F1": "1.0"}
+{"qid": "5ae7945d5542997b22f6a7ba", "final_pred": "American Athletic Conference", "EM": "0", "F1": "0"}
+{"qid": "5ab98608554299131ca42362", "final_pred": "New York City", "EM": "0", "F1": "0"}
+{"qid": "5ab3eeb5554299233954fff4", "final_pred": "2005", "EM": "0", "F1": "0"}
+{"qid": "5a7ce50f55429909bec76869", "final_pred": "1950", "EM": "0", "F1": "0"}
+{"qid": "5a8fa4d95542995b4424207b", "final_pred": "900,000.\nStep 2: Check the number of passengers at Tr", "EM": "0", "F1": "0"}
+{"qid": "5a72ba165542992359bc318a", "final_pred": "Chinese Wikipedia", "EM": "0", "F1": "0"}
+{"qid": "5a85ae455542997175ce1ff0", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a8bbfb15542995e66a474f6", "final_pred": "actors", "EM": "0", "F1": "0"}
+{"qid": "5ac240ef55429951e9e684ef", "final_pred": "2005", "EM": "0", "F1": "0"}
+{"qid": "5ab72b5c5542993667793f63", "final_pred": "the United States", "EM": "0", "F1": "0"}
+{"qid": "5ab3af70554299233954ff81", "final_pred": "John Saxon", "EM": "0", "F1": "0"}
+{"qid": "5ae320a95542991a06ce992e", "final_pred": "11,359", "EM": "0", "F1": "0"}
+{"qid": "5ae28b76554299495565daa8", "final_pred": "1) Income from employment, 2) Investment income, and 3)", "EM": "0", "F1": "0.1904761904761905"}
+{"qid": "5ab6a8b5554299710c8d1f30", "final_pred": "NSDAR", "EM": "0", "F1": "0"}
+{"qid": "5a8b8f5b55429949d91db5e1", "final_pred": "video games", "EM": "0", "F1": "0.5"}
+{"qid": "5ae829ea5542997ec2727738", "final_pred": "either Springfield, Massachusetts or Harper's Ferry, Virginia (now West Virginia)", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5aba14195542994dbf0198a9", "final_pred": "15", "EM": "1", "F1": "1.0"}
+{"qid": "5ae370295542992e3233c402", "final_pred": "American", "EM": "1", "F1": "1.0"}
+{"qid": "5abdba405542993f32c2a023", "final_pred": "\"Perfect Strangers.\"", "EM": "1", "F1": "1.0"}
+{"qid": "5a855b5c5542997b5ce3ffeb", "final_pred": "education", "EM": "0", "F1": "0"}
+{"qid": "5adf734b5542995ec70e9016", "final_pred": "\"Chelsea Does\"", "EM": "1", "F1": "1.0"}
+{"qid": "5a81ca835542990a1d231ebd", "final_pred": "Mary", "EM": "0", "F1": "0"}
+{"qid": "5abba581554299642a094af9", "final_pred": "three", "EM": "0", "F1": "0"}
+{"qid": "5a887f5c554299206df2b2c0", "final_pred": "John Martyn", "EM": "0", "F1": "0"}
+{"qid": "5a80956e5542996402f6a579", "final_pred": "Caligula", "EM": "0", "F1": "0"}
+{"qid": "5ac2efd65542990b17b154c7", "final_pred": "6", "EM": "0", "F1": "0"}
+{"qid": "5a7af32e55429931da12c99c", "final_pred": "Brooklyn", "EM": "0", "F1": "0.5"}
+{"qid": "5a7c9d2e55429935c91b5261", "final_pred": "Windigo legend", "EM": "0", "F1": "0"}
+{"qid": "5a8752955542994775f607d1", "final_pred": "Arizona Wildcats", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ae3e2455542994393b9e78c", "final_pred": "author", "EM": "0", "F1": "0"}
+{"qid": "5abd552555429933744ab776", "final_pred": "Brooklyn, New York", "EM": "0", "F1": "0"}
+{"qid": "5ac048cc554299294b218f73", "final_pred": "Standard Oil", "EM": "0", "F1": "0.5"}
+{"qid": "5ac048ea554299294b218f74", "final_pred": "Michael Swango", "EM": "1", "F1": "1.0"}
+{"qid": "5ab474135542991751b4d77b", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a711cb45542994082a3e59f", "final_pred": "Lisa Raymond", "EM": "0", "F1": "0"}
+{"qid": "5ae60db1554299546bf83041", "final_pred": "German theologian and professor of", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "5a8b81bc55429949d91db5b8", "final_pred": "magazines", "EM": "0", "F1": "0"}
+{"qid": "5a73bcf055429978a71e909c", "final_pred": "Laura Esquivel", "EM": "0", "F1": "0"}
+{"qid": "5ae1436e55429901ffe4ae31", "final_pred": "gull-wing doors", "EM": "1", "F1": "1.0"}
+{"qid": "5ab207f65542993be8fa98b8", "final_pred": "Adelaide, South Australia", "EM": "0", "F1": "0"}
+{"qid": "5a7766b15542993569682d7e", "final_pred": "London, England", "EM": "0", "F1": "0"}
+{"qid": "5ac1a3fa5542991316484b7d", "final_pred": "any of the above", "EM": "0", "F1": "0"}
+{"qid": "5a790f5e55429970f5fffe40", "final_pred": "September 30, 1938", "EM": "0", "F1": "0"}
+{"qid": "5add10ca5542994ed6169c59", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5ae1b2b9554299422ee99684", "final_pred": "the Vice President of the United States", "EM": "0", "F1": "0"}
+{"qid": "5a7f81425542992097ad2f8e", "final_pred": "2004", "EM": "0", "F1": "0"}
+{"qid": "5a817f6655429938b6142349", "final_pred": "Tori Amos", "EM": "1", "F1": "1.0"}
+{"qid": "5ab6ddb655429953192ad39e", "final_pred": "Toronto", "EM": "0", "F1": "0"}
+{"qid": "5a76cb9b55429966f1a36bf2", "final_pred": "Adam Silver", "EM": "1", "F1": "1.0"}
+{"qid": "5ae4808455429970de88d990", "final_pred": "32", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab7f6d35542993667794070", "final_pred": "Cyclic Defrost", "EM": "1", "F1": "1.0"}
+{"qid": "5abe86365542993f32c2a14d", "final_pred": "Silicon Valley", "EM": "0", "F1": "0"}
+{"qid": "5a7571095542992d0ec05f97", "final_pred": "Eva Mendes", "EM": "0", "F1": "0"}
+{"qid": "5adcfbf45542990d50227d86", "final_pred": "Hamilton, Ontario", "EM": "0", "F1": "0"}
+{"qid": "5ab30d1155429976abd1bc3d", "final_pred": "Jim Carrey", "EM": "0", "F1": "0"}
+{"qid": "5ae6069c55429929b0807a67", "final_pred": "Coca-Cola FEMSA", "EM": "0", "F1": "0"}
+{"qid": "5a711c535542994082a3e59b", "final_pred": "a political alliance", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5adf85e05542993344016cba", "final_pred": "English Football League Championship", "EM": "0", "F1": "0.4"}
+{"qid": "5a77897f55429949eeb29edc", "final_pred": "guitar", "EM": "0", "F1": "0"}
+{"qid": "5ae10a5b55429920d52342a0", "final_pred": "Jamie Babbit", "EM": "0", "F1": "0"}
+{"qid": "5ab639e65542995eadeeff7f", "final_pred": "3. Therefore, Dan Schneider has won more awards than Helen Hunt", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5a8bae135542996e8ac889b6", "final_pred": "Christian Bale", "EM": "0", "F1": "0"}
+{"qid": "5a75e33855429976ec32bc74", "final_pred": "Miami Heat", "EM": "0", "F1": "0"}
+{"qid": "5ae363ff5542992f92d822bc", "final_pred": "Waffen-SS", "EM": "0", "F1": "0"}
+{"qid": "5ac0e6fa5542996f0d89cc35", "final_pred": "Mad Hot Ballroom", "EM": "1", "F1": "1.0"}
+{"qid": "5ade6b67554299728e26c71c", "final_pred": "the Royal Navy", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0c7e755429945ae95944c", "final_pred": "Orange County", "EM": "1", "F1": "1.0"}
+{"qid": "5a78f753554299078472776e", "final_pred": "1975.\n\nStep 3: Compare the birth dates.\n\nAnswer", "EM": "0", "F1": "0"}
+{"qid": "5adcde255542992c1e3a243f", "final_pred": "Edge", "EM": "0", "F1": "0"}
+{"qid": "5ae73d505542991e8301cc2c", "final_pred": "David Moreau", "EM": "0", "F1": "0"}
+{"qid": "5ae18d615542997283cd2229", "final_pred": "Mixed Martial Arts (MMA)", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5ac3ad7f5542995ef918c1de", "final_pred": "Readington Township, New Jersey", "EM": "0", "F1": "0"}
+{"qid": "5ab9d44255429939ce03dc36", "final_pred": "Miller Brewing Company", "EM": "0", "F1": "0.8"}
+{"qid": "5a863b27554299211dda2ab6", "final_pred": "no and The Ring", "EM": "0", "F1": "0"}
+{"qid": "5a79118755429974737f7962", "final_pred": "Foo Fighters", "EM": "1", "F1": "1.0"}
+{"qid": "5abfa9745542997ec76fd426", "final_pred": "The Big Bang Theory", "EM": "1", "F1": "1.0"}
+{"qid": "5abfc8675542993fe9a41e52", "final_pred": "McLaren Vale", "EM": "1", "F1": "1.0"}
+{"qid": "5a866c04554299211dda2b25", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5a80c74f554299260e20a158", "final_pred": "Bobby Orr", "EM": "0", "F1": "0"}
+{"qid": "5ae5691055429960a22e02f3", "final_pred": "more than 100", "EM": "0", "F1": "0"}
+{"qid": "5ab1d983554299340b52540a", "final_pred": "\"Backdraft\"", "EM": "0", "F1": "0"}
+{"qid": "5ab28e2a5542993be8fa9947", "final_pred": "Dave Mirra", "EM": "0", "F1": "0"}
+{"qid": "5ab9547755429970cfb8ea6c", "final_pred": "87", "EM": "1", "F1": "1.0"}
+{"qid": "5a7ce0bc55429909bec76863", "final_pred": "Friends", "EM": "1", "F1": "1.0"}
+{"qid": "5ae17daa55429901ffe4aea9", "final_pred": "Tim Holt. Step 3: Identify the director of the film. The director of the", "EM": "0", "F1": "0"}
+{"qid": "5ae7c5ef5542993210983f44", "final_pred": "Gainesville", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7313865542994cef4bc442", "final_pred": "Regional Rural Bank (RRB)", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5adccf645542990d50227d32", "final_pred": "Claremore", "EM": "0", "F1": "0"}
+{"qid": "5ac176555542994d76dcce47", "final_pred": "writer", "EM": "0", "F1": "0"}
+{"qid": "5abbf3845542993f40c73c2e", "final_pred": "The Go-Go's", "EM": "1", "F1": "1.0"}
+{"qid": "5a8781b65542993e715abf8f", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a807ea1554299485f598624", "final_pred": "Methodist Church", "EM": "0", "F1": "0.5"}
+{"qid": "5a8ec7cc5542995a26add518", "final_pred": "Popular Science", "EM": "0", "F1": "0"}
+{"qid": "5a7a978555429941d65f26db", "final_pred": "2008.\n\nTherefore, \"Paper Trail\" came out before \"", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "5a7fc70155429969796c1b59", "final_pred": "AngloGold Ashanti", "EM": "1", "F1": "1.0"}
+{"qid": "5ab84d5a55429916710eb028", "final_pred": "Brian Dawkins", "EM": "0", "F1": "0"}
+{"qid": "5a7f392b55429934daa2fd26", "final_pred": "Ajax", "EM": "0", "F1": "0"}
+{"qid": "5a877dd65542993e715abf79", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a8b99c355429950cd6afd28", "final_pred": "Columbus, Ohio", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a8e2ba05542995085b373b8", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a74581555429979e2882912", "final_pred": "Renault", "EM": "0", "F1": "0"}
+{"qid": "5ac1d40c5542994d76dccef5", "final_pred": "677,116", "EM": "0", "F1": "0"}
+{"qid": "5a7c6b6655429935c91b519a", "final_pred": "Selectboard", "EM": "0", "F1": "0"}
+{"qid": "5a73522d5542994cef4bc541", "final_pred": "153", "EM": "0", "F1": "0"}
+{"qid": "5a822a5e55429926c1cdae43", "final_pred": "film director", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "5a7b1023554299042af8f6c2", "final_pred": "Ride a Wild Pony", "EM": "1", "F1": "1.0"}
+{"qid": "5a84574455429933447460e6", "final_pred": "2017", "EM": "0", "F1": "0"}
+{"qid": "5a89a02955429946c8d6e975", "final_pred": "The Climb", "EM": "0", "F1": "0"}
+{"qid": "5abdf1fe55429976d4830a31", "final_pred": "\"World Views in One Place\"", "EM": "0", "F1": "0"}
+{"qid": "5ae1e9fd5542997f29b3c1a1", "final_pred": "John F. Kelly", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a77b0395542997042120ae1", "final_pred": "Joseph Cotten", "EM": "0", "F1": "0"}
+{"qid": "5a79c8fa5542994bb94570a1", "final_pred": "Designer of the main processing machine", "EM": "0", "F1": "0"}
+{"qid": "5ae21937554299234fd043d3", "final_pred": "4th Lord Livingston.\n\nTherefore, the answer is 4th Lord Livingston", "EM": "0", "F1": "0.1818181818181818"}
+{"qid": "5a7cdcbf55429907fabef04f", "final_pred": "Still Kicking: Six Artistic Women of Project Arts & Longevity", "EM": "1", "F1": "1.0"}
+{"qid": "5ac51a055542994611c8b390", "final_pred": "Security Institute", "EM": "0", "F1": "0"}
+{"qid": "5a78c7db55429974737f7882", "final_pred": "no one", "EM": "0", "F1": "0"}
+{"qid": "5a82e25555429954d2e2ebbf", "final_pred": "Nora Roberts", "EM": "0", "F1": "0"}
+{"qid": "5ab42b8955429942dd415ea6", "final_pred": "1. Step 2: Consider the information given in the question. The question states that Iola", "EM": "0", "F1": "0"}
+{"qid": "5a8db916554299441c6ba057", "final_pred": "Hindi", "EM": "1", "F1": "1.0"}
+{"qid": "5a79ca585542996c55b2dc71", "final_pred": "Derek Jacobi.\nAnswer: Derek Jacobi.\nThe modern workplace is under", "EM": "0", "F1": "0"}
+{"qid": "5abd6cb955429933744ab7cd", "final_pred": "Norse mythology", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7642f7554299109176e6e8", "final_pred": "Luca Parmitano", "EM": "1", "F1": "1.0"}
+{"qid": "5a88a42f554299206df2b317", "final_pred": "New Journalism", "EM": "0", "F1": "0.5"}
+{"qid": "5a8c90db554299653c1aa0bf", "final_pred": "888 7th Avenue.\n\nAnswer: 888 7th Avenue", "EM": "0", "F1": "0"}
+{"qid": "5a763986554299109176e6bd", "final_pred": "28 February 1980.\n\nTherefore, Christian Poulsen was", "EM": "0", "F1": "0"}
+{"qid": "5a7cc0d4554299452d57ba07", "final_pred": "255", "EM": "0", "F1": "0"}
+{"qid": "5a86113355429960ec39b618", "final_pred": "\"There is no information available.\"", "EM": "0", "F1": "0"}
+{"qid": "5a722fae55429971e9dc9343", "final_pred": "Adele King", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5a7af4cd55429931da12c9a6", "final_pred": "The Times of India and The Dawn", "EM": "0", "F1": "0"}
+{"qid": "5a7d9bc65542990b8f5039cb", "final_pred": "Big 12 Conference", "EM": "1", "F1": "1.0"}
+{"qid": "5adbd70c55429947ff173843", "final_pred": "\"Capote: A Biography\"", "EM": "0", "F1": "0"}
+{"qid": "5a7e04b05542995f4f40238a", "final_pred": "Vanarama", "EM": "1", "F1": "1.0"}
+{"qid": "5a90b6985542990a984936c2", "final_pred": "Emma Thompson", "EM": "0", "F1": "0"}
+{"qid": "5ae164685542997b2ef7d1cb", "final_pred": "Tom Warburton", "EM": "0", "F1": "0.5"}
+{"qid": "5a86fde6554299211dda2b7f", "final_pred": "business process outsourcing services", "EM": "0", "F1": "0"}
+{"qid": "5a802e135542992bc0c4a6c7", "final_pred": "play-by-post role-playing game", "EM": "1", "F1": "1.0"}
+{"qid": "5ac31456554299741d48a1b4", "final_pred": "4", "EM": "0", "F1": "0"}
+{"qid": "5ae0a6ea5542993d6555ebe9", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5a872e8e5542991e7718170c", "final_pred": "portraits", "EM": "0", "F1": "0"}
+{"qid": "5a7265825542997f827839a3", "final_pred": "gold medal", "EM": "0", "F1": "0.5"}
+{"qid": "5abe2b0155429976d4830a83", "final_pred": "1914", "EM": "0", "F1": "0.5"}
+{"qid": "5ae135fb55429920d523431f", "final_pred": "Spike", "EM": "0", "F1": "0"}
+{"qid": "5a8f0a01554299458435d539", "final_pred": "Issaquah", "EM": "0", "F1": "0"}
+{"qid": "5ab40e1c5542996a3a969f00", "final_pred": "1988", "EM": "1", "F1": "1.0"}
+{"qid": "5ab28c89554299340b525513", "final_pred": "Reichsf\u00fchrer-SS", "EM": "1", "F1": "1.0"}
+{"qid": "5a87e3d65542993e715abff8", "final_pred": "Steve Wozniak.\n\n", "EM": "0", "F1": "0"}
+{"qid": "5addfc425542997dc7907101", "final_pred": "Esteban Ocon", "EM": "1", "F1": "1.0"}
+{"qid": "5ab576dc5542997d4ad1f13d", "final_pred": "Carnatic music", "EM": "1", "F1": "1.0"}
+{"qid": "5a8d8eb5554299068b959d3a", "final_pred": "Manon by Massenet", "EM": "0", "F1": "0"}
+{"qid": "5ac5101455429924173fb592", "final_pred": "\"I Will Survive\"", "EM": "0", "F1": "0"}
+{"qid": "5ab91f98554299753720f70d", "final_pred": "\"Gangsta's Paradise\"", "EM": "1", "F1": "1.0"}
+{"qid": "5ae6371155429929b0807af1", "final_pred": "Amsterdam Polka", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ac1bff05542994ab5c67dfc", "final_pred": "Joaqu\u00edn Guzm\u00e1n Loera", "EM": "0", "F1": "0"}
+{"qid": "5a7c2f145542996dd594b8b4", "final_pred": "McG", "EM": "1", "F1": "1.0"}
+{"qid": "5a81e4e8554299676cceb140", "final_pred": "3.\n", "EM": "0", "F1": "0"}
+{"qid": "5a83041355429966c78a6ae8", "final_pred": "director", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5ab7fa7b5542992aa3b8c897", "final_pred": "punk rock and rock", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a8cee9b554299441c6b9f87", "final_pred": "GE Appliances", "EM": "1", "F1": "1.0"}
+{"qid": "5ab67bf255429954757d32f5", "final_pred": "Boise, Idaho", "EM": "0", "F1": "0"}
+{"qid": "5a77d65055429949eeb29f7b", "final_pred": "one", "EM": "0", "F1": "0"}
+{"qid": "5a7f3f7c55429934daa2fd45", "final_pred": "The Futureheads", "EM": "1", "F1": "1.0"}
+{"qid": "5ade811e5542992fa25da7a0", "final_pred": "1970s.\n", "EM": "0", "F1": "0"}
+{"qid": "5a7633ff5542994ccc918712", "final_pred": "2 May 1962", "EM": "0", "F1": "0"}
+{"qid": "5a88a1475542997e5c09a646", "final_pred": "Salvia", "EM": "1", "F1": "1.0"}
+{"qid": "5a8887a055429938390d3f72", "final_pred": "Rocky Boy's Reservation", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5a86399e5542994775f60733", "final_pred": "Palestinian", "EM": "0", "F1": "0"}
+{"qid": "5a84c0765542991dd0999dd9", "final_pred": "Gary Lightbody", "EM": "1", "F1": "1.0"}
+{"qid": "5adf17f95542995ec70e8f6c", "final_pred": "Australia", "EM": "0", "F1": "0"}
+{"qid": "5a7f5ab65542995d8a8dde43", "final_pred": "The Cosmopolitan", "EM": "0", "F1": "0.4"}
+{"qid": "5a8cec13554299441c6b9f7d", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5abce9ca554299114383a193", "final_pred": "television personality", "EM": "0", "F1": "0"}
+{"qid": "5a7a1b845542990783324e5f", "final_pred": "London", "EM": "0", "F1": "0"}
+{"qid": "5a7363ec5542991f29ee2dd7", "final_pred": "Key West, Florida", "EM": "0", "F1": "0.8"}
+{"qid": "5a77321355429972597f1493", "final_pred": "The Agronomist", "EM": "1", "F1": "1.0"}
+{"qid": "5ab5cd4f554299488d4d9a31", "final_pred": "Little Tony", "EM": "0", "F1": "0"}
+{"qid": "5a83411655429966c78a6b5d", "final_pred": "Justin Spitzer", "EM": "1", "F1": "1.0"}
+{"qid": "5a8d50fb55429941ae14dfa2", "final_pred": "12 miles away from Lake Tahoe", "EM": "0", "F1": "0"}
+{"qid": "5ae80919554299540e5a56f6", "final_pred": "Sir Walter Scott", "EM": "0", "F1": "0"}
+{"qid": "5ab2b8fe5542991669774070", "final_pred": "American Car Rental Association (ACRA)", "EM": "0", "F1": "0.25"}
+{"qid": "5a8d0efd5542994ba4e3dbc6", "final_pred": "Warsaw", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7125b95542994082a3e5d5", "final_pred": "5,571 (Gardnerville, Nevada)", "EM": "0", "F1": "0.5"}
+{"qid": "5a8a6a2155429930ff3c0dd0", "final_pred": "8,890 kilometers (5,520 miles).\n\nStep 3", "EM": "0", "F1": "0"}
+{"qid": "5ae834e95542997ec272776a", "final_pred": "\"Highwayman\"", "EM": "1", "F1": "1.0"}
+{"qid": "5a7ab51055429927d897bef6", "final_pred": "1811", "EM": "0", "F1": "0"}
+{"qid": "5ae250b45542996483e64977", "final_pred": "teacher", "EM": "0", "F1": "0"}
+{"qid": "5a733c925542991f9a20c6b7", "final_pred": "cocktails", "EM": "1", "F1": "1.0"}
+{"qid": "5a7e5ec25542991319bc947a", "final_pred": "31 years younger, which is Kv\u011bta Peschke", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "5adbf2805542994650320c15", "final_pred": "when his son served as Chairman of Kesteven County Council", "EM": "0", "F1": "0"}
+{"qid": "5a845e9055429933447460ec", "final_pred": "Washington Nationals", "EM": "0", "F1": "0"}
+{"qid": "5a820c0c554299676cceb1fc", "final_pred": "All Nippon Airways", "EM": "0", "F1": "0.8"}
+{"qid": "5a88bd1d554299206df2b357", "final_pred": "September 26, 2013", "EM": "0", "F1": "0"}
+{"qid": "5a79332555429907847277e7", "final_pred": "Bryce Courtenay", "EM": "0", "F1": "0"}
+{"qid": "5abd516a5542992ac4f3825c", "final_pred": "Muslim", "EM": "0", "F1": "0"}
+{"qid": "5add26075542994ed6169c9c", "final_pred": "any public radio network in New York", "EM": "0", "F1": "0"}
+{"qid": "5a901f735542990a98493591", "final_pred": "six", "EM": "0", "F1": "0"}
+{"qid": "5ab840e255429934fafe6d3b", "final_pred": "the New Jewel Movement", "EM": "1", "F1": "1.0"}
+{"qid": "5ac3d4b6554299204fd21e93", "final_pred": "Paper", "EM": "1", "F1": "1.0"}
+{"qid": "5a73b2cb55429908901be31a", "final_pred": "Maria von Trapp", "EM": "1", "F1": "1.0"}
+{"qid": "5ac29cf8554299218029dac2", "final_pred": "Rowan Blanchard", "EM": "1", "F1": "1.0"}
+{"qid": "5ae686535542996d980e7bdc", "final_pred": "George Harrison", "EM": "0", "F1": "0"}
+{"qid": "5a8aa1685542992d82986f32", "final_pred": "Beijing Dance Academy", "EM": "1", "F1": "1.0"}
+{"qid": "5a7d7deb5542995f4f402282", "final_pred": "correct", "EM": "0", "F1": "0"}
+{"qid": "5a8c622a554299240d9c2142", "final_pred": "Ursula K", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5a7b81715542997c3ec971d4", "final_pred": "the Hugo Award", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0c29c5542993d6555ec46", "final_pred": "professional wrestler", "EM": "0", "F1": "0.4444444444444445"}
+{"qid": "5a7c290c5542990527d55468", "final_pred": "1 of the 50 U.S. states. Step 4: Eliminate impossible", "EM": "0", "F1": "0"}
+{"qid": "5a876f785542993e715abf42", "final_pred": "John Carpenter", "EM": "0", "F1": "0"}
+{"qid": "5ae1e6d95542997283cd22c3", "final_pred": "screenwriter", "EM": "0", "F1": "0"}
+{"qid": "5ae10df355429920d52342ac", "final_pred": "Australia", "EM": "0", "F1": "0"}
+{"qid": "5ae4d8475542993aec5ec0e0", "final_pred": "Giuseppe Verdi", "EM": "1", "F1": "1.0"}
+{"qid": "5ab94cf0554299743d22eade", "final_pred": "Pensacola, Florida", "EM": "0", "F1": "0"}
+{"qid": "5ae479745542996836b02cb1", "final_pred": "Sex Drive", "EM": "1", "F1": "1.0"}
+{"qid": "5a852cd05542997b5ce3ffb0", "final_pred": "Bay of Fundy", "EM": "1", "F1": "1.0"}
+{"qid": "5a8babf05542996e8ac8899e", "final_pred": "neither", "EM": "0", "F1": "0"}
+{"qid": "5a82fcbd55429954d2e2ebe8", "final_pred": "Krystian Zimerman", "EM": "0", "F1": "0"}
+{"qid": "5a77c60255429967ab105285", "final_pred": "direct scattering and inverse scattering", "EM": "0", "F1": "0.8333333333333333"}
+{"qid": "5adf39ce5542995534e8c76d", "final_pred": "theatre performances", "EM": "0", "F1": "0.5"}
+{"qid": "5ae694a15542991bbc976141", "final_pred": "it serves as a strategic health authority (SHA) for the region", "EM": "0", "F1": "0"}
+{"qid": "5ae13bca55429901ffe4ae17", "final_pred": "Debbie Harry", "EM": "1", "F1": "1.0"}
+{"qid": "5a8a265b5542992d82986ecc", "final_pred": "1. Step 2: Now, let's look at Ian Schneider's work experience", "EM": "0", "F1": "0"}
+{"qid": "5a77121a5542994aec3b71db", "final_pred": "The Boatniks", "EM": "0", "F1": "0.11764705882352941"}
+{"qid": "5ae6911955429908198fa626", "final_pred": "Paris Hilton", "EM": "0", "F1": "0"}
+{"qid": "5ae53de455429908b6326599", "final_pred": "Ohio River", "EM": "0", "F1": "0.5"}
+{"qid": "5a813b6f55429903bc27b951", "final_pred": "Euophryini", "EM": "0", "F1": "0"}
+{"qid": "5a84b4005542991dd0999d99", "final_pred": "2015", "EM": "0", "F1": "0.5"}
+{"qid": "5a8cca64554299653c1aa125", "final_pred": "the British Army", "EM": "1", "F1": "1.0"}
+{"qid": "5ab8ed305542991b5579f046", "final_pred": "the United States of America", "EM": "1", "F1": "1.0"}
+{"qid": "5ae0b2f25542993d6555ec1c", "final_pred": "pottery", "EM": "0", "F1": "0"}
+{"qid": "5ae207a65542994d89d5b317", "final_pred": "Oplismenus", "EM": "1", "F1": "1.0"}
+{"qid": "5a75383a5542996c70cfaeb3", "final_pred": "Step 2: Determine which of the two was born first.\n\nU", "EM": "0", "F1": "0"}
+{"qid": "5ae3fd2c5542995dadf2428f", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5abffd10554299012d1db556", "final_pred": "Valtellina", "EM": "0", "F1": "0"}
+{"qid": "5a8f812755429918e830d245", "final_pred": "former chairman", "EM": "0", "F1": "0"}
+{"qid": "5ae520315542993aec5ec152", "final_pred": "Taylor Swift", "EM": "1", "F1": "1.0"}
+{"qid": "5a7631cd5542994ccc91870c", "final_pred": "New York City", "EM": "0", "F1": "0.3333333333333333"}
+{"qid": "5ac26eed55429951e9e685bf", "final_pred": "McClain County, Oklahoma", "EM": "0", "F1": "0"}
+{"qid": "5a7e37095542995ed0d166d5", "final_pred": "Sinclair Hill", "EM": "1", "F1": "1.0"}
+{"qid": "5adf72d35542992d7e9f9369", "final_pred": "yes", "EM": "0", "F1": "0"}
+{"qid": "5a876b265542993e715abf33", "final_pred": "Joe Gooch", "EM": "0", "F1": "0"}
+{"qid": "5a77ddb855429967ab1052d8", "final_pred": "Cyndi Lauper", "EM": "0", "F1": "0.5714285714285715"}
+{"qid": "5adcc3ed5542994d58a2f6c4", "final_pred": "the \"First Family of Competitive Eating\"", "EM": "1", "F1": "1.0"}
+{"qid": "5a76f5b155429972597f1400", "final_pred": "composer and minimal music", "EM": "0", "F1": "0"}
+{"qid": "5ae2c696554299495565db32", "final_pred": "Earldom of Strathearn", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "5a875154554299211dda2be7", "final_pred": "Sherwood Cryer", "EM": "0", "F1": "0"}
+{"qid": "5a84cf175542992a431d1aa2", "final_pred": "2. Ratatat has more constant members than Lilys", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "5ae675245542991bbc9760dc", "final_pred": "\"not mentioned\"", "EM": "0", "F1": "0"}
+{"qid": "5a80b0565542996402f6a5f0", "final_pred": "Adorable", "EM": "1", "F1": "1.0"}
+{"qid": "5adde3a45542997545bbbdc2", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5ac26b7f55429951e9e685ae", "final_pred": "a combination of various genres.\n\nStep 2: Of the genres listed, house", "EM": "0", "F1": "0"}
+{"qid": "5adf39295542992d7e9f92df", "final_pred": "Apium", "EM": "1", "F1": "1.0"}
+{"qid": "5abc19705542993a06baf86e", "final_pred": "Mr", "EM": "0", "F1": "0"}
+{"qid": "5ae6914755429908198fa627", "final_pred": "July", "EM": "0", "F1": "0"}
+{"qid": "5adc9b7a5542994d58a2f679", "final_pred": "The United States.\n", "EM": "0", "F1": "0"}
+{"qid": "5a721dfd55429971e9dc928b", "final_pred": "20.\n\n#3. Were both Lonny and Allure founded in the", "EM": "0", "F1": "0"}
+{"qid": "5a8b50475542997f31a41cd4", "final_pred": "Hong Kong International Martial Arts Tournament", "EM": "0", "F1": "0.2222222222222222"}
+{"qid": "5a860aa6554299211dda2a45", "final_pred": "The New York Enterprise Report", "EM": "1", "F1": "1.0"}
+{"qid": "5ae4585c5542996836b02c89", "final_pred": "Live", "EM": "1", "F1": "1.0"}
+{"qid": "5adfcb5455429906c02daa48", "final_pred": "Father Dougal McGuire", "EM": "1", "F1": "1.0"}
+{"qid": "5a77a41a5542997042120ab9", "final_pred": "none", "EM": "0", "F1": "0"}
+{"qid": "5a8759395542994775f607e0", "final_pred": "Joel Coen", "EM": "0", "F1": "0.8"}
+{"qid": "5a84992e5542992a431d1a6d", "final_pred": "Boyd Gaming", "EM": "1", "F1": "1.0"}
+{"qid": "5ac1bce45542994ab5c67def", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5ac0641f554299294b218fbe", "final_pred": "3", "EM": "0", "F1": "0"}
+{"qid": "5a87954f5542996e4f308856", "final_pred": "Epigae", "EM": "0", "F1": "0"}
+{"qid": "5a8bc03d5542996e8ac88a0b", "final_pred": "LBK", "EM": "0", "F1": "0"}
+{"qid": "5ab8869155429916710eb081", "final_pred": "Boeing EA-18G Growler", "EM": "1", "F1": "1.0"}
+{"qid": "5adde17f5542992200553b87", "final_pred": "Washington Wizards", "EM": "0", "F1": "0"}
+{"qid": "5a776ac75542993569682d9b", "final_pred": "Daniel Patrick Moynihan", "EM": "0", "F1": "0.8571428571428571"}
+{"qid": "5ae70ed7554299572ea546a1", "final_pred": "Charlie Murphy", "EM": "1", "F1": "1.0"}
+{"qid": "5ae1fbf05542997f29b3c1e7", "final_pred": "1968", "EM": "0", "F1": "0"}
+{"qid": "5ac1c9a15542994ab5c67e1c", "final_pred": "13,174,554", "EM": "0", "F1": "0"}
+{"qid": "5a77c8905542995d831812ce", "final_pred": "Levi Weeks", "EM": "1", "F1": "1.0"}
+{"qid": "5a89f68f5542992e4fca84b6", "final_pred": "Governor", "EM": "0", "F1": "0"}
+{"qid": "5a7f62405542992e7d278cf0", "final_pred": "Faber and Faber", "EM": "0", "F1": "0"}
+{"qid": "5a7ca4485542990527d554f1", "final_pred": "N/A (Not Available)", "EM": "0", "F1": "0"}
+{"qid": "5a8347d65542996488c2e3f6", "final_pred": "Kurt Russell", "EM": "1", "F1": "1.0"}
+{"qid": "5ab8634e5542990e739ec8de", "final_pred": "Efficient Market Hypothesis (EMH)", "EM": "0", "F1": "0"}
+{"qid": "5ab85e9e55429934fafe6d8b", "final_pred": "1961", "EM": "0", "F1": "0"}
+{"qid": "5a79c9c05542994bb94570a5", "final_pred": "20.\n", "EM": "0", "F1": "0"}
+{"qid": "5a8c616f5542995e66a475de", "final_pred": "404.\n\nAnswer: 404", "EM": "0", "F1": "0"}
+{"qid": "5ab90fdd55429916710eb0fc", "final_pred": "Massachusetts", "EM": "0", "F1": "0"}
+{"qid": "5abe7f695542993f32c2a12d", "final_pred": "Superboy", "EM": "0", "F1": "0"}
+{"qid": "5abeb0da5542997ec76fd34b", "final_pred": "no", "EM": "0", "F1": "0"}
+{"qid": "5a7521c55542993748c897c6", "final_pred": "Burwash", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5adfda5255429942ec259b5e", "final_pred": "Goodhue County", "EM": "0", "F1": "0"}
+{"qid": "5abaeda95542992ccd8e7e5d", "final_pred": "Puente Hills Mall", "EM": "0", "F1": "0.28571428571428575"}
+{"qid": "5ae68e0055429908198fa607", "final_pred": "British films", "EM": "0", "F1": "0"}
+{"qid": "5a7577785542992d0ec05fa0", "final_pred": "Tatton Park", "EM": "1", "F1": "1.0"}
+{"qid": "5a7d147955429909bec76942", "final_pred": "Elke Sommer", "EM": "0", "F1": "0"}
+{"qid": "5a83a2a15542993344746063", "final_pred": "1889", "EM": "0", "F1": "0"}
+{"qid": "5ac079e9554299294b218fff", "final_pred": "Royal Navy", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5adca8375542990d50227cd4", "final_pred": "2003", "EM": "0", "F1": "0"}
+{"qid": "5add4f3a5542997545bbbd2c", "final_pred": "Lord's Resistance Movement", "EM": "0", "F1": "0"}
+{"qid": "5ae26cb15542994d89d5b421", "final_pred": "September 30, 2009", "EM": "1", "F1": "1.0"}
+{"qid": "5a73cad5554299623ed4ac5e", "final_pred": "Kevin Costner", "EM": "0", "F1": "0"}
+{"qid": "5ae0d5335542990adbacf674", "final_pred": "Conan O'Brien", "EM": "0", "F1": "0"}
+{"qid": "5ab344fc55429969a97a811e", "final_pred": "1. Vodka.\n\nSidecar Ingredients:\n\n1. Cogn", "EM": "0", "F1": "0"}
+{"qid": "5ae1319c55429920d5234301", "final_pred": "Born to Dance", "EM": "0", "F1": "0"}
+{"qid": "5abee41a5542993fe9a41d79", "final_pred": "dirt track racing", "EM": "1", "F1": "1.0"}
+{"qid": "5a7daad55542995f4f4022b7", "final_pred": "1580", "EM": "0", "F1": "0"}
+{"qid": "5a8ff6635542995651fb5086", "final_pred": "Bearno's currently has more store locations than Patxi's Chicago Pizza", "EM": "0", "F1": "0.33333333333333337"}
+{"qid": "5ae3c0cc5542992f92d82369", "final_pred": "1957", "EM": "1", "F1": "1.0"}
+{"qid": "5a8485fa5542992a431d1a41", "final_pred": "no one", "EM": "0", "F1": "0"}
+{"qid": "5ae1389655429901ffe4ae05", "final_pred": "the Southern State Parkway", "EM": "1", "F1": "1.0"}
+{"qid": "5a7b73ad5542997c3ec9718c", "final_pred": "action films", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a7a68d25542996c55b2dd98", "final_pred": "great-uncle", "EM": "0", "F1": "0"}
+{"qid": "5ae2bb545542992decbdcd88", "final_pred": "annually", "EM": "0", "F1": "0"}
+{"qid": "5a8f47a55542997ba9cb3219", "final_pred": "Spam", "EM": "1", "F1": "1.0"}
+{"qid": "5ab1ebff5542993be8fa9882", "final_pred": "Eustoma. The common name of Eustoma is longer than the common name of Myrt", "EM": "0", "F1": "0.15384615384615385"}
+{"qid": "5a7fd7305542992e7d278dc2", "final_pred": "Looney Tunes cartoons", "EM": "0", "F1": "0"}
+{"qid": "5abb8aaf5542993f40c73b1c", "final_pred": "Toronto", "EM": "0", "F1": "0"}
+{"qid": "5abba584554299642a094afa", "final_pred": "1,925", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5a804510554299485f5985af", "final_pred": "Nicolas Vanier", "EM": "1", "F1": "1.0"}
+{"qid": "5abb11c15542992ccd8e7ef8", "final_pred": "March 30, 2025", "EM": "1", "F1": "1.0"}
+{"qid": "5ae376a35542990afbd1e163", "final_pred": "yes", "EM": "1", "F1": "1.0"}
+{"qid": "5adc5b875542996e68525328", "final_pred": "2003", "EM": "0", "F1": "0"}
+{"qid": "5ae6b6065542991bbc976168", "final_pred": "Jean-Claude Van Damme", "EM": "0", "F1": "0"}
+{"qid": "5a79d2fe5542994f819ef0c3", "final_pred": "Arthur Lubin", "EM": "0", "F1": "0"}
+{"qid": "5ab38cdd5542992ade7c6de2", "final_pred": "John Lennon", "EM": "1", "F1": "1.0"}
+{"qid": "5ae73d235542991e8301cc29", "final_pred": "Free Range Films", "EM": "1", "F1": "1.0"}
+{"qid": "5a7a33205542996a35c1712f", "final_pred": "1 and 2. Step 2: Identify the British proprietary colony that became a", "EM": "0", "F1": "0"}
+{"qid": "5a799dfb5542994bb9457029", "final_pred": "the 1983 Nissan/Datsun-sponsored race", "EM": "0", "F1": "0"}
+{"qid": "5a71095e5542994082a3e4f3", "final_pred": "David Dunn", "EM": "1", "F1": "1.0"}
+{"qid": "5aba77be55429955dce3ee44", "final_pred": "3000 minutes or 50 degrees south of the equator", "EM": "0", "F1": "0"}
+{"qid": "5a8af94455429971feec45b6", "final_pred": "2007", "EM": "0", "F1": "0.6666666666666666"}
+{"qid": "5abcedb355429959677d6b4f", "final_pred": "Lee Grant", "EM": "0", "F1": "0"}
+{"qid": "5a713dcb5542994082a3e6d9", "final_pred": "research, specifically laser research", "EM": "0", "F1": "0"}
+{"qid": "5ae383e15542992f92d822fb", "final_pred": "Heavyweights", "EM": "1", "F1": "1.0"}
+{"qid": "5a85df525542994c784ddb9f", "final_pred": "Anne Sweeney", "EM": "0", "F1": "0"}
+{"qid": "5a9030ef5542995651fb50e4", "final_pred": "college football", "EM": "0", "F1": "0.5"}
+{"qid": "5a8a2d2155429930ff3c0cdc", "final_pred": "the Academy Award for Best Animated Feature", "EM": "1", "F1": "1.0"}
+{"qid": "5a88fa9e5542993b751ca8de", "final_pred": "the Oklahoma Sooners", "EM": "0", "F1": "0"}
+{"qid": "5ae7882b554299540e5a55dd", "final_pred": "scout", "EM": "0", "F1": "0"}
+{"qid": "5a81dacc55429926c1cdada0", "final_pred": "William Shakespeare, who wrote the play that was adapted into a film and featured the orchestral arrangement", "EM": "0", "F1": "0.25"}
+{"qid": "5ab322b1554299194fa93570", "final_pred": "Mary Poppins", "EM": "0", "F1": "0"}
+{"qid": "5a8a764555429930ff3c0de1", "final_pred": "born in the 21st century", "EM": "0", "F1": "0"}
+{"qid": "5a8d93bf554299068b959d46", "final_pred": "no", "EM": "1", "F1": "1.0"}
+{"qid": "5abf04ae5542993fe9a41dbf", "final_pred": "using a bow to create sound", "EM": "0", "F1": "0"}

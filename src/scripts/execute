@@ -6,9 +6,25 @@ run_and_eval() {
     local intolerance=$3
 
     config_path="../config/${model}/${dataset}/draginus.json"
-    result_path="../result/$(echo "${model}" | tr '[:upper:]' '[:lower:]' | tr '-' '_')_$(echo "${dataset}" | tr '[:upper:]' '[:lower:]')/0"
+    #result_path="../result/$(echo "${model}" | tr '[:upper:]' '[:lower:]' | tr '-' '_')_$(echo "${dataset}" | tr '[:upper:]' '[:lower:]')/0"
 
     python3 main.py -c "${config_path}" -i ${intolerance}
-    python3 evaluate.py --dir "${result_path}"
+    #python3 evaluate.py --dir "${result_path}"
 }
 
+run_script() {
+    local model=$1
+    local dataset=$2
+    local intolerance=$3
+    config_path="../config/${model}/${dataset}/draginus.json"
+    python3 main.py -c "${config_path}" -i ${intolerance}
+}
+
+eval_script() {
+    local model=$1
+    local dataset=$2
+    local intolerance=$3
+    local numFile=$4
+    result_path="../result/$(echo "${model}" | tr '[:upper:]' '[:lower:]' | tr '-' '_')_$(echo "${dataset}" | tr '[:upper:]' '[:lower:]')/${numFile}"
+    python3 evaluate.py --dir "${result_path}"
+}
